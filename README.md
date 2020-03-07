@@ -1,1 +1,1 @@
-This respiratory contains all the codes related to pandas
+This repository contains all the codes related to pandas
