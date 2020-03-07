@@ -1,2 +1,1 @@
-# Pandas
-This respiratory contains all the codes relatedto pandas
+This respiratory contains all the codes related to pandas
