@@ -1,0 +1,107 @@
+task_id,type,task_name,module_id,task_details,qualities,total
+1,Task,"Linkedin Profile create/update",1,"A good Linkedin profile might look like this https://www.linkedin.com/in/suprabhatdas/
+Even if you don't have data points at this point in time, you should least try to form the skeleton of the profile
+Marking:
+Intent showed: 4
+Creativity applied: 3
+Content quality: 3","Intent, Creativity,Content",10
+2,Task,"Blog on Machine Learning and it's impact",2,"First, you have to explain ML as if you are explaining it to a 5-year-old, then you have to take some examples of companies( like facebook)/organisations( like government)/communities( like Bollywood)/institutions( like ISRO) have utilized ML to transform our lives. And then publish it on your medium account.
+
+Marking Scheme:
+Understanding of the topic( like the explanation part) - 5
+Quality of examples used - 10
+Creativity in approach - 5
+Language - 3
+Conclusion - 2
+
+Note: No word limit
+
+Prize - The best article post will be published on CampusX's official medium blog :)","Knowledge,Understanding,Communication,Analytical Ability",25
+3,Task,"Blog on Different data based job roles",2,"I would recommend doing proper research on the topic. Examples would be critical in order to write a good blog post. Try to provide real/business life scenarios that these people face during their day to day job. You can also point out similarities as well as differences on points like salary, growth, tech used, skills and many other things. And lastly, publish this blog on your medium profile.
+
+Pro Tip 1: Images, graphs, and visual material enhance the readability of your blog.
+Pro Tip 2: You can experiment with the heading/title of your blog.
+
+Marking Scheme:
+Understanding of the topic( like the explanation part) - 5
+Quality of examples used - 10
+Creativity in approach - 5
+Language - 3
+Conclusion - 2","Knowledge,Understanding,Communication,Analytical Ability",25
+4,Task,"Portfolio home page",1,"The home section will have an informal sort of introduction of yours. The idea is that after scrolling through the page the visitor should have a fair of what kind of person are you. Now there is a lot of scope for imagination but there are certain things that you should add, like an introductory paragraph about you, few key adjectives that can define you, your beliefs, etc. You have to publish the website and submit the link in google classroom
+
+I will grade you based on the following criteria:
+1. Creativity in approach: 5
+2. Design Sense: 5
+3. Content used: 5","sincerity,Creativity,Design-sense,Writing",15
+5,Task,"Video Resume",1,"Don't get too technical with the details, the idea is to introduce yourself in front of a stranger. You can include things like your name, native place, one line about your education, your interests( do mention data science), why you will be a good fit for any company, you can talk about your aspirations, your beliefs, etc.
+
+Pro Tip: Smile.
+
+You have to upload the video to your YouTube channel and submit the link for the same.
+
+Grading:
+Confidence: 5
+Content: 5
+Language: 5
+Video quality( editing and stuff): 5","Creativity,Communication,Intent,Confidence",20
+6,Task,"Online Resume",1,"You have to add a resume page to your portfolio website. Basically, it would be an online version of your CV/resume. Please make sure you put your Video Resume from Task #5 on top of this page.
+
+Resume Design/Template used - 5
+Information presentation style - 5
+Content - 5
+Creativity - 5","Creativity,Intent,sincerity",20
+7,Task,"Blog and Project Pages",1,"You have to add 2 more pages to your 'Portfolio Website'. The Blogs section and the Projects section.
+
+1. The Blog page will contain a list of all your blogs and a one-line description of that particular blog. It will then have a button( Read more) which will redirect your user to medium.com
+2. Similar to the Blog page the Project page will also have a list of projects done by you. A one-line description of the project and button which will redirect the user to the projects Github Page( which we will create later)
+
+Marking Scheme:
+Design: 5
+Content: 5","Creativity, Intent",10
+8,Task,"Github Profile Creation",1,"You have to create your Github profile and upload at least 1 project with it's readme file
+
+Follow the video that has been shared.","Sincerity,Hard-work",10
+9,Task,"Blog on Data Analysis Process",4,"You have to write a blog describing the The Data Analysis process
+
+You will write this by using the Titanic dataset. For every step of the data analysis process, you will examples from the titanic dataset. This will form a clear idea in the mind of your readers.
+
+Point to remember: This time your task is not to predict who is going to survive, but to do an analysis on the dataset
+
+Grading:
+Asking Question: 5
+Data Wrangling: 5
+Analysis: 5
+Conclusion: 5
+Communication: 5
+Language: 5","Analysis, communication, sincerity",30
+10,Task,"PPT Submission",3,"Submit the first draft of your ppt for Sunday's event",Diligence,5
+11,Task,"Startup/Countries dataset",4,"You have to do a data analysis on one of the following data-sets
+1. Countries of the World: https://www.kaggle.com/fernandol/countries-of-the-world
+2. Indian Startup Funding: https://www.kaggle.com/sudalairajkumar/indian-startup-funding","Analytical sense, writing ability",50
+12,Task,"Web Scraping",4,"Create a dataframe by web scraping IMDB top 250 data.
+
+Create a jupyter notebook for the task and upload it to Github as well.
+Submission: Submit the link of the Github file
+Scoring:
+Code Quality: 5
+Github: 5","Coding skills",10
+13,Task,"Fetching data from an API",4,"In this small task you have to fetch data from an API( you have to first understand what is an API) and convert it into a pandas dataframe.",Coding,15
+14,Task,"Batsman Vs Bowler",2,"Here is a very interesting task for you...
+Remember the IPL wala data-set, using that data-set you have to create a function which can compare a batsman and a bowler and tell which one of them is a better T20 player.","Analytical Skills, Statistics",20
+16,Task,"You have to Data Analysis on Stackoverflow dataset",4,"1. For this code, you will do your entire analysis on kaggle.com, for reference see the attached video. 2. Once you complete writing code on kaggle.com you have to download the .ipynb notebook and upload it to your Github profile along with a descriptive readme file. 3. Then using your analysis you have to write a medium article by the name of "The Future of Software industry: A look into the current trends". Note that your write-up should justify the heading. 4. Submission format: You have to submit all 3 links( kaggle, Github, medium)  Marking Scheme: Kaggle Workflow: 5 Analysis Quality: 20 Github Workflow: 5 Article quality: 10  Important Note: During the analysis, you have to follow the same format that has been taught for Data Preprocessing step( e.g that 45 min video) and EDA.",Analysis,40
+17,Task,"Create a Tableau Dashboard using the OLIST Dataset",1,"Marking Scheme Quality of analysis : 15 and use of Tableau public : 5",Analysis,20
+18,Assignment,"Find accuracy of IRIS dataset using KNN and also plot the decision boundary",2,"You have to create a Knn classifier on the Iris dataset and calculate the accuracy of your classifier. After that you have to create the decision boundary diagram of the classifier.",Intelligence,10
+19,Project,"Titanic survival challenge ",3,"You have to participate in the kaggle Titianic survival challenge ","Analysis, Creativity ",25
+20,Task,"Create a Postgres Database using the recipe dataset",2,https://www.kaggle.com/kaggle/recipe-ingredients-dataset,"Inteligence,Analytical",10
+21,Task,"ML #2 Task #1 Making the html pages for ",4,"You have to create 2 html pages for your Milestone project ","Dedication, design sense",10
+22,Task,"ML #2 Task #2 Create schema of Milestone project on AWS RDS",4,"Generate schema of your Milestone project.",Intent,10
+23,Task,"Video Resume",1,"You have to make a video resume for yourself",Intent,20
+24,Task,"Flask app on AWS Beanstalk",2,"Create a flask app and upload it on AWS Beanstalk",Diligence,10
+25,Task,"ML#2 Task #4 Add login and registration functionality ",2,"You have to add login and registration functionality to your project ","Diligence, Hardwork",15
+26,Assignment,"Numpy Assignment 1",2,"Replicate the linspace function in numpy",Diligence,10
+27,Assignment,"Numpy Assignment 2",2,"Solve the 5 questions related to Numpy","Diligence, Effiecient",10
+28,Task,"Task on SQL queries",2,"Solve the given queries in a table","Diligence, Efficiency",10
+29,Assignment,"Numpy Assignment 3",2,"Solve the 5 questions related to Numpy","Diligence, Efficiency",10
+30,Assignment,"Numpy Assignment 4",2,"Solve the questions related to Numpy","Diligence, Efficiency",10
+31,Quiz/Assessment,"Numpy Assessment",2,"Numpy Assesment",Diligence,30

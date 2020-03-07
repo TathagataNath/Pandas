@@ -1,0 +1,39 @@
+content_id,course_id,batch_id,content_type,content_name,url
+5,1,3,Video,"Introduction to Numpy",https://www.youtube.com/watch?v=CpPLLp3snK4
+6,1,3,Video,"Installing Jupyter Notebook",https://www.youtube.com/watch?v=r7SmXZEtB0I
+7,1,3,Video,"Creating Numpy Arrays",https://www.youtube.com/watch?v=9TKpRnoEb5s
+8,1,3,Task,"Assignment 1 - Numpy",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTExMzY0MDYxMTJa/details
+10,1,3,Video,"Numpy - Important Attributes",https://www.youtube.com/watch?v=ikx70DFC2T8
+11,1,3,Video,"Numpy Arrays V Python Lists",https://www.youtube.com/watch?v=f7mcmDm7QFs
+12,1,3,Video,"Indexing, Slicing & Iteration",https://www.youtube.com/watch?v=WUcwaevTlAk
+13,1,3,Task,"Assignment 2 - Numpy",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTEzODc0OTA5NzRa/details
+14,1,3,Video,"Numpy Operations",https://www.youtube.com/watch?v=7VVZIkCcTHU
+15,1,3,Video,"Reshaping Numpy Arrays",https://www.youtube.com/watch?v=_1iVPLntjLQ
+16,1,3,Video,"Fancy Indexing",https://www.youtube.com/watch?v=ilqFp9KHW98
+17,1,3,Task,"Assignment 3",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTE1MzM0NzM2NTJa/details
+18,1,3,Video,"Indexing with Numpy Arrays",https://www.youtube.com/watch?v=xqF-xqTDbQk
+19,1,3,Video,"Plotting Graphs ",https://www.youtube.com/watch?v=cm1wja3OLc4
+20,1,3,Video,Broadcasting,https://www.youtube.com/watch?v=LaKAA7Z84so
+21,1,3,Task,"Assignment 4",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTE4OTU5Nzg5NDZa/details
+22,1,3,Video,"Some Important Functions",https://www.youtube.com/watch?v=-h8iXf1Lw6c
+23,2,3,Video,"Intro to Pandas",https://www.youtube.com/watch?v=kq9Vmg5d7Sk
+24,2,3,Video,"Importing Data",https://www.youtube.com/watch?v=8ZUfMoVTQWk
+25,2,3,Video,"Important Attributes and Functions",https://www.youtube.com/watch?v=VZppgndl37A
+26,2,3,Video,"Fetching row and cols",https://www.youtube.com/watch?v=gGaZCSvuMGA
+27,2,3,Video,"Filtering data on a given condition",https://www.youtube.com/watch?v=jldb3d-_WIw
+28,2,3,Video,"The value_counts() function",https://www.youtube.com/watch?v=-FLYZFOV_Nw
+29,2,3,Video,"The plot() function",https://www.youtube.com/watch?v=gRjVsiK4OHQ
+30,2,3,Video,"Operations on series",https://www.youtube.com/watch?v=KoB-nvqywLM
+31,2,3,Video,"The sort_values() function",https://www.youtube.com/watch?v=KbkJ7mhKgC4
+32,2,3,Task,"Assignment 1",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTE5OTAyMjgzODRa/details
+33,1,3,Assessment,"Final Assessment",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTIwNzIzOTY0MTRa/details
+34,2,3,Task,"Assignment 2",https://classroom.google.com/u/1/c/NTAwMjkyMjg2ODBa/a/NTIzMDMwNDIwNzJa/details
+35,3,2,Video,"Geometric Intution",https://www.youtube.com/watch?v=BYaoDZM1IcU
+36,3,2,Video,"Working with a real world dataset",https://www.youtube.com/watch?v=YbcLYbKDm0Q
+37,3,2,Video,"Working with a real world dataset Part-2",https://www.youtube.com/watch?v=OL2DnRyUZuA
+38,2,3,Video,"The drop_duplicates() function",https://www.youtube.com/watch?v=YfOsU9xqCqY
+39,2,3,Video,"The Groupby Function",https://www.youtube.com/watch?v=OoKUc6VD5dU
+40,2,3,Video,"The Groupby Function Part-2",https://www.youtube.com/watch?v=exelwvB46DU
+41,2,3,Video,"The rename function",https://www.youtube.com/watch?v=9r3jtLK6Xg0
+42,2,3,Video,"The isin() function",https://www.youtube.com/watch?v=CliTLOc1glM
+43,2,3,Video,"The isin() function",https://www.youtube.com/watch?v=CliTLOc1glM

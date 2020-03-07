@@ -1,0 +1,1398 @@
+myday_id,user_id,entry_date,entry
+1,14,2020-01-06,NULL
+2,15,2020-01-06,NULL
+3,18,2020-01-06,NULL
+4,21,2020-01-06,NULL
+5,2,2020-01-06,NULL
+6,11,2020-01-06,NULL
+7,5,2020-01-06,NULL
+8,6,2020-01-06,NULL
+9,21,2020-01-07,NULL
+10,18,2020-01-07,NULL
+11,11,2020-01-07,NULL
+12,19,2020-01-07,NULL
+13,12,2020-01-07,NULL
+14,14,2020-01-08,NULL
+15,2,2020-01-08,NULL
+16,5,2020-01-08,NULL
+17,21,2020-01-08,NULL
+18,12,2020-01-08,NULL
+19,18,2020-01-08,NULL
+20,2,2020-01-09,NULL
+21,6,2020-01-09,NULL
+22,15,2020-01-09,NULL
+23,14,2020-01-09,NULL
+24,5,2020-01-09,NULL
+25,21,2020-01-09,NULL
+26,18,2020-01-09,NULL
+27,17,2020-01-10,NULL
+28,5,2020-01-10,NULL
+29,6,2020-01-10,NULL
+30,14,2020-01-10,NULL
+31,21,2020-01-10,NULL
+32,15,2020-01-10,NULL
+33,18,2020-01-11,NULL
+34,6,2020-01-11,NULL
+35,5,2020-01-11,NULL
+36,14,2020-01-11,NULL
+37,21,2020-01-11,NULL
+38,15,2020-01-11,NULL
+39,11,2020-01-11,NULL
+40,12,2020-01-11,NULL
+46,8,2020-01-12,"went K c das and outing"
+47,9,2020-01-12,"watched Movies"
+48,14,2020-01-12,"12/01
+1. Data Engineering class
+"
+49,15,2020-01-12,"1.Data Engineering class
+2. Made a video of basics of Amazon RDS which is gonna be uploaded soon by sir
+3. Decision Trees"
+50,6,2020-01-12,"12/01/20
+1. Preparing for last semester exam 
+2. Nothing else"
+51,18,2020-01-12,"12/01
+Studying for sems."
+52,5,2020-01-12,"1. Data Engineering class 2. Did nothing else"
+53,12,2020-01-12,"Last exam preparation."
+54,11,2020-01-12,"Attended today's session
+Nothing else"
+55,1,2020-01-13,"Videos 
+Java tutorial"
+56,8,2020-01-13,"college 
+"
+57,18,2020-01-13,"13/1
+Gave exam.
+Slept.
+Will read a book."
+58,21,2020-01-13,"12/01/2020
+1. Went for offline session
+2. Submitted assignment"
+59,5,2020-01-13,"Went to college. Updated Resume for college purpose."
+60,15,2020-01-13,"Went to college
+Gym
+Updating Resume for college purpose"
+61,6,2020-01-13,"13/01/20
+1. Went to college
+2. Gave the semester exam
+3. Now doing decision tree assignments"
+62,19,2020-01-13,"Didn't did anything fruitful , will start studying ."
+63,14,2020-01-13,"13/01
+1. college
+2. updated resume
+3. went through some points for GD"
+64,12,2020-01-13,"Finally, exams are completed.
+Party to banta hai."
+65,16,2020-01-13,"Exams done..... finally......
+Nothing productive....."
+66,17,2020-01-13,"Internship Work
+Studying
+Some Web Development"
+67,11,2020-01-13,"Went to college
+Updated resume"
+68,15,2020-01-14,"college.
+gym.
+work.
+"
+69,20,2020-01-14,"1. Went to bank
+2. Revised bit of Operating System
+3. Working on titanic dataset.
+"
+70,21,2020-01-14,"14/01
+
+1. went to college
+2. Doing assignment"
+71,9,2020-01-14,College
+72,14,2020-01-14,"14/01
+1. college
+2. doing decision tree assignments"
+73,8,2020-01-14,"college
+watching decision tree videos"
+74,6,2020-01-14,"14/01/20
+1. Worked on titanic dataset
+2. Completed task 18 & submitted"
+75,18,2020-01-14,"14/1
+Attended an invitation.Saw the decision tree videos."
+76,5,2020-01-14,"Went to college. Watched videos for assignment 6"
+77,11,2020-01-14,"Went to college
+Watched some videos"
+78,17,2020-01-14,"Internship Work
+DBMS
+Study"
+79,6,2020-01-15,"1. Completed & submitted titanic Competition work
+2. Watched video on AWS & database
+3. Now working on task 19"
+80,21,2020-01-15,"15/01
+Went to college
+Watched the video
+Will study a bit"
+81,14,2020-01-15,"15/01
+1. college
+2. completed lab file
+3. completed college assignments"
+82,3,2020-01-15,"college. andrew ng NN started. decision tree all videos. few assignments."
+83,17,2020-01-15,"Study
+Internship Work
+ML Videos"
+84,8,2020-01-15,"college
+watched decision tree video"
+85,11,2020-01-15,"Went to college"
+86,9,2020-01-16,College
+87,17,2020-01-16,"Study for exam
+"
+88,15,2020-01-16,"College
+Gym
+Task 19
+"
+89,8,2020-01-16,"college
+movie
+working on desicion tree vid and task"
+90,38,2020-01-16,"watched lectures"
+91,21,2020-01-16,"16/01
+
+1. Went to college
+2. Working on Titanic dataset"
+92,14,2020-01-16,"1. college
+2. sick"
+93,35,2020-01-16,"Read a few articles on machine learning
+Revised the previous topics
+College work"
+94,39,2020-01-16,"Revised the previous topics"
+95,43,2020-01-16,"Revised previous topics ."
+96,6,2020-01-16,"1. Watched videos on decision tree 
+2. Doing the pending assignments"
+97,52,2020-01-16,"Read articles on web design 
+watched lectures
+looking to Revise previous topics"
+98,18,2020-01-16,"16/1
+AWS videos and task."
+99,5,2020-01-16,"Went to college. Did some coding practice. "
+100,11,2020-01-16,"Went to college
+Completed lab files"
+101,49,2020-01-17,"Working on JavaScript "
+102,5,2020-01-17,"Went to college. Watched videos for Task 17"
+103,18,2020-01-17,"17/1
+1.Working on PostgreSQL
+2.India vs. Australia match."
+104,8,2020-01-17,"college
+watched vid
+movie"
+105,6,2020-01-17,"1. Went to a friend's house
+2. Working on a project for SIH 
+3. Doing assignments 6,7 "
+106,14,2020-01-17,"1. college
+2. watched videos
+3. completing pending assignments"
+107,15,2020-01-17,"College
+Treat of friend
+Personal work
+Just got back home "
+108,40,2020-01-17,"Working in a RC Plane for an upcoming fest (Technex). 
+Read an article on AI that how it can be implemented in the coming generations to take the decisions on court judgments.  Watched the vedio lecture of CampusX Website Launch."
+109,17,2020-01-17,"Had Exam
+Study
+Sleep"
+110,21,2020-01-17,"17/01
+
+went to IAM fest for chess
+working on AWS"
+111,52,2020-01-17,"revising previous topics
+done some data scrapping"
+112,12,2020-01-17,"Blood Donation Camp at college."
+113,41,2020-01-17,"Chicken party with friends"
+114,11,2020-01-18,"Went to college"
+115,25,2020-01-18,"watched videos on portfolio making.."
+116,35,2020-01-18,"Watched lectures on google sites
+College works
+Read a chapter of Dark Matter"
+117,38,2020-01-18,"Revised the previous topics
+work on a new website"
+118,43,2020-01-18,"worked on portfolio website"
+119,18,2020-01-18,"18/1
+1.Went to a relative's house.
+2. Read a book.
+3. Still working on PostgreSQL."
+120,29,2020-01-18,"Watched Data analytics first video. 
+Portfolio website in progress. "
+121,21,2020-01-18,"18/01
+
+Did the titanic survey
+college assignments
+"
+122,44,2020-01-18,"Watched Campus {X} Videos for revision
+"
+123,14,2020-01-18,"Whole day spent with maa baba"
+124,8,2020-01-18,"1.outing
+2.nothing else"
+125,6,2020-01-18,"1. Worked on SIH project
+2. Doing task 19"
+126,45,2020-01-18,"Worked on task 6"
+127,5,2020-01-18,"Worked on task 19 and kaggle competition "
+128,15,2020-01-18,"task 19, titanic"
+129,17,2020-01-18,"Exam Study
+Sleep
+DATABASE"
+130,40,2020-01-18,"Watch the vedio on portfolio. Searched some of the portfolio and took few ideas and implemented in my portfolio.
+Made my own portfolio (Completed Home page)."
+131,16,2020-01-18,"Working on pending assignments!"
+132,41,2020-01-18,Traveling
+133,49,2020-01-19,"Website Design
+"
+134,11,2020-01-19,"Completed task 15"
+135,9,2020-01-19,"videos on decision tree
+"
+136,35,2020-01-19,"Continued with Dark Matter
+Watched a movie
+Completed the portfolio task
+
+"
+137,43,2020-01-19,"completed portfolio website."
+138,77,2020-01-19,"Attended Orientation Programme.
+It was very motivating."
+139,79,2020-01-19,"Attended today's orientation program,got briefly roadmap about the mentorship.(19/01/20)
+"
+140,38,2020-01-19,"watched lectures
+solved problems on math
+Complete Task #6"
+141,73,2020-01-19,"Attended Orientation Program "
+142,94,2020-01-19,"Did today's orientation class "
+143,84,2020-01-19,"Attended today's orientation class. "
+144,98,2020-01-19,"Attended orientation program "
+145,8,2020-01-19,"1.Attended class
+2.working on tasks"
+146,72,2020-01-19,"Attended Orientation program. Watched the Derby?????????? and India vs Australia????????"
+147,89,2020-01-19,"Participated in the  orientation program"
+148,44,2020-01-19,"Worked on task 6 and watched lectures."
+149,83,2020-01-19,"Attended today's orientation program."
+150,39,2020-01-19,"Completed and Submitted my portfolio website"
+151,95,2020-01-19,"Attended orientation program. Watched  India vs Australia (2-1). "
+152,90,2020-01-19,"Attended Orientation Program"
+153,81,2020-01-19,"Attended the orientation program . Watched the Eastbengal vs Mohunbagan derby and India vs Australia ODI."
+154,45,2020-01-19,"Watched previous videos
+"
+155,86,2020-01-19,"Attend Orientation program and watch today's cricket match"
+156,76,2020-01-19,"Attended orientation program."
+157,82,2020-01-19,"Attended Orientation Program today and got a full roadmap of the mentorship program."
+158,67,2020-01-19,"Attended The Orientation Program
+It was really awsome"
+159,68,2020-01-19,"Attended Orientation Program and tried to do book recommendation system "
+160,16,2020-01-19,"1. Offline class.
+"
+161,15,2020-01-19,"titanic all day "
+162,5,2020-01-19,"Attended offline class. Working on task 19 and assignment 7. Submitted csv file in Kaggle competition"
+163,75,2020-01-19,"Attended the campusx orientation program and hit the gym."
+164,93,2020-01-19,"Attended the orientation program.
+Practiced basics of python ."
+165,74,2020-01-19,"Attended The Orientation Program. "
+166,104,2020-01-19,"Attended Orientation program "
+167,6,2020-01-19,"1. Attended today's session
+2. Working on again titanic
+3. Working on task 19"
+168,103,2020-01-19,"Attend the orientation program..."
+169,85,2020-01-19,"Attended Orientation program for the mentorship."
+170,87,2020-01-19,"Attended Orientation program"
+171,78,2020-01-19,"Attended the Orientation Program. Spent the entire evening at my college's annual cultural fest, working as a core member."
+172,96,2020-01-19,"Attended the Orientation Program.Watched India vs Australia. Attended my kathak class."
+173,21,2020-01-19,"went for offline class
+was out with family
+submitted titanic survival"
+174,88,2020-01-19,"Today I have attended the orientation curriculum of the mentorship program CampusX which is really a enthusiastic way to start for a big challenge the MACHINE LEARNING."
+175,18,2020-01-19,"19/1
+1. Attended today's session.
+2. Titanic prediction and PostgreSQL."
+176,14,2020-01-19,"1. worked on aws
+2. attended class
+3. working on titanic dataset"
+177,40,2020-01-19,"Completed Portfolio through Google Sites.
+Worked in a RC Plane"
+178,1,2020-01-19,"Was with family"
+179,29,2020-01-19,"Completed portfolio. "
+180,17,2020-01-19,"Study
+Internal Hackathon"
+181,32,2020-01-19,"watched videos on portfolio and completed the task..."
+182,67,2020-01-20,"Very excited to start the program...."
+183,87,2020-01-20,"Going through everyone's Myday to select the best one to copy-paste"
+184,38,2020-01-20,"Nothing productive
+Travelled"
+185,35,2020-01-20,"College work
+watched lectures on Algorithms
+Watches a movie"
+186,94,2020-01-20,"Play cricket match after long time "
+187,86,2020-01-20,"Played cricket match after long while.."
+188,43,2020-01-20,"Revision "
+189,39,2020-01-20,"Nothing productive
+"
+190,79,2020-01-20,"Went for short tour with friends and also watched videos on how github works.."
+191,11,2020-01-20,"Went to college
+Completed Titanic wala task"
+192,53,2020-01-20,"Just finish my portfolio site
+Revise the old things"
+193,15,2020-01-20,"college, assignment 7, packing "
+194,45,2020-01-20,"Nothing productive "
+195,44,2020-01-20,"Watched python lectures."
+196,29,2020-01-20,"Revised some numpy lectures.
+"
+197,105,2020-01-20,"Went to college and watched the video  on how the complexity of the Merge sort is calculated."
+198,76,2020-01-20,"Attended college and made notes for the day."
+199,68,2020-01-20,"started taking french class and went to give tuition in the evening "
+200,104,2020-01-20,"Attended college. Started learning algorithms."
+201,96,2020-01-20,"Did some research about building a medium profile and went through some profiles. "
+202,73,2020-01-20,"First day of 4th semester nothing new "
+203,103,2020-01-20,"First day of 4th SEM .. seeing the video lecture and do the task..."
+204,5,2020-01-20,"Went to college. Worked on titanic dataset. "
+205,93,2020-01-20,"Listened to music
+Watched videos on python."
+206,95,2020-01-20,"Read some articles related to the machine learning and data science. Played a cricket match????. "
+207,77,2020-01-20,"Played heck of Call of Duty"
+208,102,2020-01-20,"Attended college lectures ; went to teach ; watched videos on different sorting algorithms."
+209,88,2020-01-20,"Starting my first step of this curriculum - How to make a kickass
+LinkedIn profile"
+210,89,2020-01-20,"Really excited to make a strong LinkedIn profile"
+211,21,2020-01-20,"went to college.
+finished college assignment"
+212,78,2020-01-20,"College reopened today for 4th semester. Same old uniform, again.
+Really pissed off because my Jupyter notebook is crashing repeatedly, and so is my laptop. Which makes me realize how much dependent we have become on technology. "
+213,14,2020-01-20,"1. college
+2. college assignments
+3. worked on titanic dataset"
+214,40,2020-01-20,"Studied basics of Microprocessor (8085).
+Watched movie"
+215,16,2020-01-20," 1. Working on pending assignments."
+216,6,2020-01-20,"1. Went to college
+2. Working on SIH project"
+217,75,2020-01-20,"Sat through college; revamped my LinkedIn profile."
+218,90,2020-01-20,"Participated in SIH hackathon"
+219,8,2020-01-20,"1.sick
+2.working on titanic dataset"
+220,81,2020-01-20,"Went to college."
+221,18,2020-01-20,"20/1
+1.Titanic Prediction
+2. PostgreSQL."
+222,84,2020-01-20,"Was at home same usual day.. watched the video on making a strong LinkedIn profile."
+223,17,2020-01-20,"Titanic Competition
+Exam
+Netflix"
+224,82,2020-01-20,"Watched the video on making a strong Linkedin profile and attended Internal Hackathon of Smart India Hackathon 2020 in my college."
+225,48,2020-01-21,"20/01/20.   Nothing productive."
+226,67,2020-01-21,"Happy Birthday to me.... ????????????"
+227,79,2020-01-21,"From today our college is starting.again....????.."
+228,80,2020-01-21,"College started again????"
+229,68,2020-01-21,"Went to college and made a linkdeln profile"
+230,82,2020-01-21,"Updated the LinkedIn profile submitted the task, attended the college and working on a hardware project."
+231,52,2020-01-21,"updating my portfolio site."
+232,35,2020-01-21,"Travelled
+Continued with the novel
+Read a few articles on self-development"
+233,43,2020-01-21,"Revision
+"
+234,39,2020-01-21,"Revised pandas lectures
+"
+235,72,2020-01-21,"Created the linkedin profile. :)"
+236,74,2020-01-21,"Went to college, first day of new sem, made a LinkedIn profile and went for some grocery shopping. ????????"
+237,90,2020-01-21,"Participated in SIH Hackathon day-2"
+238,83,2020-01-21,Nothing
+239,41,2020-01-21,Travelling
+240,76,2020-01-21,"Attended college as usual. Enhances my linkedIn profile thanks to Suprabhat's id xD. Planning to spend some time on my project"
+241,102,2020-01-21,"Went to college and updated my linkedin profile"
+242,105,2020-01-21,"Went to college and created LinkedIn profile. "
+243,81,2020-01-21,"Went to college. Done some changes on my linkedln profile. "
+244,36,2020-01-21,"Watched the video on data analysis and started a course on web development"
+245,104,2020-01-21,"Did my assignment, worked on creating LinkedIn profile. "
+246,44,2020-01-21,"Did nothing productive."
+247,18,2020-01-21,"21/1
+Dayout with family.
+Decision Tree videos."
+248,45,2020-01-21,"Watched previous lectures"
+249,94,2020-01-21,"First day of new semester i.e., 4th sem...."
+250,15,2020-01-21,"college
+going to Shirdi tomorrow early morning so packing now"
+251,103,2020-01-21,"College as usual..seeing some video lectures in YouTube.."
+252,73,2020-01-21,"Went to  college , created linkedin profile ,watching standup"
+253,96,2020-01-21,"attended college"
+254,93,2020-01-21,"Edited my LinkedIn profile
+"
+255,21,2020-01-21,"went to college
+went out with mom"
+256,89,2020-01-21,"Went to college and made a linkdeln profile"
+257,87,2020-01-21,"1. Implemented OOP in python
+2. Revised pointers/DS in C
+3. Submitted first task on Google Classroom"
+258,38,2020-01-21,"reading random blog"
+259,85,2020-01-21,"Completed the First assignment of Micro Processors and Microcontrollers. Hit the gym."
+260,5,2020-01-21,"Went to college. Nothing else. "
+261,9,2020-01-21,"college "
+262,88,2020-01-21,"Today I have learnt to create a strong profile in LinkedIn"
+263,95,2020-01-21,"Bunked the classes after lunch break on the first day of new semester (4th sem). Edited my LinkedIn profile. "
+264,101,2020-01-21,"di ka marriage tha abhi rest le raha hu sif khanna pina and ghumna "
+265,14,2020-01-21,"1. college 
+2. completing pending assignments"
+266,86,2020-01-21,"Attended first day of 4th sem College lecture "
+267,40,2020-01-21,"Worked in RC Plane.
+Surfing Internet and read some blogs and watched movie"
+268,53,2020-01-21,"Starting pandas again"
+269,16,2020-01-21,"1. College sports fest.
+2. Tried making the Zomato database schema."
+270,78,2020-01-21,"Attended college. Gobsmacked to know we've both Environmental Studies and Biology in the same semester :' (
+Cleaned up the junk in my laptop."
+271,77,2020-01-21,"Tried to make my own neural network"
+272,75,2020-01-21,"Attended college, caught up on my sleep schedule and helped a friend get started with flutter."
+273,17,2020-01-21,"Titanic Competiton
+Study
+Music
+Netflix
+"
+274,84,2020-01-21,"Made changes on my LinkedIn profile"
+275,48,2020-01-22,"Review topics
+Watched series"
+276,11,2020-01-22,"Went to college
+Did nothing bcz of abdominal pain"
+277,101,2020-01-22,"tanaji movie dekhne ja raha hu and linkedin wala task ve chaal raha he"
+278,82,2020-01-22,"Attended college and learned about something Python image processing."
+279,71,2020-01-22,"Finally linkedin profile is ready"
+280,15,2020-01-22,"In shirdi. "
+281,83,2020-01-22,"Completed the task."
+282,93,2020-01-22,"Watched the movie Super30. Really an inspiring one!!!!"
+283,94,2020-01-22,"Finally complete the task"
+284,81,2020-01-22,"Completed  my Linkedln profile. "
+285,88,2020-01-22,"Today I have completed my first task"
+286,89,2020-01-22,"Today i have completed my first task ????"
+287,79,2020-01-22,"Again same day for college..watchedsome youtube videos about machine learning.."
+288,96,2020-01-22,"Went to college, made linkedIn profile,attended Xavotsav"
+289,102,2020-01-22,"Attended college ; went to teach ; uploaded linkedin profile"
+290,95,2020-01-22," Went to college and attended machine drawing lab.Completed the task. "
+291,44,2020-01-22,"Traveling "
+292,5,2020-01-22,"Went to college. Nothing else. "
+293,74,2020-01-22,"Went to college, worked on a project and stucked with a problem.
+It seems like peace was never an option."
+294,29,2020-01-22,"Revised data analysis and API Video. "
+295,85,2020-01-22,"Updated my linkedin profile. Started watching Sex Education season 2."
+296,103,2020-01-22,"College as usual and do some project work"
+297,68,2020-01-22,"Went to college, worked on a project for tech fest , solved one problem and another was just standing behind it. "
+298,38,2020-01-22,"watched previous lectures"
+299,76,2020-01-22,"Attended college. Will look into how to transfer data from excel to mysql in php"
+300,39,2020-01-22,"Attending the Aws session"
+301,105,2020-01-22,"Went to college and installed android studio."
+302,43,2020-01-22,"attended aws offline session"
+303,87,2020-01-22,"Built Tic Tac Toe game in python(implementing function and scope)"
+304,73,2020-01-22,"Nothing much "
+305,90,2020-01-22,"attended college"
+306,14,2020-01-22,College
+307,75,2020-01-22,"attended college. watched my friend have the time of his life on a scooter ride. Studied how to bootload an avr chip. Learnt a Rubik's cube algorithm."
+308,18,2020-01-22,"22/1
+Watched movies.
+Will sleep."
+309,80,2020-01-22,"Went to college, Updated my linkedin profile"
+310,104,2020-01-22,"Attended college and completed my linkedin profile."
+311,67,2020-01-22,"Went to college just to return the library books....no class...."
+312,21,2020-01-22,"22/01
+
+Was out the whole day"
+313,16,2020-01-22,"working on Decision Tree tasks"
+314,78,2020-01-22,"Recapitulated the concepts of file handling in Python, in college, only to realize that I had forgotten everything :')
+Caught up on some much-needed sleep."
+315,40,2020-01-22,"Completed my 1st RC Plane and learn to Glide the plane and handle in a smooth manner.
+Attended Offline Classes of Data Engineering and made account on AWS.
+"
+316,84,2020-01-22,"Updated my linkedin profile and submitted the first task assigned."
+317,6,2020-01-22,"1. Went to college
+2. Working on SIH "
+318,9,2020-01-22,"recipe task and college project"
+319,48,2020-01-23,"Attended session on data engineering"
+320,92,2020-01-23,"Again same day for college..watchedsome youtube videos"
+321,67,2020-01-23,"Waiting for the result of task #1..... "
+322,35,2020-01-23,"Watched lectures
+read a few articles"
+323,45,2020-01-23,"Travelling "
+324,71,2020-01-23,"now to upload the task"
+325,89,2020-01-23,"Waiting for the  result"
+326,101,2020-01-23,"ML ka projects dekhraha hu"
+327,38,2020-01-23,"Work on some new feature on my website."
+328,82,2020-01-23,"Today was holiday spent whole day for a hardware project and completed the Python project of training."
+329,81,2020-01-23,"Python Programming."
+330,86,2020-01-23,"College holiday...So played cricket "
+331,77,2020-01-23,"Made a fully working basic neural network to classify Handwritten digits."
+332,104,2020-01-23,"Since today was a holiday so basically i wasted my day by sleeping, Netflix , played badminton."
+333,102,2020-01-23,"Just relaxed a bit and did some assignments "
+334,94,2020-01-23,"Play cricket match "
+335,79,2020-01-23,"Celebrate the birthday of our National hero .in our club. Also watched videos on data scientist and data analysis on campusx channel also watched many more things"
+336,53,2020-01-23,"Revised the web scraping lecture"
+337,39,2020-01-23,"watched a movie"
+338,43,2020-01-23,"Watched lectures on RDS"
+339,103,2020-01-23,"Going to shopping.....Waiting for result of task 1.."
+340,93,2020-01-23,"Went to film festival.
+Practiced coding."
+341,105,2020-01-23,"Started learning flutter."
+342,96,2020-01-23,"completed a project and did some research on machine learning"
+343,73,2020-01-23,"Watched movies "
+344,72,2020-01-23,"Updated my linkedin profile."
+345,95,2020-01-23,"Played cricket. "
+346,14,2020-01-23,"1. lab assignments
+2. watched regression tree video"
+347,5,2020-01-23,"Worked on assignment 4. Nothing else. "
+348,76,2020-01-23,"Holiday = Rest Day ( too lazy to work)"
+349,68,2020-01-23,"went to attain a party with parents "
+350,18,2020-01-23,"23/1
+Watched decision tree videos.
+Some Tableau."
+351,75,2020-01-23,"Practised the Rubik's cube to improve my timing, hit the gym, touched a bit of basic python cuz imma noob... Currently :)"
+352,21,2020-01-23,"Worked on tasks. 
+slept too much ..."
+353,78,2020-01-23,"Went on a long drive with my best friend."
+354,87,2020-01-23,"Implemented OOP with magic methods"
+355,84,2020-01-23,"Did nothing much"
+356,83,2020-01-23,Work.
+357,16,2020-01-23,"Working on the Decision Tree algorithm."
+358,80,2020-01-23,"Successfully wasted a holiday ..."
+359,40,2020-01-23,"Worked with new RC Plane."
+360,6,2020-01-23,"1. Working on SIH
+2. Played FIFA 19
+3. Nothing else"
+361,88,2020-01-23,"Chilling day nothing to say"
+362,17,2020-01-23,"Study
+Task 17
+"
+363,67,2020-01-24,"Task #1 was a great learning experience on how to create a good LinkedIn profile
+
+Thank you Sir "
+364,48,2020-01-24,Revision
+365,49,2020-01-24,"Working on a project"
+366,35,2020-01-24,"Read SQL queries
+Watched a movie
+proceeded with the novel"
+367,90,2020-01-24,"tried to complete a mini project"
+368,72,2020-01-24,"Have posted in My Day,because i may forget this afterwards. :p "
+369,89,2020-01-24,"Still waiting for my result of first task"
+370,85,2020-01-24,"Worked out. Registered for a 2v2 CSGO tournament.
+"
+371,68,2020-01-24,"Went to college and waiting for task1 results"
+372,53,2020-01-24,"Try to complete  the web scraping assignment"
+373,11,2020-01-24,"Went to school"
+374,79,2020-01-24,"Again.same..college days..bdw this semester we have separate Machine Learning syllabus."
+375,82,2020-01-24,"Attended college as usual and collected resources for the task 2."
+376,94,2020-01-24,"Nothing special But Need to work on my LinkedIn profile"
+377,102,2020-01-24,"Went to college; working on task2"
+378,86,2020-01-24,"Went to college and nothing else"
+379,104,2020-01-24,"Went to college. Spent time with my friend. "
+380,45,2020-01-24,"Revised data analysis video "
+381,83,2020-01-24,"Task begun.
+"
+382,43,2020-01-24,"watched lectures on RDS"
+383,39,2020-01-24,"watched video on postgres"
+384,96,2020-01-24,"attended college"
+385,38,2020-01-24,"Solved Math problems
+research for blog"
+386,103,2020-01-24,"Doing task 2"
+387,5,2020-01-24,"Completed with the task on Tableau FINALLY!! Celebrated the whole day on this achievement by sleeping :') "
+388,105,2020-01-24,"Went to college and played badminton."
+389,15,2020-01-24,"Nashik tour
+Wine making tour and tasting
+Bought wine bottles
+Drunk tired "
+390,74,2020-01-24,"Clg as usual,
+aaaaaanndd...????
+Nothing special."
+391,6,2020-01-24,"1. Went to college
+2 Then watched Dwitiyo Purush (massive thriller)
+3. Having dinner chicken chowmin & chili fish 
+"
+392,70,2020-01-24,"went to college"
+393,75,2020-01-24,"attended college, attended my brother’s birthday dinner"
+394,21,2020-01-24,"Went to college
+Went out with friend
+Working on the ast given assignment"
+395,78,2020-01-24,"Realized that it's easy to read an article but tough to write one :')
+Couldn't attend college today, a bit sick :'("
+396,76,2020-01-24,"Attended college and started working on writing my blog. Working on my linkedin profile too :/"
+397,88,2020-01-24,"Working on 2nd task"
+398,14,2020-01-24,college
+399,73,2020-01-24,"Doing second task"
+400,44,2020-01-24,"Nothing productive "
+401,93,2020-01-24,"Working on Assignment 2."
+402,95,2020-01-24,"Working on task 2."
+403,80,2020-01-24,"clg as usual"
+404,17,2020-01-24,"Compiler Design
+Study
+"
+405,16,2020-01-24,"Working on the Decision Tree algorithm."
+406,8,2020-01-24,1.college
+407,101,2020-01-24,"Stated solving one Predictive analysis and also started doing the task 2"
+408,87,2020-01-24,"Successfully conducted Bihaan(Freshers)"
+409,18,2020-01-24,"24/1
+Attended a Wedding Reception "
+410,40,2020-01-24,"Made a new RC Plane (FT Bushwacker)."
+411,84,2020-01-24,"watched videos, read articles for the 2nd task."
+412,67,2020-01-25,"Ahh !!!  Weekends !!!!"
+413,48,2020-01-25,"watched lecture on web scraping"
+414,89,2020-01-25,"It is a Saturday but i have to do a lot of task..????????????"
+415,35,2020-01-25,"Watched lectures on RDBMS
+watched a movie
+Watched lectures on regex"
+416,68,2020-01-25,"Written blog "
+417,32,2020-01-25,"Reached kolkata ...today"
+418,72,2020-01-25,"Thinking about the task #2"
+419,70,2020-01-25,"Written my first blog"
+420,15,2020-01-25,"Shani shignapur darshan
+Coming back tomorrow"
+421,81,2020-01-25,"Done my first blog on medium profile."
+422,45,2020-01-25,"Nothing productive "
+423,74,2020-01-25,Fine
+424,101,2020-01-25,"Writing my first blog ????????????????"
+425,94,2020-01-25,"Haven't done task 2 "
+426,96,2020-01-25,"on my way to finish second task"
+427,25,2020-01-25,Traveling
+428,44,2020-01-25,"Traveling. "
+429,77,2020-01-25,"Trying to optimize the neural network that I built"
+430,38,2020-01-25,"Watched lectures
+"
+431,53,2020-01-25,"Revised the tableau videos"
+432,78,2020-01-25,"Feeling sleepy the entire day. And lazy too. : ("
+433,8,2020-01-25,"1.outing
+2.watched the vid"
+434,102,2020-01-25,"Completed 2nd task"
+435,5,2020-01-25,"Watched 3 idiots. Enjoyed the whole day"
+436,21,2020-01-25,"Came to goa. Nothing else"
+437,43,2020-01-25,"watched lectures on postgreSQL "
+438,39,2020-01-25,"continued with the lectures"
+439,6,2020-01-25,"1. Wrote a sample for application of content writing
+2. Completed assignment 
+3. Nothing else"
+440,14,2020-01-25,"1. Wrote a sample for application of content writing
+2. Completed train test assignment"
+441,85,2020-01-25,"I wrote my first ever blog post."
+442,83,2020-01-25,"Submitted task."
+443,18,2020-01-25,"25/1.
+Sick so nothing productive."
+444,86,2020-01-25,"Attended college and written a article on different data based job "
+445,95,2020-01-25,"First blog..."
+446,73,2020-01-25,"Doing task 2 "
+447,90,2020-01-25,"tried to write a blog "
+448,105,2020-01-25,"Completed Task 2"
+449,88,2020-01-25,"Today I have written a blog on medium"
+450,75,2020-01-25,"Went out for the whole day and compromised my time given to the blog as a result."
+451,11,2020-01-25,"Went for shopping
+Enjoyed whole day"
+452,40,2020-01-25,"Nothing Productive"
+453,93,2020-01-25,"Watched Tarzan(film festival) and Ditiyo Purush by Srijit Mukherjee.
+Completed the 2nd assignment but couldn't publish on medium."
+454,76,2020-01-25,"Completed my assignment 2: Blog on job roles. Indeed a great experience."
+455,104,2020-01-25,"Written my first ever blog. Great Experience."
+456,87,2020-01-25,"Completed second task"
+457,41,2020-01-25,"At grandmother home"
+458,82,2020-01-25,"Today day well spent completed the blog task and completed the tinder project."
+459,17,2020-01-25,"Study
+Exam
+Task 18"
+460,52,2020-01-25,"Trying database assignment"
+461,67,2020-01-26,"It's Sunday !!! ????????????"
+462,68,2020-01-26,"Will complete project drone..."
+463,84,2020-01-26,"submitted 2nd task"
+464,48,2020-01-26,"Watched lecture"
+465,89,2020-01-26,"Happy republic day ..."
+466,15,2020-01-26,"Coming back today"
+467,35,2020-01-26,"Worked the task and assignment"
+468,103,2020-01-26,"Enjoy the weekend at Mandarmani.."
+469,83,2020-01-26,Nothing
+470,70,2020-01-26,"Happy Republic day
+"
+471,74,2020-01-26,"Today :- 
+Enemies ahead!!!!
+I got supplies!!
+Ok!!
+Not a problem!
+Help!!
+Excellent work!!!
+Get in the car!!!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+And the list goes on!!! ;-)"
+472,80,2020-01-26,"Happy Republic day
+"
+473,79,2020-01-26,"Celebrated republic day"
+474,82,2020-01-26,"Today enjoyed the holiday and returned to Kolkata from Kharagpur after enjoying Spring Fest of IIT Kharagpur."
+475,94,2020-01-26,"Spend whole day without doing anything!!!!"
+476,88,2020-01-26,"Today I've taken rest for the entire day"
+477,53,2020-01-26,"Finished the previous tableau assignment ????"
+478,81,2020-01-26,"Enjoyed The Republic Day"
+479,72,2020-01-26,"played football after a long time. :)"
+480,86,2020-01-26,"Enjoyed today's holiday and watched hostal daze ??"
+481,90,2020-01-26,"Nothing Interesting "
+482,95,2020-01-26,"Watched Gangs of Wasseypur.chabhi kaha hai..."
+483,69,2020-01-26,"Boring day"
+484,101,2020-01-26,"Learning about Bipad walking robot "
+485,45,2020-01-26,"Worked on previous assignment"
+486,32,2020-01-26,"Watched the previous class videos...."
+487,43,2020-01-26,"worked on my resume video."
+488,39,2020-01-26,"Completed my 1 min long introduction video"
+489,104,2020-01-26,"Celebrated republic day in complex. Went to parlor and did some college work. "
+490,87,2020-01-26,"Turned in second task late"
+491,76,2020-01-26,"Waiting for Assignment 3."
+492,73,2020-01-26,"Celebrated Republic day"
+493,93,2020-01-26,"Watched tutorial videos on python."
+494,77,2020-01-26,"Learned about the architecture of CNN"
+495,14,2020-01-26,"1. watched videos on logistic regression
+2. submitted milestone 2 task
+3. nothing else"
+496,18,2020-01-26,"26/1
+Went for a movie.
+Will watch the milestone video.
+"
+497,75,2020-01-26,"Catching up with people over text. Lazed in general."
+498,102,2020-01-26,"went out with cousins"
+499,38,2020-01-26,"reading random blog
+Watched DBMS lecture
+"
+500,6,2020-01-26,"1. Attended our annual sports Competition as volunteer
+2. Worked on #ML2 assignment 1
+"
+501,11,2020-01-26,"Enjoyed whole day"
+502,44,2020-01-26,"Revised lectures."
+503,16,2020-01-26,"Sunday...No work..."
+504,25,2020-01-26,"Made Portfolio"
+505,96,2020-01-26,"spent three hours on a saarkari website"
+506,5,2020-01-26,"Listened to Sunday Suspense. Watched Dwitiyo Purush. "
+507,8,2020-01-26,"1.shopping with mom
+2.robotics work"
+508,40,2020-01-26,"Watched vedios on Python.
+
+"
+509,41,2020-01-26,"Revision "
+510,9,2020-01-26,"Shopping and milestone work"
+511,85,2020-01-26,"Watched republic day parade
+"
+512,48,2020-01-27,"Watched lecture for tasks"
+513,21,2020-01-27,"20/01
+
+Visited North Goa
+Submitted task"
+514,69,2020-01-27,"8 hours class "
+515,35,2020-01-27,"completed the task
+watched a movie
+"
+516,82,2020-01-27,"Attended college and learned about python image processing."
+517,79,2020-01-27,"Attended college.again"
+518,72,2020-01-27,"Looking forward to the next task."
+519,39,2020-01-27,"submitted my portfolio resume video"
+520,89,2020-01-27,"Went to college!"
+521,43,2020-01-27,"Submitted resume video "
+522,102,2020-01-27,"Went to college "
+523,96,2020-01-27,"worked on a project and the third task"
+524,53,2020-01-27,"Nothing productive"
+525,84,2020-01-27,"Went out with frnds and watched some videos for the next task"
+526,101,2020-01-27,"Doing task 3"
+527,94,2020-01-27,"Watched Sex education season1&2"
+528,80,2020-01-27,"Worked on task 3"
+529,103,2020-01-27,"Clg as usual and see the lecture video..."
+530,44,2020-01-27,"Nothing productive. "
+531,87,2020-01-27,"Attended college today."
+532,81,2020-01-27,"Went to college."
+533,5,2020-01-27,"Went to college. Nothing else. "
+534,95,2020-01-27,"College as usual."
+535,105,2020-01-27,"Went to college and watched the video on how the complexity of the quick sort is calculated. "
+536,88,2020-01-27,"Spending the Monday like sunday"
+537,15,2020-01-27,"college
+html css revision
+making sites"
+538,14,2020-01-27,"1. College
+2. Lab file"
+539,6,2020-01-27,"1. Solving problems in hackerrank 
+2. Preparing aptitude test
+3. Working on SIH project"
+540,68,2020-01-27,"waiting for task 2 results..."
+541,18,2020-01-27,"27/1
+Went for movie.
+Working on decisiontrees."
+542,83,2020-01-27,"Nothing 
+"
+543,38,2020-01-27,Travelled
+544,93,2020-01-27,"Went to Papa's office.
+Working on portfolio."
+545,9,2020-01-27,"task 2 of milestone and college
+"
+546,76,2020-01-27,"Attended college and made some update on my portfolio website."
+547,86,2020-01-27,"Attended College and watched SE season 1"
+548,90,2020-01-27,"College reopens"
+549,16,2020-01-27,"Trying to understand web development!!"
+550,104,2020-01-27,"Went to college and did some research in portfolio.  "
+551,78,2020-01-27,"Attended college, 2 consecutive classes of Discrete Mathematics :')
+Watched YouTube videos on Google Sites"
+552,75,2020-01-27,"attended college and spent some time refurbishing my website a bit."
+553,40,2020-01-27,"Made a  Vedio Portfolio"
+554,41,2020-01-27,"Revision "
+555,85,2020-01-27,"College started"
+556,70,2020-01-27,"Think about task #3"
+557,9,2020-01-28,"College and Saraswati puja decorations"
+558,48,2020-01-28,"watched lecture on aws"
+559,68,2020-01-28,"made a portfolio"
+560,74,2020-01-28,fine.
+561,70,2020-01-28,"Went to college"
+562,17,2020-01-28,"Study
+Milestone 2 task"
+563,89,2020-01-28,"Working with my 3 rd task"
+564,72,2020-01-28,"watched a movie and will try to do the task today"
+565,69,2020-01-28,"Attanding classes"
+566,32,2020-01-28,"Tired travelling and wasted whole day in sleeping"
+567,93,2020-01-28,"Working on my portfolio."
+568,105,2020-01-28,"Went to college & made portfolio "
+569,35,2020-01-28,"Worked on assignment
+Nothing more productive"
+570,79,2020-01-28,"Same boring day in college..and will start the..portfolio work ."
+571,15,2020-01-28,"college
+FIFA"
+572,94,2020-01-28,"Nothing special"
+573,102,2020-01-28,"Attended college ; working on portfolio"
+574,76,2020-01-28,"Busy with family function."
+575,77,2020-01-28,"Starting at college"
+576,83,2020-01-28,College
+577,87,2020-01-28,"created portfolio website"
+578,81,2020-01-28,"working on my portfolio"
+579,96,2020-01-28,"worked on portfolio"
+580,103,2020-01-28,"Clg as usual.. and made the portfolio."
+581,90,2020-01-28,"attended college"
+582,73,2020-01-28,"Went college"
+583,43,2020-01-28,"worked on next assignment"
+584,6,2020-01-28,"1. Watched a movie
+2. Working on ML#2 assignment 2"
+585,8,2020-01-28,"1.college
+2.robotics project work"
+586,104,2020-01-28,"Went to college, did my portfolio work."
+587,95,2020-01-28,"Working on task 3. "
+588,86,2020-01-28,"Attended college and did preparation for saraswati puja"
+589,39,2020-01-28,"Work on the assignment"
+590,53,2020-01-28,"Travelling and photography"
+591,38,2020-01-28,"Worked on previous assignment
+"
+592,5,2020-01-28,"Went to college. Saraswati puja preparations. "
+593,14,2020-01-28,"1. college
+2. saraswati puja preparation"
+594,78,2020-01-28,"College as usual. Completed the portfolio website. "
+595,21,2020-01-28,"Nothing much. Discussed a bit about the next task"
+596,16,2020-01-28,"Saraswati Puja preparation
+"
+597,40,2020-01-28,"Nothing Productive 
+"
+598,75,2020-01-28,"attended college, had my plans canceled, went to the gym, added a page to my website"
+599,11,2020-01-28,"Went to college"
+600,88,2020-01-28,Sleeping
+601,18,2020-01-28,"28/1
+Saraswati Pujo preparations."
+602,41,2020-01-28,"Nothing i do today
+"
+603,84,2020-01-28,"Was a home, watch a movie and slept "
+604,82,2020-01-28,"Attended college and registered for Google codejam"
+605,85,2020-01-28,"Started task3"
+606,67,2020-01-29,"Oh no !!!!! rain !!!!!!"
+607,68,2020-01-29,"Will enjoy the day... Happy Saraswati puja"
+608,32,2020-01-29,"Watched the previous numpy videos...."
+609,35,2020-01-29,"Saraswati Puja
+Nothing productive"
+610,101,2020-01-29,"Going to Howrah for meeting my relatives"
+611,48,2020-01-29,"watched movie"
+612,84,2020-01-29,"Happy Saraswati Puja.. 
+Going to clg.. Hoping to hav a grt day.."
+613,74,2020-01-29,great.
+614,89,2020-01-29,"Happy saraswati puja ..completed my portfolio website"
+615,88,2020-01-29,"Today is Saraswati puja"
+616,103,2020-01-29,"Happy saraswati puja....njoy the day at mamarbari.????????????????????????????"
+617,79,2020-01-29,"Will go for hang out with friends.."
+618,70,2020-01-29,"Happy Sarataswati puja"
+619,69,2020-01-29,Good
+621,53,2020-01-29,Travelling
+622,72,2020-01-29,"celebrated saraswati puja"
+623,93,2020-01-29,"Went to Tea Auction with Papa. Wonderful experience. 
+Completed assignment 3 and submitted it. 
+Went to my friend's house on the occasion of Saraswati Puja."
+624,82,2020-01-29,"Spent my holiday by enjoying and wishing you all Happy Saraswati Puja!!!!"
+625,105,2020-01-29,"Celebrated Saraswati Puja and completed task 3
+"
+626,87,2020-01-29,"Attended Saraswati Puja in college"
+627,6,2020-01-29,"1. Completed & submitted #ML2 task 2
+2. Celebrated saraswati puja
+3. Went out with friends"
+628,81,2020-01-29,"Published my portfolio."
+629,83,2020-01-29,"Attended Saraswati Puja at college "
+630,71,2020-01-29,"happy Saraswati puja."
+631,29,2020-01-29,"Sarswati puja"
+632,75,2020-01-29,"attended lunch at my cousin's place; gave my website a lick of fresh paint."
+633,45,2020-01-29,"Nothing productive "
+634,43,2020-01-29,"worked on assignment"
+635,11,2020-01-29,"Enjoyed whole day with friends"
+636,44,2020-01-29,"Watched lectures. "
+637,96,2020-01-29,nothing..
+638,73,2020-01-29,"Doing Third Task"
+639,39,2020-01-29,"Enjoying saraswati puja"
+640,104,2020-01-29,"Worshipped Goddess Saraswati. Completed my 3rd task. "
+641,77,2020-01-29,"Saraswati puja"
+642,18,2020-01-29,"29/1
+Saraswati Pujo.
+Sick."
+643,5,2020-01-29,"Saraswati puja celebrations"
+644,25,2020-01-29,"Watched Movie"
+645,38,2020-01-29,"complete Task 7
+Continue something that I haven’t finished yesterday. Work on some new feature on a website"
+646,76,2020-01-29,"Done with my portfolio website."
+647,8,2020-01-29,"1.celebrated saraswati puja
+2.not well"
+648,14,2020-01-29,"1. Saraswati puja celebration with friends
+2. Wrote lab copy"
+649,94,2020-01-29,"Happy Saraswati Puja!!!"
+650,21,2020-01-29,"Kinda wasted the whole day by doing nothing"
+651,86,2020-01-29,"Happy Saraswati Puja"
+652,16,2020-01-29,"Saraswati puja ....... full day....."
+653,85,2020-01-29,"Completed Task 3
+"
+654,95,2020-01-29,"Happy Saraswasti puja."
+655,78,2020-01-29,"Visited school on the occasion of Saraswati Puja. Realized how easier school life used to be... :')
+ "
+656,15,2020-01-29,"full day enjoy
+"
+657,40,2020-01-29,"Happy Saraswati puja"
+658,17,2020-01-29,"Milestone 2 Task 2
+Study
+Coding"
+659,90,2020-01-29,"forgot to upload My day yesterday ????"
+660,52,2020-01-29,"Finally submitted database task.
+lectures on plastic management.
+"
+661,32,2020-01-30,"Enjoyed saraswati puja ..."
+662,103,2020-01-30,"Going to visit the book fair.."
+663,35,2020-01-30,Travelling
+664,79,2020-01-30,"Will watch youtube and spent holiday ."
+665,74,2020-01-30,"Nothing spacial"
+666,48,2020-01-30,"nothing productive"
+667,83,2020-01-30,"Rest "
+668,67,2020-01-30,"Very bad weather....."
+669,89,2020-01-30,"Went for college training"
+670,70,2020-01-30,"Holiday
+"
+671,80,2020-01-30,"Will watch youtube and spent holiday ."
+672,69,2020-01-30,"Interesting day"
+673,81,2020-01-30,"Python , FIFA"
+674,9,2020-01-30,"1.task 2 of milestone 
+2.sleep"
+675,43,2020-01-30,"worked on assignment
+"
+676,68,2020-01-30,"Had set backs in an personal project"
+677,102,2020-01-30,"Went to college and then hung out with friends "
+678,72,2020-01-30,"Watched a movie in Nandan."
+679,96,2020-01-30,"went through lecture attended in college"
+680,53,2020-01-30,"Try to make the 1 min resume video 
+But failed due to some editing problem"
+681,84,2020-01-30,"Nothing much"
+682,29,2020-01-30,"Python continued...."
+683,101,2020-01-30,"In Sleeping mode due to weather"
+684,77,2020-01-30,"Got a brief introduction to Theano"
+685,15,2020-01-30,"college
+ml2 task 2"
+686,18,2020-01-30,"30/1
+Sick."
+687,52,2020-01-30,"Doing some departmental work.
+"
+688,3,2020-01-30,"Completed 65% of introduction to machine learning Andrew NG.
+"
+689,39,2020-01-30,"Nothing more productive"
+690,94,2020-01-30,"Feeling Bored......."
+691,82,2020-01-30,"Not a holiday but due to bad weather classes were canceled so I spent my officially undeclared holiday and done some project work."
+692,6,2020-01-30,"1. Went to cognizant campus
+2. Celebrating saraswati pujo"
+693,85,2020-01-30,"Slept a bit more than usual because of the weather."
+694,105,2020-01-30,"Went for circumambulation of shyamji's shrine "
+695,87,2020-01-30,"Committed changes in Github.
+outing with friends
+"
+696,21,2020-01-30,"Was a Rest day"
+697,44,2020-01-30,"Read novel."
+698,8,2020-01-30,"1.Sick
+2. Also my laptop is sick so, worked nothing."
+699,104,2020-01-30,"Went to college, got gifts for friends and chilled in a cafe in the afternoon."
+700,73,2020-01-30,Nothing
+701,75,2020-01-30,"attended college, went shopping with friends, received a gift from my lovely folks, chilled in a cafe on this rainy afternoon and watched a movie."
+702,38,2020-01-30,"nothing productive"
+703,14,2020-01-30,"1. college
+2. completed ML task 2"
+704,24,2020-01-30,"learn about dbms"
+705,5,2020-01-30,"Went to college. Completed task 2 of milestone 2."
+706,40,2020-01-30,"Watched movie"
+707,78,2020-01-30,"Attended college as usual. Finding it hard to keep my eyes open in this weather. "
+708,11,2020-01-30,"Went to college
+Assignment"
+709,88,2020-01-30,"Watched the resume video"
+710,76,2020-01-30,"Just another day."
+711,90,2020-01-30,"played games all-day"
+712,16,2020-01-30,"Saraswati visarjan in hostel and college."
+713,95,2020-01-30,"Watched videos on python."
+714,93,2020-01-30,"Literally did nothing."
+715,36,2020-01-30,"completed the assignment and introductory video "
+716,35,2020-01-31,"Nothing productive"
+717,48,2020-01-31,revision
+718,96,2020-01-31,"went to college"
+719,74,2020-01-31,"???????????
+ "
+720,103,2020-01-31,"As usual Clg....."
+721,87,2020-01-31,"Submitted Winter Workshop project"
+722,70,2020-01-31,…..
+723,72,2020-01-31,"Trying to evaluate task 4 and 5"
+724,102,2020-01-31,"Attended college ; working on 2nd task"
+725,105,2020-01-31,"Went to college and did some assignment work."
+726,39,2020-01-31,"Nothing more productive"
+727,29,2020-01-31,"Worked on recipe assignment"
+728,53,2020-01-31,"Finished the resume video"
+729,94,2020-01-31,"Watched thrilling Match btw INDvsNZ"
+730,95,2020-01-31,"Attended ML workshop."
+731,86,2020-01-31,"Plyaed Cricket.."
+732,80,2020-01-31,"Watched Ind vs Nz"
+733,68,2020-01-31,"Went to college "
+734,104,2020-01-31,"Went to college, went out to eat momos with friends. And completed my class notes."
+735,43,2020-01-31,"watched lectures on postgreSQL"
+736,77,2020-01-31,"Created my first video: video resume"
+737,5,2020-01-31,"Went to college. Nothing else. "
+738,44,2020-01-31,"Did RDS."
+739,101,2020-01-31,"nptel ka assignment kiya  "
+740,11,2020-01-31,"Went to college
+Completed task2"
+741,21,2020-01-31,"Going back home??"
+742,75,2020-01-31,"went to college, went browsing momo eateries in newtown, got a haircut, wrote an FIR. Good day."
+743,90,2020-01-31,"slept most of the day"
+744,8,2020-01-31,"1.college
+2.nothing else"
+745,18,2020-01-31,"31/1
+Studied Java.
+Doing Task 2
+"
+746,40,2020-01-31,"Studied Data Structure and algorithms"
+747,38,2020-01-31,"CSI Workshop"
+748,78,2020-01-31,"Attended college. Went to Book fair. "
+749,81,2020-01-31,"Went to college, went to see a play."
+750,84,2020-01-31,"Did nothing"
+751,36,2020-01-31,"took one more step in web development course and played football"
+752,9,2020-01-31,"College and lab files"
+753,14,2020-01-31,"1. College
+2. Sleep
+3. Started with ML task 3"
+754,76,2020-01-31,"Went out with friends.
+Making notes for college."
+755,6,2020-01-31,"1. Attended wedding party
+2. Nothing else"
+756,82,2020-01-31,"Attended college and completed assigned training project."
+757,17,2020-01-31,"Study
+EDM night
+Party"
+758,93,2020-01-31,"Working on video resume."
+759,89,2020-01-31,"Hope it will be a nice day"
+760,16,2020-01-31,"Pending tasks...."
+761,88,2020-02-01,Forgotten
+762,35,2020-02-01,"Nothing productive"
+763,68,2020-02-01,"Have a busy schedule today..."
+764,48,2020-02-01,"worked on assignment"
+765,103,2020-02-01,"Busy schedule"
+766,24,2020-02-01,"preparing "
+767,83,2020-02-01,Weekend
+768,102,2020-02-01,"Working on task 4 and 5"
+769,9,2020-02-01,"task 3 of milestone"
+770,70,2020-02-01,Nothing
+771,87,2020-02-01,"1.Created an online resume
+2. Figuring out stuff to create a video resume"
+772,105,2020-02-01,"Completed task 4"
+773,96,2020-02-01,"work,college"
+774,80,2020-02-01,"did nothing
+"
+775,39,2020-02-01,Travelling
+776,43,2020-02-01,"Attended SQL offline session"
+777,12,2020-02-01,"task 2 and 3"
+778,74,2020-02-01,"nothing spacial"
+779,29,2020-02-01,"Attended class...... done some work on hacker rank"
+780,90,2020-02-01,"working on task 4 and 5"
+781,75,2020-02-01,"did some pending work and hit the gym."
+782,86,2020-02-01,"Enjoyed the while day.."
+783,94,2020-02-01,Picnic!!!!
+784,5,2020-02-01,"Modified web page of Task 1. Completed task 3 of Milestone 2."
+785,95,2020-02-01,"Friends
+Fun
+Friday
+First Day
+February "
+786,77,2020-02-01,"Created YouTube channel and posted my first video"
+787,53,2020-02-01,"Revised the previous lectures"
+788,72,2020-02-01,"sih. enough said."
+789,104,2020-02-01,"Did some laundry, did my resume work and netflix. "
+790,76,2020-02-01,"Copying rough notes to fair copy."
+791,73,2020-02-01,"Attended Wedding "
+792,6,2020-02-01,"1. Attended wedding ceremony
+2. Nothing else"
+793,93,2020-02-01,"Worked day and night on video editing. My whole effort went in vain . The video can't be exported. Don't know the reason. Really depressed."
+794,38,2020-02-01,"Attended SQL offline class"
+795,14,2020-02-01,"1. task3 ML2
+2. started with tableau task "
+796,21,2020-02-01,"submitted tasK 2 ML"
+797,81,2020-02-01,"Participated in internal Hackathon for SIH  held in college. "
+798,89,2020-02-01,"Working with task 4 & 5"
+799,40,2020-02-01,"Went to Haldia mela"
+800,44,2020-02-01,"Attended lectures and watched cricket match.
+"
+801,16,2020-02-01,"Trying to understand AWS Beanstalk and flask"
+802,11,2020-02-01,"Enjoyed whole day"
+803,15,2020-02-01,"web page
+flask
+"
+804,67,2020-02-01,"No so cool....."
+805,82,2020-02-01,"Attended today 100th birth anniversary of Founder of College.."
+806,85,2020-02-01,"Built my cv"
+807,18,2020-02-01,"1/2
+Task 2 and 3."
+808,35,2020-02-02,Travelling
+809,48,2020-02-02,"worked on sql problems"
+810,83,2020-02-02,"Since its a sunday gonna stay at home ....do task"
+811,68,2020-02-02,"completed all the assigned tasks..."
+812,79,2020-02-02,"Just a casual sunday"
+813,103,2020-02-02,"Complete the task"
+814,9,2020-02-02,"MySQL videos and videos for task 4"
+815,74,2020-02-02,NaN
+816,72,2020-02-02,"ind vs nz <3"
+817,70,2020-02-02,"Nothing special"
+818,53,2020-02-02,"Just loitering"
+819,69,2020-02-02,Boring
+820,87,2020-02-02,"created video resume"
+821,102,2020-02-02,"Went out with friends"
+822,104,2020-02-02,"Went out with friends. "
+823,77,2020-02-02,"Learned advanced functions with Theano"
+824,6,2020-02-02,"1. Attended wedding ceremony
+2. Completed & submitted #ML2 task 3"
+825,95,2020-02-02,"IND VS NZ T20. "
+826,86,2020-02-02,"Enjoyed the day with my school friends"
+827,96,2020-02-02,"worked on assignments"
+828,29,2020-02-02,"Did some previous assignmens."
+829,82,2020-02-02,"Spent the holiday by taking rest"
+830,90,2020-02-02,"done nothing productive"
+831,5,2020-02-02,"Made the site in task 1 to be responsive and deployed it on aws elastic beanstalk. "
+832,89,2020-02-02,"Successfully weasted my day.."
+833,11,2020-02-02,"Did some college assignments
+Lab file"
+834,94,2020-02-02,"Finally Brown Stroman win a Wwe individual tittle "
+835,93,2020-02-02,"Working on Resume."
+836,38,2020-02-02,"CSI Workshop"
+837,41,2020-02-02,"Return back to haldia
+"
+838,18,2020-02-02,"2/2
+task 3
+read a book"
+839,15,2020-02-02,"full day fun with friends
+"
+840,39,2020-02-02,"Enjoying Haldia mela"
+841,43,2020-02-02,"Studied postgreSQL "
+842,105,2020-02-02,"Went for shyam ji kirtan."
+843,21,2020-02-02,"working on flask since morning"
+844,14,2020-02-02,"1. submitted tableau
+2. worked on task 3 ml2 but failed"
+845,44,2020-02-02,"Watched movie."
+846,81,2020-02-02,Wasted
+847,16,2020-02-02,"working on ml2
+"
+848,78,2020-02-02,"Did my work as a content writer for IEM Media Cell. And slept a lot."
+849,76,2020-02-02,"A day well spent with friends."
+850,75,2020-02-02,"Spent it with my homies doing nothing."
+851,84,2020-02-02,"Enjoyed my birthday with friends and family"
+852,88,2020-02-02,"Done nothing"
+853,101,2020-02-02,"Went for a movie"
+854,40,2020-02-02,"Nothing Productive"
+855,35,2020-02-03,"College, watched a few lectures on SQL"
+856,69,2020-02-03,"6 hour long class"
+857,48,2020-02-03,"nothing productive"
+858,103,2020-02-03,"Clg as usual..."
+859,70,2020-02-03,"Went to college
+"
+860,43,2020-02-03,"attended college"
+861,89,2020-02-03,"Went to college 
+"
+862,102,2020-02-03,"Attended college"
+863,12,2020-02-03,"Completed task 3
+"
+864,24,2020-02-03,PCA
+865,74,2020-02-03,"nothing spacial."
+866,87,2020-02-03,"1. Attended College
+2. Started with Computer Architecture, Automata Theory"
+867,29,2020-02-03,"Attended 1st day of college."
+868,39,2020-02-03,"Attained college"
+869,68,2020-02-03,"went to doctor"
+870,82,2020-02-03,"Attended college made video resume and also my online resume as classroom task."
+871,81,2020-02-03,"Made my video resume .  "
+872,77,2020-02-03,"Boring college"
+873,94,2020-02-03,"Working on my resume "
+874,5,2020-02-03,"Went to college. Completed college assignments. "
+875,86,2020-02-03,"Making video resume ??"
+876,73,2020-02-03,"College day"
+877,95,2020-02-03,"College as usual. "
+878,83,2020-02-03,Task
+879,21,2020-02-03,"went to college
+wrote assignment
+still stuck with flask"
+880,17,2020-02-03,"Travel
+Internship work"
+881,96,2020-02-03,"completed task"
+882,14,2020-02-03,"1. College
+2. Sick
+3. Writing lab assignments"
+883,11,2020-02-03,"Went to college
+Assignments"
+884,18,2020-02-03,"3/2
+Decision Trees.
+Read a book."
+885,40,2020-02-03,"Attended my 1st class of this semester and microprocessor lab and busy with the task which was thaught."
+886,16,2020-02-03,"Trying to understand javascript."
+887,6,2020-02-03,"1. Went to college
+2. Attended wedding ceremony"
+888,78,2020-02-03,"Cursing my video editing skills while making the video resume. Worked on Microsoft PowerBI for the first time."
+889,38,2020-02-03,"nothing productive"
+890,44,2020-02-03,"Attended class."
+891,53,2020-02-03,"Loitering around the campus"
+892,93,2020-02-03,"Completed and submitted task 4 and 5."
+893,90,2020-02-03,"finally done with task 3 and 4"
+894,104,2020-02-03,"Attended friends wedding."
+895,76,2020-02-03,"Attended friends wedding."
+896,75,2020-02-03,"attended a great wedding with friends 
+attended college
+did my video resume"
+897,105,2020-02-03,"Went to college"
+898,84,2020-02-03,"submitted the tasks"
+899,15,2020-02-03,"College. Attended a friend's sister wedding"
+900,88,2020-02-03,Hello
+901,12,2020-02-04,"Some web development videos."
+902,103,2020-02-04,"Went to doctor..."
+903,35,2020-02-04,"College
+Learnt PCA
+Solved some questions"
+904,48,2020-02-04,"revised some topics"
+905,74,2020-02-04,"nobody gives a f***"
+906,10,2020-02-04,"Taught, did college , went to marriage, very sick :'("
+907,68,2020-02-04,"Have a busy schedule"
+908,83,2020-02-04,"Lots of work to do ????"
+909,69,2020-02-04,Good
+910,101,2020-02-04,"College ????"
+911,70,2020-02-04,"Went to college"
+912,88,2020-02-04,Boring
+913,52,2020-02-04,"Watching a lecture on plastic management-NPTEL"
+914,104,2020-02-04,"Went to college. Watched movie with my friends. "
+915,43,2020-02-04,"Revised SQL"
+916,39,2020-02-04,"work on assignment"
+917,84,2020-02-04,Nothing
+918,75,2020-02-04,"attended college, joined the sponsorship team of amiphoria"
+919,38,2020-02-04,"Solved Math problems"
+920,29,2020-02-04,"Nothing productive"
+921,89,2020-02-04,"Went for college training"
+922,94,2020-02-04,Skl
+923,81,2020-02-04,"Watched India vs Pakistan U-19 "
+924,86,2020-02-04,"Followed Daily routine"
+925,87,2020-02-04,"Attended college 
+Started with algorithms"
+926,78,2020-02-04,"Stayed back home today, feeling a bit queasy. Watched some videos on linear regression."
+927,95,2020-02-04,"IND VS PAK SEMI FINAL."
+928,96,2020-02-04,"attended college
+"
+929,82,2020-02-04,"Attended college and worked for the paper which will be presented in conference at college."
+930,102,2020-02-04,"Attended college ; went to movies with friends"
+931,77,2020-02-04,"Tried to get better accuracies from my CNN model to recognize hand written digits"
+932,8,2020-02-04,"1. College
+2. Completing task 
+3. Sick"
+933,93,2020-02-04,"Took rest!!!"
+934,9,2020-02-04,"college
+"
+935,18,2020-02-04,"4/2
+College.
+Completing home assignment."
+936,21,2020-02-04,"went to college
+wrote pending works of college
+resting because not well"
+937,11,2020-02-04,"Went to college
+Did nothing"
+938,5,2020-02-04,"Went to college. Wrote lab file. "
+939,17,2020-02-04,"Study
+Internship work
+Task 3 almost done."
+940,14,2020-02-04,"1. college
+2.updated linkedIn"
+941,6,2020-02-04,"1. Went to college 
+2. Preparing for apt test
+3. Working on infytq assignment"
+942,76,2020-02-04,"Watched a movie with friends "
+943,16,2020-02-04,"working with javascript
+"
+944,79,2020-02-04,"..went to college.."
+945,105,2020-02-04,"Went to college and completed some assignment work"
+946,40,2020-02-04,"Nothing Productive
+"
+947,53,2020-02-04,"Starting the machine learning in Nptel"
+948,72,2020-02-04,nothing
+949,90,2020-02-04,"done nothing"
+950,48,2020-02-05,"solved problems on sql"
+951,68,2020-02-05,"Will try to complete one of my project"
+952,85,2020-02-05,"Will try NPTEL task 3"
+953,35,2020-02-05,"College
+Solved a few questions
+Worked on SQL task
+Reading The Martian"
+954,88,2020-02-05,Hi
+955,15,2020-02-05,"College
+Gym
+"
+956,89,2020-02-05,"It's a College day"
+957,72,2020-02-05,"ind vs nz. :("
+958,70,2020-02-05,"Such a boring day"
+959,69,2020-02-05,Good
+960,104,2020-02-05,"Went to college. Completed my task ."
+961,75,2020-02-05,"attended college, went and bought a gift, attended the the sponsorship meeting, researched for contacts in various brands"
+962,102,2020-02-05,"Attended college and went to teach"
+963,43,2020-02-05,"attempted sql assignment"
+964,38,2020-02-05,"nothing productive"
+965,95,2020-02-05,"Machine Drawing Lab. IND VS NZ. "
+966,39,2020-02-05,"<p>watched video on SQL</p>"
+967,87,2020-02-05,"<p>1. Attended College&nbsp;</p><p>2. Started Discrete Mathematics</p><p>3. looking forward to today's session on NumPy</p>"
+968,83,2020-02-05,"<p>Nothing,coz sick.</p>"
+969,29,2020-02-05,"<p>Continued on python</p>"
+970,52,2020-02-05,"<p>college and done task 8--will look to improve it</p>"
+971,44,2020-02-05,"<p>Attended class lecture and viewed SQL lectures.&nbsp;</p>"
+972,9,2020-02-05,"<p>learning SQL and task 4 of milestone</p><p><br></p>"
+973,74,2020-02-05,<br>
+974,81,2020-02-05,"<p>Uploaded our project in the SIH Portal</p>"
+975,94,2020-02-05,"<p>What a busy day !!!</p>"
+976,90,2020-02-05,<p>college</p>
+977,86,2020-02-05,"<p>Attended college and hangout with friends in Chandannagar strand</p>"
+978,101,2020-02-05,"<p>College fees cleared<br></p>"
+979,103,2020-02-05,"<p>Clg as usual...</p>"
+980,105,2020-02-05,"<p>Went to college and made video resume.</p><p><br></p>"
+981,96,2020-02-05,"<p>College ,work</p><p><br></p>"
+982,77,2020-02-05,"<p>Installed Tensorflow and Keras</p>"
+983,53,2020-02-05,"<p><i>Nothing productive</i></p>"
+984,5,2020-02-05,"<p>Went to college. Filled up form for college purpose</p>"
+985,11,2020-02-05,"<p>Went to college</p><p><br></p>"
+986,78,2020-02-05,<p>College</p>
+987,6,2020-02-05,"<ol><li>Went to college</li><li>Solved INFYTQ assignment</li></ol>"
+988,18,2020-02-05,"<p>5/2</p><ul><li>College.</li><li><i>Studied OOP<b>.</b></i></li><li><b>Will sleep.</b></li></ul>"
+989,21,2020-02-05,"<p>Went to college</p><p>Filled up forms</p><p>Flask task</p>"
+990,14,2020-02-05,"<p>1. College</p><p>2. Form fill up</p><p>3. Assignment 6 submit&nbsp;</p><p>4. Website submit</p><p>5. Working on recipi&nbsp;</p>"
+991,76,2020-02-05,"<p>Attended College</p>"
+992,17,2020-02-05,"<p>Aptitude</p><p>Study</p><p>Internship Work</p><p>Task 3 complete</p>"
+993,12,2020-02-05,"<ol><li>Book Fair visit.</li><li>Milestone task 4.</li></ol>"
+994,16,2020-02-05,"<p>Trying to understand Flask!</p>"
+995,40,2020-02-05,"<p>Busy with my classes and labs.</p><p>Went to Haldia mela to see the concert of Sanam Puri.</p>"
+996,48,2020-02-06,"<p>studied maths</p>"
+997,74,2020-02-06,"<p>busy schedule.<br></p>"
+998,69,2020-02-06,"<p>Class hai</p>"
+999,35,2020-02-06,<ol><li>College</li><li>Assignment</li><li>Class</li><li>Novel</li></ol>
+1000,70,2020-02-06,"<p>Nothing special</p>"
+1001,105,2020-02-06,"<p>Went to college and met my frnd.</p><p><br></p>"
+1002,84,2020-02-06,"<p>Starting with the new assignment</p>"
+1003,83,2020-02-06,<p>Work!</p>
+1004,38,2020-02-06,<p>Travelled<br></p>
+1005,85,2020-02-06,"<p>Hit the gym.</p>"
+1006,72,2020-02-06,"<p>Bangladesh vs Newzealand U19 WC</p>"

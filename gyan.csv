@@ -1,0 +1,1001 @@
+gyan_id,user_id,submission_date,link,category
+1,5,2019-08-09,https://www.linkedin.com/posts/bharat-patidar-ab61367b_computervision-facerecognition-artificialintelligence-ugcPost-6552981521475698688-bReQ/,General
+2,13,2019-08-09,https://deepmind.com/blog/article/using-machine-learning-to-accelerate-ecological-research,General
+3,16,2019-08-09,https://towardsdatascience.com/how-to-meaningfully-play-with-data-f5183fe82539,"Data Science"
+4,15,2019-08-09,https://ai.googleblog.com/2019/08/video-understanding-using-temporal.html?m=1,"Artificial Intelligence"
+5,14,2019-08-09,https://www.indiatoday.in/education-today/featurephilia/story/artificial-intelligence-is-changing-the-teaching-learning-process-in-education-1579224-2019-08-09,General
+6,5,2019-08-09,https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd,Mathematics
+7,2,2019-08-09,https://towardsdatascience.com/sentiment-analysis-is-difficult-but-ai-may-have-an-answer-a8c447110357,"Artificial Intelligence"
+8,7,2019-08-09,https://medium.com/cracking-the-data-science-interview/7-machine-learning-applications-at-google-843d49d77bc8,General
+9,18,2019-08-09,https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767,General
+10,12,2019-08-10,https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d,Resource
+11,21,2019-08-10,https://towardsdatascience.com/data-science-you-need-to-know-linear-regression-2b6d966bc4a8,"Machine Learning"
+12,14,2019-08-10,https://www.analyticsindiamag.com/5-reasons-why-a-data-scientist-should-consider-changing-his-job/,Career
+13,18,2019-08-10,https://towardsdatascience.com/top-ai-and-machine-learning-trends-in-media-and-entertainment-823f7efea928,General
+14,13,2019-08-11,https://humanparts.medium.com/why-i-deleted-all-my-social-media-accounts-8847726863,General
+15,3,2019-08-11,https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9,"Deep Learning"
+16,21,2019-08-11,https://towardsdatascience.com/probability-learning-i-bayes-theorem-708a4c02909a,Mathematics
+17,18,2019-08-11,https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71,"Machine Learning"
+18,2,2019-08-11,https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5,Resource
+19,14,2019-08-11,https://www.analyticsindiamag.com/8-ways-to-spot-a-fake-data-scientist/,Career
+20,16,2019-08-12,https://towardsdatascience.com/sql-in-python-for-beginners-b9a4f9293ecf,Python
+21,6,2019-08-12,https://towardsdatascience.com/the-influence-of-data-scaling-on-machine-learning-algorithms-fbee9181d497,"Machine Learning"
+22,18,2019-08-12,https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3,General
+23,12,2019-08-12,https://towardsdatascience.com/the-secrets-to-a-successful-ai-strategy-d241adda5832,"Artificial Intelligence"
+24,14,2019-08-12,https://www.analyticsindiamag.com/all-the-recent-advancements-in-medical-ai/,General
+25,2,2019-08-12,https://towardsdatascience.com/understanding-random-forest-58381e0602d2,"Machine Learning"
+26,6,2019-08-12,https://towardsdatascience.com/introduction-to-naive-bayes-classification-4cffabb1ae54,"Machine Learning"
+27,3,2019-08-13,https://github.com/sdmg15/Best-websites-a-programmer-should-visit,Resource
+28,14,2019-08-13,https://www.thehindu.com/opinion/op-ed/rooting-ai-in-ethics/article29035692.ece,"Artificial Intelligence"
+29,18,2019-08-13,https://medium.com/free-code-camp/mistakes-youve-probably-made-in-your-coding-task-for-a-job-interview-28e6db6a68ad,Career
+30,21,2019-08-14,https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4,"Data Analytics"
+31,13,2019-08-14,https://towardsdatascience.com/thinking-of-self-studying-machine-learning-remind-yourself-of-these-6-things-b55a5f2b6c7d,General
+32,14,2019-08-14,https://theconversation.com/ai-is-in-danger-of-becoming-too-male-new-research-121229,"Artificial Intelligence"
+33,19,2019-08-18,https://medium.com/better-marketing/how-i-made-11-000-from-writing-in-30-days-9c55d1e69723,General
+34,2,2019-08-18,https://towardsdatascience.com/logistic-regression-ca2d070a3eee,"Machine Learning"
+35,19,2019-08-20,https://onezero.medium.com/desperate-spammers-are-targeting-calendars-with-meeting-invites-b4e24f8e8a,General
+36,14,2019-08-17,https://www.theguardian.com/technology/2019/aug/17/emotion-ai-artificial-intelligence-mood-realeyes-amazon-facebook-emotient,"Artificial Intelligence"
+37,12,2019-08-18,https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a,"Machine Learning"
+38,6,2019-08-20,https://medium.com/@ODSC/top-data-wrangling-skills-required-for-data-scientists-8a6b7dc604a7,"Data Analytics"
+39,13,2019-08-20,https://towardsdatascience.com/the-secrets-of-successful-ai-startups-whos-making-money-in-ai-part-ii-207fea92a8d5,General
+40,16,2019-08-15,https://towardsdatascience.com/machine-learning-cheat-sheet-data-processing-71faf3b26db8,"Machine Learning"
+41,7,2019-08-16,https://towardsdatascience.com/probability-learning-i-bayes-theorem-708a4c02909a,Mathematics
+42,11,2019-08-22,https://www.analyticsinsight.net/integration-of-artificial-intelligence-and-machine-learning-with-analytics/,General
+43,4,2019-08-20,https://searchsqlserver.techtarget.com/definition/data-mining,General
+44,20,2019-08-20,https://www.analyticsindiamag.com/hitting-the-accelerator-a-data-science-leaders-perspective-on-getting-more-value-from-ai-workloads/,General
+45,11,2019-08-16,https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d,General
+46,5,2019-08-20,https://towardsdatascience.com/bioinformatics-where-code-meets-biology-faa2b99cdfcb,General
+47,18,2019-08-20,https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779,"Data Analytics"
+48,21,2019-08-21,https://www.analyticsvidhya.com/blog/2019/08/10-powerful-python-tricks-data-science/,Python
+49,16,2019-08-22,https://towardsdatascience.com/stock-prediction-using-recurrent-neural-networks-c03637437578,"Deep Learning"
+50,7,2019-08-22,https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15,"Data Analytics"
+51,6,2019-08-23,https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac,"Machine Learning"
+52,1,2019-08-23,https://towardsdatascience.com/predicting-presence-of-heart-diseases-using-machine-learning-36f00f3edb2c,"Machine Learning"
+53,2,2019-08-25,https://towardsdatascience.com/a-year-as-a-data-scientist-right-after-college-an-honest-review-40509d07ca04,Career
+54,12,2019-08-25,https://www.analyticsindiamag.com/top-9-apis-in-machine-learning-artificial-intelligence/,Tools
+55,6,2019-08-26,https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4,"Data Analytics"
+56,15,2019-08-26,https://www.omgubuntu.co.uk/2019/08/linux-birthday-28-years-old,General
+57,5,2019-08-27,https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09,"Deep Learning"
+58,18,2019-08-27,https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924,Python
+59,21,2019-08-28,https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513,"Data Science"
+60,19,2019-08-28,https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50,"Machine Learning"
+61,16,2019-08-29,https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42,"Data Science"
+62,11,2019-08-29,https://towardsdatascience.com/bayes-rule-applied-75965e4482ff,Mathematics
+63,6,2019-08-30,https://medium.com/@juniormiranda_23768/what-is-the-difference-between-artificial-intelligence-machine-learning-and-deep-learning-71ec27ea5a2a,General
+64,7,2019-08-30,https://www.analyticsindiamag.com/top-9-apis-in-machine-learning-artificial-intelligence/,Tools
+65,1,2019-08-31,https://towardsdatascience.com/sentiment-analysis-is-difficult-but-ai-may-have-an-answer-a8c447110357,"Machine Learning"
+66,6,2019-08-31,https://medium.com/datadriveninvestor/introduction-to-exploratory-data-analysis-682eb64063ff,"Data Analytics"
+67,12,2019-09-01,https://towardsdatascience.com/when-is-ai-trustworthy-when-is-ai-useful-215aaee24a6f,General
+68,2,2019-09-01,https://medium.com/foursquare-direct/in-ten-years-the-future-of-ai-and-ml-fa68a527f378,General
+69,9,2019-09-02,https://waypointrobotics.com/blog/what-autonomous-robots/,Robotics
+70,14,2019-09-02,https://www.indiatoday.in/education-today/news/story/robots-teachers-bengaluru-school-artificial-intelligence-ai-divd-1594366-2019-09-02,General
+71,6,2019-09-03,https://towardsdatascience.com/how-to-scrape-the-web-using-python-with-scrapy-spiders-e2328ac4526,Python
+72,13,2019-09-03,https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71,"Machine Learning"
+73,5,2019-09-03,https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29,Tools
+74,18,2019-09-03,https://towardsdatascience.com/everything-a-data-scientist-should-know-about-data-management-6877788c6a42,"Data Science"
+75,21,2019-09-04,https://towardsdatascience.com/p-values-explained-by-data-scientist-f40a746cfc8,Mathematics
+76,16,2019-09-05,https://medium.com/towards-artificial-intelligence/stop-calling-automation-ai-and-the-natural-progression-of-intelligent-machines-41aa17ff657c,"Artificial Intelligence"
+77,11,2019-09-05,https://medium.com/machine-learning-for-humans/neural-networks-deep-learning-cdad8aeae49b,"Deep Learning"
+78,6,2019-09-05,https://medium.com/gadictos/linear-classifiers-an-introduction-to-classification-786fe27eef83,"Machine Learning"
+79,7,2019-09-06,https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924,Python
+80,1,2019-09-07,https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1,"Machine Learning"
+81,2,2019-09-08,https://medium.com/gadictos/linear-classifiers-an-introduction-to-classification-786fe27eef83,"Machine Learning"
+82,6,2019-09-09,https://medium.com/machine-learning-for-humans/unsupervised-learning-f45587588294,"Machine Learning"
+83,15,2019-09-09,https://medium.com/swlh/my-favorite-data-science-machine-learning-resources-6a76bd30b059,Resource
+84,14,2019-09-09,https://www.forbes.com/sites/janakirammsv/2019/09/09/microsoft-vision-ai-developer-kit-simplifies-building-vision-based-deep-learning-projects/#166ceb9e284f,"Deep Learning"
+85,9,2019-09-09,https://blog.goodaudience.com/data-science-a-piece-of-cake-92a70232e71f,"Data Science"
+86,15,2019-09-09,https://onezero.medium.com/its-a-huge-mistake-to-memorize-your-passwords-2bdc1fdd64c2,General
+87,5,2019-09-10,https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/,"Data Science"
+88,18,2019-09-10,https://towardsdatascience.com/which-flavor-of-data-professional-are-you-5e01375584ce,Career
+89,13,2019-09-10,https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470,"Deep Learning"
+90,21,2019-09-11,https://towardsdatascience.com/machine-learning-probability-statistics-f830f8c09326,"Machine Learning"
+91,6,2019-09-12,https://towardsdatascience.com/how-will-you-be-recruited-as-a-data-scientist-a-brief-analysis-of-my-linkedin-messages-498c6e20916d,Career
+92,11,2019-09-12,https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76,"Machine Learning"
+93,16,2019-09-12,https://towardsdatascience.com/how-to-master-pandas-8514f33f00f6,"Data Analytics"
+94,7,2019-09-13,https://www.analyticsvidhya.com/blog/2019/08/10-powerful-python-tricks-data-science/,Python
+95,1,2019-09-13,https://towardsdatascience.com/top-ai-and-machine-learning-trends-in-media-and-entertainment-823f7efea928,General
+96,14,2019-09-15,https://singularityhub.com/2019/09/15/will-ai-be-fashion-forward-or-a-fashion-flop/,General
+110,15,2020-01-06,https://hackernoon.com/how-to-monetize-a-medium-article-b4c1aeb7fdae,General
+111,14,2020-01-08,http://theconversation.com/ai-can-now-read-emotions-should-it-128988,"Artificial Intelligence"
+113,6,2020-01-09,https://youtu.be/yrpygHsZd5Y,Career
+115,14,2020-01-10,https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/,"Artificial Intelligence"
+116,15,2020-01-11,https://towardsdatascience.com/dealing-with-categorical-data-fast-an-example-d4329b44253d,"Data Analytics"
+121,14,2020-01-12,https://www.analyticsinsight.net/can-expect-ai-2020/,"Artificial Intelligence"
+122,18,2020-01-13,"From Discover on Google https://www.infoq.com/news/2020/01/google-albert-ai-nlp/","Deep Learning"
+123,5,2020-01-14,https://medium.com/nightingale/visualizing-the-movement-of-music-genres-527e194e1d42,"Data Science"
+124,21,2020-01-14,https://medium.com/swlh/why-digital-assistants-suck-and-how-we-can-do-better-9282dbb499d1,General
+125,15,2020-01-14,https://elemental.medium.com/to-make-habits-that-stick-you-need-to-train-your-brain-1f11064bc93,General
+126,21,2020-01-15,https://towardsdatascience.com/microsoft-data-science-interview-questions-and-answers-69ccac16bd9b,General
+127,38,2020-01-16,https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e,"Data Science"
+128,35,2020-01-16,https://towardsdatascience.com/7-of-the-best-ai-articles-of-2019-bd62478e2223,General
+129,43,2020-01-16,https://analyticsindiamag.com/data-science-ai-trends-in-india-to-watch-out-for-in-2020-by-analytics-india-magazine-analytixlabs/,"Data Science"
+130,39,2020-01-16,https://www.digitalnest.in/blog/15-astonishing-facts-about-data-science-analytics-that-everyone-should-know/,"Data Science"
+131,52,2020-01-16,https://medium.com/startup-grind/best-tips-of-2019-from-experts-entrepreneurs-f6862778bee1?source=extreme_sidebar----f5c95cc981bd-----0-1----------------------,Career
+132,14,2020-01-17,https://news.psu.edu/story/604300/2020/01/17/science-and-technology/using-machine-learning-improve-traffic-congestion,"Machine Learning"
+133,40,2020-01-17,https://www.news18.com/news/india/can-artificial-intelligence-be-used-for-court-judgments-iit-kharagpur-devises-method-2462055.html,"Artificial Intelligence"
+134,41,2020-01-17,https://www.google.com/amp/s/www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/,General
+135,25,2020-01-18,https://youtu.be/DBXZWB_dNsw,Career
+136,35,2020-01-18,https://medium.com/@ATALLC/can-data-science-be-used-to-predict-when-the-mail-arrives-9ba55072e4cb,"Data Science"
+137,38,2020-01-18,https://www.fastcompany.com/90402503/the-10-most-important-moments-in-ai-so-far,"Artificial Intelligence"
+138,29,2020-01-18,https://medium.com/@Liamiscool/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f,"Machine Learning"
+139,44,2020-01-18,https://towardsdatascience.com/how-much-math-do-you-really-need-in-data-science-821ad101d394,"Data Science"
+140,6,2020-01-18,https://www.zdnet.com/article/google-reveals-new-python-programming-language-course-scholarships-for-2500/,Python
+141,45,2020-01-18,https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae,"Data Analytics"
+142,40,2020-01-18,https://www.kdnuggets.com/2020/01/future-machine-learning.html,"Machine Learning"
+149,49,2020-01-19,https://www.zdnet.com/article/netflix-python-programming-language-is-behind-every-film-you-stream/,Python
+150,35,2020-01-19,https://towardsdatascience.com/beautiful-code-ad8a0c6b19,General
+151,43,2020-01-19,https://www.geeksforgeeks.org/top-5-artificial-intelligenceai-predictions-in-2020/,"Artificial Intelligence"
+152,38,2020-01-19,https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2020/,Career
+153,44,2020-01-19,https://towardsdatascience.com/data-visualization-box-plot-989b69967834,"Data Science"
+154,11,2020-01-19,https://medium.com/@davoh/how-robot-priests-will-change-human-spirituality-913a19386698?source=email-52c790db34c9-1579377650130-digest.reader------0-49------------------b8a63063_e500_4165_867b_e75acdbfadb3-11-----&sectionName=topic,"Machine Learning"
+155,45,2020-01-19,https://towardsdatascience.com/the-actual-difference-between-statistics-and-machine-learning-64b49f07ea3,General
+159,82,2020-01-19,https://opensource.com/article/20/1/python-journal,Python
+160,67,2020-01-19,https://www.datacamp.com/community/blog/breakthroughs-big-data-science-2017,"Data Science"
+161,68,2020-01-19,https://gadgets.ndtv.com/science/news/elon-musks-spacex-to-simulate-rocket-failure-in-final-astronaut-capsule-test-2165990,General
+162,76,2020-01-19,https://automatetheboringstuff.com/,Python
+163,95,2020-01-19,https://www.analyticsinsight.net/top-10-machine-learning-courses-for-2020/,"Machine Learning"
+164,75,2020-01-19,https://www.microsoft.com/en-us/ai/ai-lab-sketch2code,"Artificial Intelligence"
+165,94,2020-01-19,https://www.nature.com/articles/s41598-019-57274-1,"Machine Learning"
+166,77,2020-01-19,https://youtu.be/ARIZnaMXTEU,General
+167,86,2020-01-19,https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306,Mathematics
+168,74,2020-01-19,https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/,Resource
+171,73,2020-01-19,https://hackernoon.com/future-of-python-language-bright-or-dull-uv41u3xwx,Python
+172,103,2020-01-19,https://www.newscientist.com/article/2230401-a-robot-equipped-with-real-pigeon-feathers-flies-like-a-living-bird/,Robotics
+175,85,2020-01-19,https://inc42.com/resources/machine-learning-experience-a-different-way-of-gaming/,"Machine Learning"
+178,93,2020-01-19,https://observer.com/2019/11/elon-musk-neuralink-ai-brain-chip-podcast-update/,"Artificial Intelligence"
+179,104,2020-01-19,https://m.economictimes.com/magazines/panache/artificial-intellegence-for-the-win-new-ai-tool-can-predict-gestational-diabetes-risk-before-pregnancy/articleshow/73297828.cms,"Artificial Intelligence"
+180,78,2020-01-19,https://towardsdatascience.com/cut-out-the-cloud-share-interactive-jupyter-dashboards-on-a-usb-stick-c196d01df3e4,Tools
+181,21,2020-01-19,https://medium.com/transmission-newsletter/deep-learning-is-revolutionary-d0f3667bafa0,"Deep Learning"
+182,88,2020-01-19,https://www.linkedin.com/posts/amazon_want-to-shine-during-your-amazon-interview-activity-6623995342054572032-Nm-x,Career
+183,84,2020-01-19,https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/?utm_source=blog&utm_medium=20-popular-machine-learning-and-deep-learning-articles-on-analytics-vidhya-in-2019,"Machine Learning"
+184,40,2020-01-19,https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/,"Artificial Intelligence"
+185,72,2020-01-19,https://www.javatpoint.com/difference-between-artificial-intelligence-and-machine-learning,"Machine Learning"
+186,87,2020-01-19,https://medium.com/datadriveninvestor/artificial-intelligence-vs-machine-learning-vs-deep-learning-vs-data-science-2183ac856368,"Machine Learning"
+187,29,2020-01-19,https://medium.com/kaitlynschatch/if-you-only-read-5-books-in-2019-acdfba22871a?source=grid_home---------0-51----------1fda751b6d4e-------18---ce42305c_cf09_4f10_9e8b_e6224b807542--,Resource
+188,90,2020-01-19,https://techcrunch.com/2019/03/18/nvidia-ai-turns-sketches-into-photorealistic-landscapes-in-seconds/,"Machine Learning"
+189,15,2020-01-19,https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/,"Machine Learning"
+190,32,2020-01-19,https://www.codingdojo.com/blog/what-programming-language-to-learn-first,Python
+191,103,2020-01-20,https://www.the-scientist.com/notebook/deep-learning-algorithms-identify-structures-in-living-cells-65778,"Deep Learning"
+192,68,2020-01-20,https://www.technewsworld.com/story/86367.html,General
+193,96,2020-01-20,https://www.gadgetsnow.com/tech-news/iit-kharagpur-researchers-evolve-ai-aided-method-to-automate/articleshow/73355421.cms,"Artificial Intelligence"
+194,88,2020-01-20,https://www.linkedin.com/posts/satyaki-saha-284b2219b_top-upcoming-smartphones-in-2020-heres-activity-6624913794877489152-5RQp,General
+195,38,2020-01-20,https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463,"Artificial Intelligence"
+196,80,2020-01-20,https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-deepmind-ai-human-brain-neuroscience-a9286661.html,"Artificial Intelligence"
+197,74,2020-01-20,https://www.nature.com/articles/s41598-020-57549-y,"Artificial Intelligence"
+198,89,2020-01-20,https://chipsnwafers.electronicsforu.com/2020/01/17/reference-design-of-an-industrial-iotiiot-board-by-maxim/,General
+199,78,2020-01-20,https://www.google.com/amp/s/www.deccanherald.com/amp/sunday-herald/sh-top-stories/being-human-in-the-age-of-artificial-intelligence-795461.html,"Artificial Intelligence"
+200,75,2020-01-20,https://www.linkedin.com/posts/amazon-web-services_establish-a-connection-between-amazon-vpc-activity-6624370665325637632-ntuo,Resource
+201,76,2020-01-20,https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/amp/,Tools
+202,35,2020-01-20,https://marker.medium.com/starbucks-isnt-a-coffee-company-its-a-data-technology-business-ddd9b397d83e,"Data Science"
+203,86,2020-01-20,https://www.roboticsbusinessreview.com/news/infographic-the-evolution-of-robotics-and-automation/,Robotics
+204,43,2020-01-20,https://www.dqindia.com/data-science-jobs-india-increase-1-5-lakhs-2020/,"Data Science"
+205,79,2020-01-20,https://www.harrisgeospatial.com/Learn/Blogs/Blog-Details/ArtMID/10198/ArticleID/23770/ENVI-Analytics-Enable-Consultants-to-Meet-Environmental-Standards?utm_source=giscafe&utm_medium=web%20banner&utm_campaign=envi%20deep%20learning&gclid=Cj0KCQiAvJXxBRCeA,General
+206,94,2020-01-20,"https://insidebigdata.com › growth-i... Growth in Machine Learning: Accessibility of MLaaS and the Future ...","Machine Learning"
+207,11,2020-01-20,https://medium.com/@jchallman/how-a-i-put-the-humanity-back-in-chess-401a3f38d207?source=email-52c790db34c9-1578687336671-digest.reader------0-49------------------6691772d_f477_423b_a850_3ec45c306022-11-----&sectionName=topic,"Artificial Intelligence"
+209,95,2020-01-20,https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-apollo-hospitals-use-data-analytics-for-infection-control-surveillance/73412803,"Data Analytics"
+210,44,2020-01-20,https://towardsdatascience.com/most-in-demand-tech-skills-for-data-engineers-58f4c1ca25ab?source=grid_home---------0-50----------ae5d4995e225-------18---5da9335f_4394_4c26_8bd7_5d14a74b2390--2,"Data Science"
+211,29,2020-01-20,https://medium.com/swlh/here-is-a-rundown-of-5-major-tech-trends-hitting-2020-6c7ee09b895,"Deep Learning"
+212,45,2020-01-20,https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2?source=grid_home---------0-50----------1eca0103fff3-------18---ee2da0fb_034a_4831_8397_efe57cad9155--,General
+213,105,2020-01-20,https://economictimes.indiatimes.com/tech/ites/iit-kharagpur-develops-ai-system-to-read-legal-judgments/articleshow/73296111.cms,"Artificial Intelligence"
+214,104,2020-01-20,https://m.economictimes.com/jobs/97000-posts-in-analytics-and-data-vacant-in-2019-claims-report/articleshow/73394097.cms,"Data Analytics"
+215,73,2020-01-20,"NewsWorld Article: The machines are whispering: We tested AI Dungeon 2 and cannot stop laughing http://www.thejointnewz.com/NewsWorld?id=9942618","Machine Learning"
+216,93,2020-01-20,https://youtu.be/rgxDixvWbLE,General
+217,67,2020-01-20,https://www.linkedin.com/posts/forbes-magazine_ditch-this-one-career-sabotaging-habit-and-activity-6625054168929312769-C_iE,General
+218,77,2020-01-20,https://www.infoworld.com/article/3514948/6-great-new-python-features-you-dont-want-to-miss.html,General
+219,40,2020-01-20,https://www.gizchina.com/2020/01/19/6g-technology-japan-plans-to-achieve-6g-by-2030/,General
+220,84,2020-01-20,https://www.analyticsvidhya.com/blog/2019/09/7-data-science-projects-github-showcase-your-skills/?utm_source=blog&utm_medium=20-popular-machine-learning-and-deep-learning-articles-on-analytics-vidhya-in-2019,"Machine Learning"
+221,82,2020-01-20,https://dailyhodl.com/2020/01/19/algorithmic-trading-from-microwave-technology-to-colocation-and-neural-networks/amp/,"Machine Learning"
+222,103,2020-01-21,https://www.the-scientist.com/features/ai-uses-images-and-omics-to-decode-cancer-65732,"Deep Learning"
+223,5,2020-01-21,https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5,General
+224,74,2020-01-21,https://artificialintelligence-news.com/2019/12/03/amazon-ai-announcements-reinvent-2019/,"Artificial Intelligence"
+225,89,2020-01-21,https://www.firstpost.com/tech/news-analysis/amazon-is-rolling-out-new-electric-delivery-rickshaws-in-india-says-ceo-jeff-bezos-7930251.html,General
+226,77,2020-01-21,https://www.digitimes.com/news/a20200120PD203.html,"Artificial Intelligence"
+227,78,2020-01-21,https://venturebeat.com/2020/01/16/facebook-launches-pytorch-1-4-with-mobile-customization-and-java-support/amp/,Python
+230,80,2020-01-21,https://www.the-scientist.com/news-opinion/ai-accurately-detects-lung-cancer-in-scans-65914,"Artificial Intelligence"
+231,79,2020-01-21,https://www.the-scientist.com/news-opinion/new-evidence-points-to-asteroid-as-cause-of-dinosaur-extinction-66984,General
+233,75,2020-01-21,https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/,"Deep Learning"
+234,76,2020-01-21,http://dhunt.in/8eQvr?s=a&ss=pd,"Data Science"
+235,82,2020-01-21,https://towardsdatascience.com/how-to-win-a-hackathon-real-time-mobile-wildfire-detection-in-tensorflow-lite-b0ee838a4c18?gi=a0bab5e1d099,"Artificial Intelligence"
+236,68,2020-01-21,https://www.gadgetsnow.com/tech-news/realme-xiaomi-to-be-the-first-to-launch-smartphones-with-made-in-india-isros-gps-tech/articleshow/73479424.cms,General
+237,35,2020-01-21,https://medium.com/@georgejziogas/how-to-speak-with-confidence-to-absolutely-anyone-17aff65c37ef,Career
+242,67,2020-01-21,"https://www.datamation.com › e... 12 Examples of Artificial Intelligence: AI Powers Business",General
+246,69,2020-01-21,https://theconversation.com/us/topics/machine-learning-8332,"Machine Learning"
+247,56,2020-01-21,https://towardsdatascience.com/uber-has-been-quietly-assembling-one-of-the-most-impressive-open-source-deep-learning-stacks-in-b645656ddddb?_branch_match_id=680047293624700851&gi=9e75da1044c1,"Deep Learning"
+249,72,2020-01-21,https://www.google.com/amp/s/www.geeksforgeeks.org/history-of-python/amp/,Python
+250,95,2020-01-21,https://www.bbva.com/en/how-may-quantum-computing-affect-artificial-intelligence/,"Artificial Intelligence"
+251,73,2020-01-21,https://towardsdatascience.com/5-ways-julia-is-better-than-python-334cc66d64ae,Python
+252,102,2020-01-21,https://www.sciencedaily.com/releases/2019/11/191108074852.htm,Mathematics
+253,105,2020-01-21,https://economictimes.indiatimes.com/magazines/panache/artificial-intellegence-for-the-win-new-ai-tool-can-predict-gestational-diabetes-risk-before-pregnancy/articleshow/73297828.cms,"Artificial Intelligence"
+254,52,2020-01-21,https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/,General
+255,44,2020-01-21,https://towardsdatascience.com/project-based-learning-for-data-scientists-df6a8f74e4a1,"Data Science"
+256,36,2020-01-21,https://cio.economictimes.indiatimes.com/news/corporate-news/saas-startup-samya-ai-raises-6-million-from-sequoia-india/73468898,"Artificial Intelligence"
+259,81,2020-01-21,https://medium.com/leukemiaairesearch/acute-lymphoblastic-leukemia-papers-evaluation-part-1-tensorflow-2-0-81d0b3fcb14b,General
+260,104,2020-01-21,https://www.news18.com/news/lifestyle/new-machine-learning-to-identify-patients-with-colorectal-cancer-2443595.html,"Machine Learning"
+261,18,2020-01-21,https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article,"Data Analytics"
+262,94,2020-01-21,https://towardsdatascience.com/machine-learning-for-beginners-d247a9420dab,"Machine Learning"
+263,96,2020-01-21,https://adtmag.com/articles/2019/04/04/linkedin-avro2tf.aspx?fbclid=IwAR30tbA6ZEYnZdEPCMnPAfO_nJaY2qfxBWvte84DP8tPgKlWq6R-5TTu85s,General
+264,93,2020-01-21,https://youtu.be/5D1g1nQhYQs,General
+265,84,2020-01-21,https://medium.com/cs-math/why-becoming-a-data-scientist-is-not-actually-easier-than-you-think-5b65b548069b,"Data Science"
+266,38,2020-01-21,https://www.kdnuggets.com/2019/12/4-hottest-trends-data-science-2020.html,Career
+267,87,2020-01-21,https://towardsdatascience.com/4-common-mistakes-python-beginners-should-avoid-89bcebd2c628,Python
+268,88,2020-01-21,https://www.linkedin.com/posts/google_a-new-certificate-to-help-people-grow-careers-activity-6624023173274972160--C4_,Python
+269,101,2020-01-21,https://youtu.be/S7h-YGnNpfo,Robotics
+270,85,2020-01-21,https://fortune.com/longform/hr-technology-ai-hiring-recruitment/,"Artificial Intelligence"
+274,86,2020-01-21,https://www.taxscan.in/icsi-conduct-certificate-course-data-analytics-association-ibm/45383/,"Data Analytics"
+275,40,2020-01-21,https://apnews.com/c15e8dca7555b3280dc62e8e7d9ce8a5,"Artificial Intelligence"
+276,103,2020-01-22,https://www.the-scientist.com/news-opinion/ai-app-identifies-rare-genetic-disorders-from-photos-of-patient-faces-65295,"Artificial Intelligence"
+277,74,2020-01-22,https://towardsdatascience.com/am-i-training-my-machine-learning-models-or-are-they-training-me-5bd7fcb1a0e,"Machine Learning"
+280,87,2020-01-22,https://www.sciencedaily.com/releases/2020/01/200116101157.htm,"Deep Learning"
+281,89,2020-01-22,https://www.linkedin.com/posts/google_google-careers-activity-6622886100019085313-uYTj,General
+282,88,2020-01-22,https://www.linkedin.com/posts/google_newyear-activity-6616020913366413312-NUCq,General
+283,67,2020-01-22,https://youtu.be/SXbphD5WIw0,Python
+284,76,2020-01-22,https://hbr.org/2019/07/3-questions-hiring-managers-want-you-to-answer?utm_medium=social&utm_source=linkedin&utm_campaign=hbr,General
+285,83,2020-01-22,https://www.gsmarena.com/google_has_3_new_conceptual_apps_that_could_help_reduce_phone_addiction-news-41133.php,Tools
+286,104,2020-01-22,https://towardsdatascience.com/pandas-makes-python-better-ec6cc1e30233,Python
+287,29,2020-01-22,https://towardsdatascience.com/10-git-commands-that-will-get-you-started-right-now-94d814761919?source=extreme_main_feed---------0-59--------------------0d59e3ee_0ed3_40e9_ab3b_8308f6e59b62--5,"Deep Learning"
+288,75,2020-01-22,https://stackabuse.com/speeding-up-arduino/,Robotics
+292,101,2020-01-22,https://youtu.be/wxStlzunxCw,General
+293,78,2020-01-22,https://www.slashgear.com/google-launches-experimental-digital-wellbeing-android-apps-21607350/amp/,Resource
+295,82,2020-01-22,https://magenta.tensorflow.org/ddsp,"Deep Learning"
+296,95,2020-01-22,https://www.techrepublic.com/article/average-it-salary-hits-record-113639-in-us-due-to-these-certifications/,Career
+297,93,2020-01-22,https://www.infoworld.com/article/3241107/julia-vs-python-which-is-best-for-data-science.html,"Data Science"
+298,94,2020-01-22,"https://www.futurelearn.com › steps Glossary of terms - Begin Robotics - FutureLearn",Robotics
+299,81,2020-01-22,https://newsroom.intel.com/news-releases/media-alert-ces-2020-intel-highlights-positive-global-impact-ai-autonomous-driving-intelligence-driven-computing/?linkId=100000009950147#gs.tijk8a,"Artificial Intelligence"
+300,77,2020-01-22,https://towardsdatascience.com/logistic-regression-using-gradient-descent-optimizer-in-python-485148bd3ff2,"Machine Learning"
+301,79,2020-01-22,http://news.mit.edu/2019/machine-learning-sales-ebay-translation-1220,General
+302,73,2020-01-22,https://www.indiatoday.in/science/story/gaganyaan-vyommitra-talking-humanoid-isro-space-1639077-2020-01-22,Robotics
+303,96,2020-01-22,https://eandt.theiet.org/content/articles/2020/01/google-ceo-backs-gdpr-says-privacy-should-not-be-a-luxury/,General
+304,102,2020-01-22,https://www.indiatimes.com/technology/news/isro-chief-unveils-vyomitra-humanoid-robot-reveals-plans-for-gaganyaan-and-chandrayaan-3-504770.html,"Artificial Intelligence"
+305,44,2020-01-22,https://www.livemint.com/news/india/swiggy-explains-why-its-online-food-price-might-be-higher-than-restaurant-rates/amp-11579583470706.html,General
+306,85,2020-01-22,https://www.financialexpress.com/industry/ai-and-data-analytics-are-a-part-of-every-loan-sanctioned-at-clix-katerina-folkman-head-of-ai-and-analytics-clix-capital/1830788/,"Data Science"
+307,68,2020-01-22,https://www.theverge.com/2020/1/21/21075920/facebook-oculus-business-go-dropped-vr-headset-support-quest,General
+308,38,2020-01-22,https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975,"Artificial Intelligence"
+311,105,2020-01-22,https://economictimes.indiatimes.com/topic/Analytics-and-Data-Science,"Data Analytics"
+312,80,2020-01-22,https://artificialintelligence-news.com/2020/01/10/intel-examines-ai-recognise-faces-thermal-imaging/,General
+315,90,2020-01-22,https://into.ai/blog/news-stories/ubers-synthetic-training-data-speeds-up-deep-learning-by-9x/,"Machine Learning"
+318,40,2020-01-22,https://www.theverge.com/2020/1/20/21073682/ai-regulation-google-alphabet-ceo-sundar-pichai,"Artificial Intelligence"
+319,84,2020-01-22,https://towardsdatascience.com/what-i-learned-from-writing-a-data-science-article-every-week-for-a-year-201c0357e0ce,General
+320,9,2020-01-22,https://towardsdatascience.com/build-a-recommender-system-yelp-rating-prediction-example-collaborative-filtering-28a6e48a8cc?source=collection_home---4------2-----------------------,"Data Science"
+323,69,2020-01-22,https://www.progress.com/blogs/10-must-read-data-technology-articles-from-january-2017,"Data Science"
+324,45,2020-01-23,https://towardsdatascience.com/googles-new-explainable-ai-xai-service-83a7bc823773,General
+325,83,2020-01-23,https://www.theverge.com/2020/1/21/21075200/podcast-amd-ceo-lisa-su-interview-ryzen-chips-ces-2020-vergecast-intel,General
+326,103,2020-01-23,https://www.the-scientist.com/news-opinion/ai-object-recognition-system-operates-at-speed-of-light--64569,"Artificial Intelligence"
+327,95,2020-01-23,https://economictimes.indiatimes.com/jobs/97000-posts-in-analytics-and-data-vacant-in-2019-claims-report/articleshow/73394097.cms,Career
+328,96,2020-01-23,https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9?source=ifttt--------------1&fbclid=IwAR3OrtvohZ9falgBb51Q0jTqZERBAlbGFPO6G5H4yiE0oIpOqW-McSHsg7E,General
+330,74,2020-01-23,https://m.techxplore.com/news/2020-01-ai-technique-function-reward-pathways.html,"Artificial Intelligence"
+331,94,2020-01-23,"https://bestresumeobjectiveexamples.com › ... Web results Top 22 Entry-Level Resume Objective Examples You Can Use | Best Resume ...",Career
+332,35,2020-01-23,https://towardsdatascience.com/edge-detection-in-python-a3c263a13e03,Python
+333,88,2020-01-23,https://www.linkedin.com/posts/satyaki-saha-284b2219b_python-analytics-datascience-activity-6625972989630472192-5OCV,Python
+334,87,2020-01-23,https://realpython.com/python-lambda/,Python
+335,76,2020-01-23,https://m.hindustantimes.com/education/facebook-announces-1000-vacancies-for-engineer-product-developer-and-others/story-bPwfbXycTtxPy2hzhUNGwJ_amp.html,Career
+336,82,2020-01-23,https://towardsdatascience.com/mastering-linear-algebra-in-tensorflow-part1-input-layer-e0480a8d69bf,"Deep Learning"
+337,89,2020-01-23,https://www.cxotv.news/2020/01/17/artificial-glucose-sensing-with-an-algorithm-dr-bansi-saboo-chief-diabetologist-chairman-diabetes-care-hormone-clinic/,General
+338,101,2020-01-23,https://www.mendix.com/examples-of-iot-applications/,General
+339,73,2020-01-23,https://www.infoworld.com/article/3452666/python-overtakes-java-on-github.html,Python
+340,84,2020-01-23,https://www.newscientist.com/article/mg24332500-800-ai-can-predict-your-future-behaviour-with-powerful-new-simulations/,"Artificial Intelligence"
+341,38,2020-01-23,https://medium.com/neurohive-computer-vision/new-datasets-for-3d-human-pose-estimation-45cd320e37bd,"Artificial Intelligence"
+342,81,2020-01-23,https://financialit.net/blog/cyber-security/cyber-security-trends-2020,General
+345,86,2020-01-23,https://timesofindia.indiatimes.com/business/india-business/india-likely-to-see-62-rise-in-data-science-job-openings-in-2020/articleshow/73479201.cms,"Data Science"
+346,77,2020-01-23,https://towardsdatascience.com/this-google-scientist-teaches-ai-to-build-better-ai-8a8fcf6ea6b8,"Artificial Intelligence"
+347,104,2020-01-23,http://news.mit.edu/2020/artificial-intelligence-digital-maps-0123,"Artificial Intelligence"
+348,102,2020-01-23,https://www.popularmechanics.com/technology/robots/a30564900/pigeonbot-future-of-flight/,Robotics
+349,79,2020-01-23,http://news.mit.edu/2020/tool-how-fast-code-run-chip-0106,General
+350,53,2020-01-23,https://elitedatascience.com/machine-learning-projects-for-beginners,"Machine Learning"
+351,43,2020-01-23,https://www.google.com/amp/s/tech.economictimes.indiatimes.com/amp/news/technology/data-science-roles-to-see-over-a-lakh-job-openings-this-year/73388613,Career
+352,93,2020-01-23,https://youtu.be/S5t6K9iwcdw,"Artificial Intelligence"
+353,67,2020-01-23,https://youtu.be/6CEgbaBMQJg,"Data Science"
+354,72,2020-01-23,https://www.dummies.com/business/marketing/social-media-marketing/the-benefits-of-using-linkedin/,Career
+355,105,2020-01-23,https://economictimes.indiatimes.com/tech/internet/cos-likely-to-extensively-use-ai-to-deal-with-cyberattacks-says-study/articleshow/73229445.cms,General
+356,68,2020-01-23,https://www.gadgetsnow.com/tech-news/researchers-from-iit-madras-and-kit-germany-develop-cathode-materials-for-ion-batteries/articleshow/73556969.cms,General
+357,75,2020-01-23,https://digital.hbs.edu/platform-rctom/submission/valve-using-machine-learning-and-deep-learning-to-catch-cheaters-on-csgo-794-words/,"Artificial Intelligence"
+358,78,2020-01-23,https://pharmaphorum.com/news/poor-data-hindering-machine-learning-in-drug-rd/,"Machine Learning"
+359,40,2020-01-23,https://towardsdatascience.com/5-things-academics-need-to-know-when-they-become-data-scientists-591d078e6ef6,"Data Science"
+360,80,2020-01-23,https://www.sciencedaily.com/releases/2020/01/200108123149.htm,General
+361,6,2020-01-24,https://www.freecodecamp.org/news/freelance-web-developer-guide/,Career
+362,76,2020-01-24,https://www.phoronix.com/scan.php?page=news_item&px=AMD-Intel-2010s-Kernel-Contrib,General
+363,21,2020-01-24,https://medium.com/free-code-camp/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee,General
+364,95,2020-01-24,https://yourstory.com/socialstory/2020/01/mumbai-based-salaam-bombay-foundation-skill-at-school-robotics,Robotics
+365,67,2020-01-24,"https://www.w3schools.com › whatis Web results What is Full Stack - W3Schools",General
+366,74,2020-01-24,https://www.theregister.co.uk/2020/01/21/ai_kaggle_contest_cheat/,"Artificial Intelligence"
+367,103,2020-01-24,https://www.the-scientist.com/the-nutshell/deep-learning-allows-for-cell-analysis-without-labeling-30252,"Deep Learning"
+368,96,2020-01-24,https://eandt.theiet.org/content/articles/2020/01/robots-could-harness-ai-to-master-sandwich-making/,General
+369,88,2020-01-24,https://www.linkedin.com/posts/amazon_max-o-tells-us-about-managing-a-team-of-ugcPost-6625133477589319680-gVCX,General
+370,48,2020-01-24,https://www.dataquest.io/blog/what-is-a-data-engineer/,General
+371,104,2020-01-24,https://www.nature.com/articles/s41598-020-57974-z,"Machine Learning"
+375,83,2020-01-24,https://www.oreilly.com/radar/where-programming-languages-are-headed-in-2020/,General
+376,35,2020-01-24,https://www.mindtools.com/selfconf.html,Career
+379,89,2020-01-24,https://www.linkedin.com/posts/intel-corporation_ces2020-ai-intelces2020-activity-6620091474669371392-ePP5,General
+380,90,2020-01-24,https://www.thestar.com.my/tech/tech-news/2020/01/23/google-ceo-thinks-ai-will-be-more-a-profound-change-than-fire,"Artificial Intelligence"
+381,84,2020-01-24,https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882,"Machine Learning"
+382,44,2020-01-24,https://www.metrorailnews.info/job/gmr-is-hiring-mechanical-engineer-for-hyderabad-airport-project/,Career
+383,70,2020-01-24,https://tech.economictimes.indiatimes.com/news/internet/hopeful-all-countries-will-come-together-on-ai-regulations-sundar-pichai/73520992,"Artificial Intelligence"
+384,82,2020-01-24,https://towardsdatascience.com/what-is-gradient-accumulation-in-deep-learning-ec034122cfa,"Deep Learning"
+385,75,2020-01-24,https://medium.com/sciforce/machine-learning-in-agriculture-applications-and-techniques-6ab501f4d1b5,"Artificial Intelligence"
+386,72,2020-01-24,https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html,"Machine Learning"
+387,85,2020-01-24,https://www.vice.com/en_us/article/m7qezx/kaggle-data-science-community-rocked-by-pet-adoption-contest-cheating-scandal,"Artificial Intelligence"
+388,68,2020-01-24,https://www.gadgetsnow.com/tech-news/heres-another-proof-of-apple-car-plans/articleshow/73581309.cms,General
+389,53,2020-01-24,https://www.independent.co.uk/life-style/gadgets-and-tech/news/earth-ghost-particles-geoneutrinos-borexino-detector-a9298426.html,Resource
+390,29,2020-01-24,https://www.quora.com/What-are-the-most-interesting-things-about-being-a-data-scientist,General
+393,80,2020-01-24,https://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-artificial-intelligence-dangerous-text-gpt2-elon-musk-a9192121.html,"Artificial Intelligence"
+394,94,2020-01-24,"towardsdatascience.com Web results The Complete Beginners Guide to Deep Learning","Deep Learning"
+395,69,2020-01-24,https://hackernoon.com/message-moderation-system-ac9472962bf,"Machine Learning"
+397,102,2020-01-24,https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/,"Artificial Intelligence"
+398,78,2020-01-24,https://towardsdatascience.com/google-just-published-25-million-free-datasets-d83940e24284,Resource
+399,86,2020-01-24,https://techcrunch.com/2020/01/23/cortex-labs-helps-data-scientists-deploy-machine-learning-models-in-the-cloud/,"Machine Learning"
+400,73,2020-01-24,https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/,General
+401,43,2020-01-24,https://yourstory.com/2020/01/data-science-careers-india-startups,Career
+402,38,2020-01-24,https://www.analyticbridge.datasciencecentral.com/group/books/forum/topics/book-an-introduction-to-statistical-learning-using-r,Resource
+403,105,2020-01-24,https://economictimes.indiatimes.com/tech/internet/you-could-get-to-use-a-5g-phone-as-soon-as-feb/articleshow/73573297.cms,General
+404,79,2020-01-24,https://artificialintelligence-news.com/2020/01/21/google-ceo-sensible-ai-regulation-limit-potential/,"Artificial Intelligence"
+407,93,2020-01-24,https://tech.economictimes.indiatimes.com/amp/news/technology/human-beings-are-unable-to-connect-with-artificial-intelligence-pranav-mistry/73560435,"Artificial Intelligence"
+408,101,2020-01-24,https://www.kdnuggets.com/2016/08/reinforcement-learning-internet-things.html,"Machine Learning"
+409,87,2020-01-24,https://www.datacamp.com/community/blog/data-scientist-vs-data-engineer,"Data Science"
+410,40,2020-01-24,https://www.thehindu.com/news/cities/Visakhapatnam/iot-enabled-towers-may-house-key-administrative-buildings/article30619452.ece,"Machine Learning"
+411,103,2020-01-25,https://www.the-scientist.com/image-of-the-day/image-of-the-day--bad-behavior-65202,"Deep Learning"
+412,67,2020-01-25,"https://mml-book.github.io › ...PDF Web results book "Mathematics for Machine Learning"",Mathematics
+413,74,2020-01-25,https://towardsdatascience.com/how-a-passion-for-numbers-turned-this-mechanical-engineer-into-a-kaggle-grandmaster-8b1ae218afc,General
+414,48,2020-01-25,https://onezero.medium.com/amazon-and-google-are-practically-giving-away-smart-speakers-heres-why-56f0e50bd95c,General
+415,89,2020-01-25,https://electrek.co/2020/01/24/tesla-software-update-2020/,General
+416,76,2020-01-25,https://towardsdatascience.com/how-i-went-from-zero-coding-skills-to-data-scientist-in-6-months-c2207b65f2f3,"Data Science"
+417,82,2020-01-25,https://www.theverge.com/platform/amp/2020/1/24/21080424/google-search-result-ads-desktop-favicon-redesign-backtrack-controversial-experiment,Tools
+418,35,2020-01-25,https://www.edureka.co/blog/10-reasons-why-big-data-analytics-is-the-best-career-move,General
+419,29,2020-01-25,https://www.quora.com/Are-you-a-self-made-data-scientist-How-did-you-do-it,"Data Science"
+420,68,2020-01-25,https://www.independent.co.uk/life-style/gadgets-and-tech/news/space-astronomy-star-superluminous-supernovae-explained-brightest-universe-a9300856.html,General
+421,69,2020-01-25,https://openai.com/blog/musenet/,General
+422,83,2020-01-25,https://www.livescience.com/fruit-fly-high-resolution-brain-connectivity.html,General
+423,32,2020-01-25,https://www.sas.com/en_in/insights/analytics/machine-learning.html,"Machine Learning"
+424,72,2020-01-25,https://www.quora.com/Why-did-you-learn-Machine-Learning,"Machine Learning"
+425,81,2020-01-25,http://news.mit.edu/2020/artificial-intelligence-digital-maps-0123?fbclid=IwAR2ra-WbcBbSe1MWYkQ4KfH9ojlt80fe8X5LGHA7bxbPWmy8QSS90AGytd0,"Artificial Intelligence"
+426,45,2020-01-25,https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28,"Machine Learning"
+427,94,2020-01-25,"https://www.wrike.com › blog Web results What Is Resource Management & Why Is It Important? - Wrike",Resource
+428,96,2020-01-25,https://eandt.theiet.org/content/articles/2020/01/microsoft-discloses-security-breach-affecting-250-million-customers/,General
+429,77,2020-01-25,https://towardsdatascience.com/predict-daily-electric-consumption-with-neural-networks-8ba59471c1d,"Deep Learning"
+430,44,2020-01-25,https://www.ghacks.net/2020/01/24/microsoft-releases-kb4534321-and-kb4534308-for-windows-10-version-1809-and-1803/,General
+431,38,2020-01-25,https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512,"Machine Learning"
+432,75,2020-01-25,https://www.smartdatacollective.com/how-cloud-computing-and-robotics-play-role-in-industrial-automation/amp/,Robotics
+433,53,2020-01-25,"From Discover on Google https://www.livescience.com/physicists-drop-objects-satellite-prove-galileo-correct.html",Career
+434,78,2020-01-25,http://bwpeople.businessworld.in/article/Tomorrow-s-Workplace-Humans-And-AI-Co-existing-As-Colleagues/25-01-2020-182461/,"Artificial Intelligence"
+435,102,2020-01-25,https://www.nature.com/articles/d41586-020-00160-y,"Artificial Intelligence"
+436,43,2020-01-25,https://thenextweb.com/podium/2020/01/24/get-ready-for-the-emergence-of-ai-as-a-service/,"Artificial Intelligence"
+437,39,2020-01-25,https://www.analyticsinsight.net/neural-architecture-and-automl-technology/,"Machine Learning"
+438,70,2020-01-25,https://www.forbes.com/sites/amirhusain/2020/01/24/seeing-a-better-future-for-ai/#12fb0fa01347,"Artificial Intelligence"
+439,85,2020-01-25,https://time.com/5769005/ai-white-collar-work/,"Artificial Intelligence"
+440,86,2020-01-25,https://www.zdnet.com/article/artificial-intelligence-works-its-way-into-supply-chains/,"Artificial Intelligence"
+441,73,2020-01-25,https://www.marketingtechnews.net/news/2019/jul/30/why-ai-should-not-be-treated-kpi-marketers-right-now/,General
+442,95,2020-01-25,https://www.predictiveanalyticsworld.com/machinelearningtimes/the-4-hottest-trends-in-data-science-for-2020/10738/,"Data Science"
+443,90,2020-01-25,https://towardsdatascience.com/an-overview-of-time-series-forecasting-models-a2fa7a358fcb,"Artificial Intelligence"
+444,105,2020-01-25,https://www.firstpost.com/tech/news-analysis/mexican-mathematician-solves-decades-old-mathematical-problem-that-could-revolutionize-lens-design-7131481.html,Mathematics
+445,88,2020-01-25,https://www.linkedin.com/posts/adobe_ai-moves-up-the-value-chain-from-productivity-activity-6625492124936867840-04Qq,General
+446,11,2020-01-25,https://dzone.com/articles/a-complete-guide-to-math-and-statistics-for-data-s,Mathematics
+447,40,2020-01-25,https://towardsdatascience.com/introducing-julia-an-alternative-to-python-and-r-for-data-science-dcbf98346253,"Data Science"
+448,93,2020-01-25,https://timesofindia.indiatimes.com/spotlight/demand-for-machine-learning-ai-professionals-rising-in-india-heres-how-you-can-fill-the-gap/articleshow/70344655.cms,"Machine Learning"
+449,104,2020-01-25,https://medium.com/@iampris7/comparative-study-between-different-data-based-job-556c17613293,"Data Science"
+450,87,2020-01-25,https://www.edureka.co/blog/how-to-become-a-machine-learning-engineer/#z9,"Machine Learning"
+451,84,2020-01-25,https://towardsdatascience.com/six-recommendations-for-aspiring-data-scientists-93d12aeb9b9,"Data Science"
+452,68,2020-01-26,https://www.simplilearn.com/importance-of-machine-learning-for-data-scientists-article,General
+454,53,2020-01-26,"From Discover on Google https://devblogs.microsoft.com/cppblog/cmake-linux-targeting-and-intellisense-improvements-in-visual-studio-2019-version-16-5-preview-2/",General
+455,89,2020-01-26,https://theblog.adobe.com/ai-moving-up-the-value-chain/?scid=871ec89b-4b94-47fe-a683-7649c665bfa9&mv=social&mv2=owned_social,General
+456,78,2020-01-26,https://www.slashgear.com/google-and-jrc-release-worlds-highest-res-map-of-a-brain-23607573/,"Artificial Intelligence"
+457,88,2020-01-26,https://www.linkedin.com/posts/tata-consultancy-services_manufacturers-analytics-shopfloor-activity-6620196639204302848-7sqN,General
+458,48,2020-01-26,https://towardsdatascience.com/10-machine-learning-methods-that-every-data-scientist-should-know-3cc96e0eeee9,"Machine Learning"
+459,35,2020-01-26,https://virtualspeech.com/blog/speak-with-confidence-in-public,Career
+460,76,2020-01-26,https://medium.com/@ritikverma_56660/fascinated-by-the-word-data-confused-with-numerous-career-field-related-to-data-8016cd24a6bc,"Data Science"
+461,82,2020-01-26,https://towardsdatascience.com/do-you-speak-python-5dcfa9bb1fbe,Python
+462,103,2020-01-26,https://www.the-scientist.com/news-opinion/ai-networks-generate-super-resolution-from-basic-microscopy-65219,"Artificial Intelligence"
+463,96,2020-01-26,https://medium.com/@nickcapurso/a-tutorial-on-git-and-github-from-installation-to-pull-requests-7f158faf2695,General
+464,83,2020-01-26,https://medium.com/@sanaayousuf495/data-science-data-analytics-data-engineering-and-machine-learning-are-growing-at-an-fcd7fbf2bba,General
+465,70,2020-01-26,https://medium.com/@sagar1999sarkarcse/different-type-of-job-roles-in-data-science-5f3953621ab5,"Data Science"
+466,74,2020-01-26,https://medium.com/mit-technology-review/this-is-why-a-i-has-yet-to-reshape-most-businesses-2f029d83b8d5,"Artificial Intelligence"
+467,79,2020-01-26,https://artificialintelligence-news.com/2020/01/10/ai-crash-course-book-extract-exploring-the-principles-of-reinforcement-learning/,General
+469,104,2020-01-26,https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/,"Artificial Intelligence"
+470,75,2020-01-26,https://www.bbc.com/news/technology-47555588,"Artificial Intelligence"
+471,94,2020-01-26,https://techcrunch.com/2020/01/20/soft-robotics-raises-23-million-from-investors-including-industrial-robot-giant-fanuc/,Robotics
+472,81,2020-01-26,https://www.forbes.com/sites/simonchandler/2020/01/20/how-artificial-intelligence-will-make-decisions-in-tomorrows-wars/?fbclid=IwAR0_JMnCrrJMVF7c1SW2RrtCy14FTGsSB5G9-b5jaa-0ZTydVwc5-dMBTDc#63eee3e34e01,"Artificial Intelligence"
+473,72,2020-01-26,http://www.klientsolutech.com/why-blogging-is-important-for-everyone/,General
+474,86,2020-01-26,https://www.techrepublic.com/article/oracle-using-data-science-to-give-retailers-an-intelligence-edge/,"Data Science"
+475,90,2020-01-26,https://towardsdatascience.com/this-is-the-architecture-powering-machine-learning-at-linkedin-c8d8da29bbf1,"Machine Learning"
+476,69,2020-01-26,https://www.ncbi.nlm.nih.gov/m/pubmed/15478601/?i=3&from=/1367939/related,"Artificial Intelligence"
+477,95,2020-01-26,https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/,"Machine Learning"
+478,73,2020-01-26,https://cleantechnica.com/2020/01/25/birds-oceans-wildfires-oh-my-how-machine-learning-is-changing-climate-research/,"Machine Learning"
+479,14,2020-01-26,https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/,"Artificial Intelligence"
+480,32,2020-01-26,https://www.cetpainfotech.com/blogs/scope-and-future-of-data-analytics-in-india/,"Data Analytics"
+482,43,2020-01-26,https://analyticsindiamag.com/what-is-more-beneficial-to-get-data-science-jobs-certificates-or-projects/,Career
+483,87,2020-01-26,https://datascience.berkeley.edu/about/what-is-data-science/,"Data Science"
+484,39,2020-01-26,https://www.expresscomputer.in/industries/education/5-emerging-technologies-that-will-reform-education-in-2020/45091/,General
+485,77,2020-01-26,https://www.freecodecamp.org/news/how-to-make-programming-a-daily-habit/amp/,Tools
+486,93,2020-01-26,https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/,General
+487,102,2020-01-26,https://techxplore.com/news/2020-01-facebook-ai-brushoff-robots.html,"Artificial Intelligence"
+488,80,2020-01-26,https://gadgets.ndtv.com/science/news/iit-hyderabad-introduces-india-s-first-b-tech-in-artificial-intelligence-programme-1980185,General
+489,44,2020-01-26,https://devblogs.microsoft.com/cppblog/cmake-linux-targeting-and-intellisense-improvements-in-visual-studio-2019-version-16-5-preview-2/,General
+490,40,2020-01-26,https://www.freecodecamp.org/news/how-to-make-programming-a-daily-habit/,General
+491,38,2020-01-26,https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html,Career
+493,85,2020-01-26,https://www.forbes.com/sites/cognitiveworld/2020/01/26/operationalizing-ai/#175dd64033df,"Artificial Intelligence"
+494,48,2020-01-27,https://towardsdatascience.com/top-10-technology-trends-for-2020-4a179fdd53b1,General
+495,76,2020-01-27,https://news.microsoft.com/en-in/microsoft-highway-to-a-hundred-unicorns-selects-54-startups-from-tier-2-cities/?ocid=AID737942_LINKEDIN_oo_spl100001099696965,General
+497,105,2020-01-27,https://economictimes.indiatimes.com/tech/ites/india-russia-explore-joint-development-of-it-products-ai-solutions/articleshow/73640882.cms,General
+498,96,2020-01-27,https://medium.com/edureka/python-decorator-tutorial-bf7b21278564,General
+499,69,2020-01-27,https://www.sciencedaily.com/releases/2019/10/191030151155.htm,"Artificial Intelligence"
+500,75,2020-01-27,https://www.agorapulse.com/blog/linkedin-analytics/amp/,Career
+501,6,2020-01-27,https://www.livemint.com/companies/start-ups/an-indian-fix-for-a-coding-niggle-goes-global-11580050246627.html,General
+502,89,2020-01-27,https://www.blog.google/technology/ai/forecasting-earthquake-aftershock-locations-ai-assisted-science/,"Artificial Intelligence"
+503,35,2020-01-27,https://link.springer.com/article/10.1007/s10639-018-9763-x,Mathematics
+504,82,2020-01-27,https://www.theregister.co.uk/AMP/2020/01/21/ai_kaggle_contest_cheat/,General
+507,77,2020-01-27,https://towardsdatascience.com/distillation-of-knowledge-in-neural-networks-cc02f79698b6?gi=e843c7458221,"Deep Learning"
+508,72,2020-01-27,https://mambaout.com/achievements.html,General
+509,95,2020-01-27,https://www.forbes.com/sites/louiscolumbus/2020/01/19/roundup-of-machine-learning-forecasts-and-market-estimates-2020/,"Machine Learning"
+510,102,2020-01-27,https://insidebigdata.com/category/news-analysis/,"Data Science"
+511,53,2020-01-27,"From Discover on Google https://www.space.com/antarctic-neutrino-mystery-deepens.html",General
+512,73,2020-01-27,https://m.techxplore.com/news/2020-01-machine-ai-science.html,"Artificial Intelligence"
+513,84,2020-01-27,https://towardsdatascience.com/this-google-scientist-teaches-ai-to-build-better-ai-8a8fcf6ea6b8?source=collection_home---4------2-----------------------,"Artificial Intelligence"
+517,80,2020-01-27,https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/,General
+518,103,2020-01-27,https://gadgets.ndtv.com/mobiles/news/motorola-razr-care-tips-prevent-display-damage-foldable-phone-2170520,General
+521,44,2020-01-27,https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33,General
+522,39,2020-01-27,https://timesofindia.indiatimes.com/blogs/toi-edit-page/how-technology-saved-chinas-economy-outsiders-focus-on-how-china-is-using-tech-to-create-a-surveillance-state-but-it-has-also-created-a-new-engine-of-growth/,Career
+523,87,2020-01-27,https://towardsdatascience.com/5-hacky-tableau-techniques-cf3b039345ea,Tools
+524,81,2020-01-27,https://qz.com/1791222/how-artificial-intelligence-provided-early-warning-of-wuhan-virus/?fbclid=IwAR27WJVlk9e4jt6cQxhe4wPnmIeX4Q_nsBSQFjZ9REBEnLVmT9Yrr6Y9CIM,"Artificial Intelligence"
+525,88,2020-01-27,"From Discover on Google https://www.freecodecamp.org/news/how-to-make-programming-a-daily-habit/",General
+526,78,2020-01-27,https://www.aithority.com/machine-learning/knime-on-amazon-web-services-now-available-to-productionize-ai-ml/,"Artificial Intelligence"
+527,21,2020-01-27,https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401?gi=cf621dc7a150,General
+528,94,2020-01-27,https://qswownews.com/uitms-electrical-engineering-research-on-enhanced-volt-var-optimization-via-artificial-intelligence-ai-won-gold-award-at-the-2019-aceic/,"Artificial Intelligence"
+529,43,2020-01-27,https://www.analyticsinsight.net/facial-recognition-technology-could-now-predict-and-improve-weather-forecasting/,General
+530,68,2020-01-27,https://www.gadgetsnow.com/tech-news/indian-entities-facing-3-times-more-cyberattacks-than-global-average-report/articleshow/73670016.cms,General
+531,101,2020-01-27,https://www.geeksforgeeks.org/difference-between-machine-learning-and-artificial-intelligence/,General
+532,38,2020-01-27,https://towardsdatascience.com/free-data-sets-for-machine-learning-73e74554cc21,"Data Science"
+533,9,2020-01-27,https://medium.com/free-code-camp/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c,"Data Science"
+534,93,2020-01-27,https://venturebeat.com/2019/12/30/10-technology-trends-that-will-impact-our-lives-in-2020/,General
+535,86,2020-01-27,https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/#aoh=15801460536170&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s,"Machine Learning"
+536,90,2020-01-27,https://www.nature.com/articles/s41746-019-0216-8,"Machine Learning"
+537,104,2020-01-27,https://m.economictimes.com/small-biz/marketing-branding/branding/shopping-as-a-service-model-to-dictate-consumers-loyalty-towards-brands/articleshow/73349955.cms,"Machine Learning"
+538,40,2020-01-27,https://www.dataquest.io/blog/job-data-science-specialize/,"Data Science"
+539,85,2020-01-27,https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy,"Artificial Intelligence"
+543,70,2020-01-27,https://towardsdatascience.com/maximize-your-productivity-with-python-6110004b45f7,Python
+544,5,2020-01-28,https://towardsdatascience.com/uber-creates-generative-teaching-networks-to-better-train-deep-neural-networks-cab818a735fd,General
+545,105,2020-01-28,https://m.timesofindia.com/home/education/news/iit-kharagpur-develops-ai-powered-tech-for-reading-legal-cases/articleshow/73323933.cms,"Artificial Intelligence"
+546,48,2020-01-28,https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed,General
+547,83,2020-01-28,https://youtu.be/FconIXBtPQk,General
+548,68,2020-01-28,https://www.gadgetsnow.com/tech-news/this-google-app-gets-disappearing-messages-feature-report/articleshow/73685530.cms,General
+549,89,2020-01-28,https://m.economictimes.com/magazines/panache/underwater-scooters-pizza-robots-mind-controlling-headband-ces-leaves-people-amazed-with-mind-boggling-tech/articleshow/73188779.cms,General
+550,74,2020-01-28,https://towardsdatascience.com/the-basics-evaluating-regressions-91ffa7bde2b9,General
+554,76,2020-01-28,https://towardsdatascience.com/the-uber-data-scientist-interview-7ba9ca95f4e3,"Data Science"
+555,82,2020-01-28,https://www.indiatimes.com/amp/technology/news/data-science-is-the-next-field-in-demand-this-year-with-15-lakh-lucrative-jobs-reveals-study-504879.html,Career
+556,72,2020-01-28,https://www.thetechedvocate.org/10-benefits-of-google-classroom-integration/,Tools
+557,69,2020-01-28,https://www.infosecurity-magazine.com/news/royal-yachting-association/,"Data Science"
+558,78,2020-01-28,https://thenextweb.com/artificial-intelligence/2020/01/27/why-the-smartest-ai-is-still-dumber-than-a-toddler-and-how-we-can-fix-that/,"Artificial Intelligence"
+559,95,2020-01-28,https://www.technative.io/why-unsupervised-machine-learning-is-the-future-of-cybersecurity/,"Machine Learning"
+560,32,2020-01-28,https://www.edureka.co/blog/python-numpy-tutorial/,General
+561,93,2020-01-28,https://www.analyticsinsight.net/data-science-job-opportunities-continue-surge-2020/,"Data Science"
+562,18,2020-01-28,https://www.indiatimes.com/technology/news/data-science-is-the-next-field-in-demand-this-year-with-15-lakh-lucrative-jobs-reveals-study-504879.html,"Data Science"
+563,79,2020-01-28,https://artificialintelligence-news.com/2020/01/03/google-claims-its-ai-can-beat-human-doctors-at-spotting-breast-cancer/,General
+564,15,2020-01-28,https://towardsdatascience.com/5-reasons-why-you-should-use-cross-validation-in-your-data-science-project-8163311a1e79,"Machine Learning"
+565,94,2020-01-28,https://www.globenewswire.com/news-release/2020/01/27/1975409/0/en/Deep-Learning-Market-Size-Worth-US-56-427-2-Mn-By-2026.html,"Deep Learning"
+566,102,2020-01-28,https://www.kdnuggets.com/2019/01/role-data-engineer-changing.html,"Data Science"
+567,75,2020-01-28,https://www.hackster.io/smart-tech/programming-arduino-using-python-f3d2c0,Python
+568,77,2020-01-28,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227922,"Deep Learning"
+569,87,2020-01-28,https://towardsdatascience.com/10-python-pandas-tricks-to-make-data-analysis-more-enjoyable-cb8f55af8c30,"Machine Learning"
+571,96,2020-01-28,https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089e3,General
+572,81,2020-01-28,https://www.managedhealthcareexecutive.com/news/opinion-pharma-needs-go-big-artificial-intelligence?fbclid=IwAR1t5iJxM78pb4PjTtdQeK_CzS-NtXk6dLaW37Al5VBHrrkc7JVq5KPkLA4,"Artificial Intelligence"
+573,103,2020-01-28,https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html,"Data Science"
+574,90,2020-01-28,http://news.mit.edu/2019/differences-between-deep-neural-networks-and-human-perception-1212,"Machine Learning"
+575,73,2020-01-28,https://m.economictimes.com/magazines/panache/this-tech-firm-used-ai-machine-learning-to-predict-coronavirus-outbreak-warned-people-about-danger-zones/articleshow/73697801.cms,"Artificial Intelligence"
+576,43,2020-01-28,https://www.analyticsinsight.net/cloud-computing-and-big-data-to-bring-a-new-wave-in-digital-transformation/,General
+577,84,2020-01-28,https://towardsdatascience.com/using-part-of-speech-to-analyse-movie-reviews-3a3cfb9986d5,"Data Analytics"
+578,70,2020-01-28,https://www.weforum.org/agenda/2020/01/this-is-how-quantum-computing-will-change-our-lives-8a0d33657f/,General
+579,104,2020-01-28,https://m.economictimes.com/defaultinterstitial.cms,"Data Science"
+580,86,2020-01-28,https://www.techrepublic.com/article/python-where-to-learn-it-and-why-you-should-do-it-now/,Python
+581,39,2020-01-28,https://towardsdatascience.com/amazon-uses-self-learning-to-teach-alexa-to-correct-its-own-mistakes-3984cc077f30,"Artificial Intelligence"
+582,53,2020-01-28,"From Discover on Google https://www.newsgram.com/stretchable-battery-store-power-wearables/",General
+583,38,2020-01-28,https://levelup.gitconnected.com/10-great-programming-projects-to-improve-your-resume-and-learn-to-program-74b14d3e9e16,Career
+586,40,2020-01-28,https://www.thehindubusinessline.com/info-tech/google-introduces-hashtag-androidhelp-on-twitter-for-android-assistance/article30674235.ece/amp/,General
+587,11,2020-01-28,https://medium.com/@eriky/your-first-steps-with-flutter-dffa77378bd0?source=email-52c790db34c9-1580160055031-digest.reader------3-59------------------8dcf26a2_4aae_45f0_bfc6_fcc81e8165b0-1-----&sectionName=top,Resource
+588,88,2020-01-28,https://www.linkedin.com/posts/amazon_ever-wanted-to-try-out-a-new-job-for-the-activity-6621354798610546688-OjVU,General
+589,85,2020-01-28,https://www.lightnovelworld.com/novel/to-be-a-power-in-the-shadows/chapter-32,"Artificial Intelligence"
+590,82,2020-01-29,https://towardsdatascience.com/underrated-machine-learning-algorithms-apriori-1b1d7a8b7bc,"Machine Learning"
+592,68,2020-01-29,https://www.livescience.com/quantum-like-model-of-decision-making-proposed.html,General
+593,103,2020-01-29,https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17,General
+596,83,2020-01-29,https://youtu.be/kaU7IPlg9PA,General
+597,35,2020-01-29,https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8?gi=7056a6015d58,General
+598,48,2020-01-29,https://towardsdatascience.com/how-to-trick-a-smart-data-scientist-with-a-simple-statistical-problem-531f91e40ba5,General
+599,101,2020-01-29,https://www.investopedia.com/terms/d/degrees-of-freedom.asp,General
+600,104,2020-01-29,http://news.mit.edu/2020/clinical-risk-models-acccurate-0123,"Machine Learning"
+601,84,2020-01-29,https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2,General
+602,74,2020-01-29,https://datascience.virginia.edu/news/detecting-cyber-attacks-soon-they-start,General
+603,89,2020-01-29,https://eandt.theiet.org/content/articles/2020/01/amazon-s-ring-app-riddled-with-trackers-says-eff/,General
+604,75,2020-01-29,https://sylvesterkaczmarek.com/blog/machine-learning-music-composition/,"Machine Learning"
+605,88,2020-01-29,"From Discover on Google https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8",General
+606,77,2020-01-29,https://youtu.be/tcV1EYSUQME,General
+607,76,2020-01-29,https://towardsdatascience.com/i-moved-from-engineering-to-data-science-what-are-the-differences-50121ceef70d,"Data Science"
+608,69,2020-01-29,https://medium.com/analytics-for-humans/analytics-are-no-longer-for-human-here-is-how-we-can-fix-it-bce2b00d19c5,"Data Science"
+609,95,2020-01-29,https://towardsdatascience.com/using-python-and-selenium-to-get-coordinates-from-street-addresses-62706b6ac250,Python
+612,53,2020-01-29,https://www.fortuneindia.com/enterprise/accenture-teams-up-with-google-cloud-to-help-life-sciences-companies/104043,"Machine Learning"
+613,72,2020-01-29,https://education.seattlepi.com/describe-advantages-portfolio-assessment-students-1470.html,General
+614,93,2020-01-29,https://towardsdatascience.com/fluent-programming-db448fbdc441,"Data Science"
+615,78,2020-01-29,https://www.techrepublic.com/article/data-science-which-technologies-are-hot-and-which-are-not/,"Data Science"
+616,66,2020-01-29,https://towardsdatascience.com/9-things-i-learned-from-blogging-on-medium-for-the-first-month-2bace214b814,General
+617,87,2020-01-29,https://medium.com/better-programming/an-error-in-a-python-script-may-have-invalidated-150-research-projects-64fe7cda558c,Python
+618,105,2020-01-29,https://www.sciencedaily.com/releases/2019/12/191223095351.htm,"Artificial Intelligence"
+619,81,2020-01-29,https://www.vox.com/recode/2020/1/28/21110902/artificial-intelligence-ai-coronavirus-wuhan?fbclid=IwAR0Eg_awY2Aj6Oz65ge1NnIMWgLYaoKGudIimz5SS3zkS4R3tBRwhZM0ZS0,"Artificial Intelligence"
+620,29,2020-01-29,https://medium.com/better-programming/software-developer-trends-of-2020-and-beyond-d1b955bc46b8,"Data Science"
+622,70,2020-01-29,https://yourstory.com/2020/01/artificial-intelligence-ai-google-alphabet-ceo-sundar-pichai-wef,"Artificial Intelligence"
+623,45,2020-01-29,https://towardsdatascience.com/how-i-became-a-data-analyst-by-optimizing-the-right-place-and-time-bb068546ff17,General
+624,43,2020-01-29,https://www.crn.in/news/data-science-iot-and-reinforcement-learning-in-high-tech-manufacturing/,"Data Science"
+625,44,2020-01-29,https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7?source=grid_home---------0-50----------decb52b64abf-------18---ef35602d_1f9d_418d_acf5_2aa487bf3b36--2,General
+626,96,2020-01-29,https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6,General
+628,39,2020-01-29,https://www.thehindu.com/sci-tech/technology/what-are-the-advantages-blockchain-offers/article28621496.ece,General
+629,38,2020-01-29,https://medium.com/conquering-corporate-america/working-for-a-company-vs-working-for-yourself-bdcfa801daf9,Career
+630,86,2020-01-29,https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/,Robotics
+631,94,2020-01-29,https://www.infoworld.com/article/3516292/launchable-applies-machine-learning-to-software-testing.html,"Machine Learning"
+632,85,2020-01-29,https://www.statnews.com/2020/01/29/coronavirus-response-artificial-intelligence-becoming-useful/,"Artificial Intelligence"
+633,40,2020-01-29,https://snaphunt.com/jobs/91190419,"Artificial Intelligence"
+634,90,2020-01-29,https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/,"Artificial Intelligence"
+635,103,2020-01-30,https://tdwi.org/articles/2020/01/29/bi-all-visualization-sentiment.aspx,"Data Science"
+636,35,2020-01-30,https://www.information-age.com/data-and-analytics-predictions-priorities-2020-123487449/,General
+637,79,2020-01-30,https://artificialintelligence-news.com/2020/01/29/meena-google-truly-conversational-ai/,General
+652,82,2020-01-30,https://www.freecodecamp.org/news/learn-natural-language-processing-no-experience-required/amp/,"Machine Learning"
+659,96,2020-01-30,https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec,General
+660,83,2020-01-30,https://github.com/Sanaa495/new,General
+661,48,2020-01-30,https://towardsdatascience.com/you-shouldnt-call-yourself-a-data-scientist-if-you-don-t-know-this-8a068c8a9fde,"Data Science"
+663,53,2020-01-30,https://www.vox.com/recode/2020/1/29/21111848/free-software-privacy-alternative-data,General
+664,74,2020-01-30,https://www.marketingtechnews.net/news/2019/jun/18/getting-started-data-driven-content-journey-machine-learning-models-and-upskilling-seo/,General
+665,70,2020-01-30,https://towardsdatascience.com/googles-data-science-interview-brain-teasers-7f3c1dc4ea7f,"Data Science"
+666,80,2020-01-30,https://screenrant.com/replika-app-ai-friend/,"Artificial Intelligence"
+667,75,2020-01-30,https://www.scitecheuropa.eu/precision-livestock-farming-and-machine-learning/97020/,"Machine Learning"
+668,69,2020-01-30,https://www.infosecurity-magazine.com/news/japan-considers-emergency/,"Data Science"
+669,81,2020-01-30,https://bangaloremirror.indiatimes.com/bangalore/cover-story/meet-this-bus-conductor-who-studied-5-hours-daily-to-clear-the-upsc-civil-services-exam/articleshow/73674940.cms,Career
+670,95,2020-01-30,https://www.technologyreview.com/s/615109/ai-powered-robot-warehouse-pickers-are-now-ready-to-go-to-work/,Robotics
+671,9,2020-01-30,https://towardsdatascience.com/i-want-to-learn-artificial-intelligence-and-machine-learning-where-can-i-start-7a392a3086ec,"Artificial Intelligence"
+672,68,2020-01-30,https://www.offcampusjobs4u.com/informatica-hiring-as-software-engineer/,General
+673,43,2020-01-30,https://www.analyticsinsight.net/the-role-of-ai-and-machine-learning-in-cybersecurity/,"Machine Learning"
+674,102,2020-01-30,https://economictimes.indiatimes.com/topic/Big-Data-analytics,"Data Analytics"
+675,72,2020-01-30,https://www.learnupon.com/blog/soft-skills-training/,General
+676,77,2020-01-30,https://www.space.com/parker-solar-probe-perihelion-4.html,General
+677,84,2020-01-30,https://medium.com/@rathi.ankit/who-needs-a-data-engineer-d874aa793769,"Data Science"
+678,29,2020-01-30,https://towardsdatascience.com/on-implementing-deep-learning-library-from-scratch-in-python-c93c942710a8,Python
+679,78,2020-01-30,https://nationalinterest.org/blog/buzz/china-will-lose-artificial-intelligence-ai-race-and-why-america-will-win-118191,"Artificial Intelligence"
+680,94,2020-01-30,https://www.theverge.com/2020/1/29/21113421/soft-robot-hands-sweat-overheating-research,Robotics
+681,85,2020-01-30,https://physicsworld.com/a/machine-learning-for-tomographic-imaging/,"Machine Learning"
+682,87,2020-01-30,https://www.youtube.com/watch?v=D5RJDoNHs_A,"Data Science"
+683,105,2020-01-30,https://economictimes.indiatimes.com/tech/hardware/huawei-races-to-replace-google-apps-for-next-smartphone/articleshow/73763671.cms,General
+684,89,2020-01-30,https://www.theverge.com/ai-artificial-intelligence,General
+689,44,2020-01-30,https://www.indiatoday.in/amp/technology/news/story/apple-to-launch-new-iphone-macbook-air-in-2020-1641493-2020-01-30,General
+690,32,2020-01-30,https://www.google.com/amp/s/www.geeksforgeeks.org/top-10-programming-languages-of-the-world-2019-to-begin-with/amp/,General
+691,73,2020-01-30,https://www.educba.com/artificial-intelligence-technology/,"Artificial Intelligence"
+692,104,2020-01-30,https://blog.linnworks.com/artificial-intelligence-in-ecommerce,"Artificial Intelligence"
+693,38,2020-01-30,https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4?source=extreme_main_feed---------3-50----------1eca0103fff3----------d4cbf298_6aa7_4edb_9240_182bad77e78c--8&gi=a948d18f82d5,"Data Science"
+694,40,2020-01-30,https://www.networkworld.com/article/3516395/cisco-software-shapes-security-fortification-for-industrial-iot.html,"Artificial Intelligence"
+695,90,2020-01-30,https://artificialintelligence-news.com/2020/01/09/airbnb-uses-ai-enabled-trait-analyser-to-check-if-its-customers-are-psychopaths/,"Artificial Intelligence"
+696,88,2020-01-30,"From Discover on Google https://www.freecodecamp.org/news/learn-natural-language-processing-no-experience-required/",General
+697,76,2020-01-30,https://towardsdatascience.com/web-scraping-is-now-legal-6bf0e5730a78,"Data Science"
+698,67,2020-01-30,"https://www.who.int › ... › Diseases Web results Coronavirus - World Health Organization",General
+699,93,2020-01-30,https://www.livemint.com/companies/people/tesla-chief-elon-musk-adds-2-3-billion-to-his-fortune-in-just-60-minutes/amp-11580342429305.html,General
+701,35,2020-01-31,https://interestingengineering.com/liverpool-football-club-using-data-science-during-matches-and-the-results-are-impressive,General
+702,48,2020-01-31,https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761,"Machine Learning"
+703,96,2020-01-31,https://medium.com/edureka/python-turtle-module-361816449390,General
+704,74,2020-01-31,https://analyticsindiamag.com/why-a-career-in-data-science-should-be-your-prime-focus-in-2020/,General
+705,83,2020-01-31,https://www.linkedin.com/posts/satya-prakash-mohapatra-153926129_nofilter-selfmotivation-selfdrive-activity-6628620706076782593-KV7i,General
+707,103,2020-01-31,https://www.ghacks.net/2020/01/29/espanso-is-an-open-source-text-expander-for-windows-mac-and-linux/,General
+708,87,2020-01-31,https://towardsdatascience.com/introducing-pylathe-use-lathe-in-python-using-julia-6f67a7aaa6f9,Python
+709,29,2020-01-31,https://medium.com/swlh/welcome-to-python-3-8-cc88111ea14a,Python
+710,70,2020-01-31,https://towardsdatascience.com/what-do-data-scientists-do-13526f678129,"Data Science"
+711,72,2020-01-31,https://www.google.com/amp/s/amp.ft.com/content/84aa8b5e-c1a9-11e8-84cd-9e601db069b8,General
+712,75,2020-01-31,https://blog.deeplearning.ai/blog/the-batch-fighting-coronavirus-hunting-drug-dealers-fixing-bugs-regulating-ai-accelerating-text-to-speech?utm_campaign=The%20Batch&utm_content=114437429&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783,"Artificial Intelligence"
+713,53,2020-01-31,https://www.aithority.com/machine-learning/cross-industry-group-proposes-gdpr-grounded-model-for-compliant-adtech/,General
+714,102,2020-01-31,https://www.analyticsinsight.net/masters-of-business-analytics-com-launches-new-digital-publication-for-data-science-professionals-students/,"Data Science"
+715,95,2020-01-31,https://www.bbc.com/news/technology-51315462,"Artificial Intelligence"
+716,105,2020-01-31,"Big social media companies may be asked to maintain database of active mobile number of users https://economictimes.indiatimes.com/tech/internet/big-social-media-companies-may-be-asked-to-maintain-database-of-active-mobile-number-of-users/articleshow/7374",General
+717,73,2020-01-31,https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/,"Machine Learning"
+718,94,2020-01-31,https://phys.org/news/2020-01-machine-technique-crystal.html,"Machine Learning"
+719,86,2020-01-31,https://www.techspot.com/news/83789-become-data-analytics-expert-learning-tableau-python-excel.html,Python
+720,80,2020-01-31,https://www.asianscientist.com/2020/01/print/smart-city-algorithms-accountable/,"Artificial Intelligence"
+721,68,2020-01-31,https://www.cnet.com/news/the-best-smart-home-devices-of-2020-amazon-alexa-google-assistant-nest-hub-echo-show-simplisafe/,General
+722,104,2020-01-31,https://www.nature.com/articles/s41598-020-58637-9,"Machine Learning"
+723,43,2020-01-31,https://www.eletimes.com/artificial-intelligence-ai-in-battling-the-coronavirus,"Artificial Intelligence"
+724,77,2020-01-31,https://towardsdatascience.com/keep-jupyter-notebook-running-even-after-browser-is-closed-9a1937b7c615,"Data Science"
+725,44,2020-01-31,https://www.windowslatest.com/2020/01/30/windows-10-x-will-come-with-macos-like-wallpaper-feature/amp/,General
+726,101,2020-01-31,https://www.datasciencecentral.com/,Resource
+727,90,2020-01-31,https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/,"Artificial Intelligence"
+728,38,2020-01-31,https://towardsdatascience.com/10-python-tips-and-tricks-you-should-learn-today-a05c23a39dc5,Python
+729,40,2020-01-31,https://medium.com/@gdesantis7/data-scientist-vs-data-analyst-vs-data-engineer-bd4868f9b31e,"Data Science"
+730,78,2020-01-31,https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/,"Artificial Intelligence"
+731,81,2020-01-31,https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/?fbclid=IwAR2zsSHg3bzZU-jhSkjTLFF7tAMoZigLrwdE7RtqsggPmwg7VIEczyiM5pU#7f055f50470f,"Artificial Intelligence"
+732,84,2020-01-31,https://onezero.medium.com/googles-new-chatbot-and-aerial-surveillance-this-week-s-most-interesting-arxiv-papers-e269b49bcfb8,General
+733,76,2020-01-31,https://www.indiatoday.in/technology/news/story/meet-meena-google-s-new-chatbot-that-interacts-like-humans-1641982-2020-01-31,"Artificial Intelligence"
+734,82,2020-01-31,https://www.nature.com/articles/s41586-020-1942-4,"Artificial Intelligence"
+735,93,2020-01-31,https://www.gizchina.com/2020/01/31/windows-core-os-information-leaked-by-engineer/amp/,General
+736,89,2020-01-31,https://www.govtech.com/computing/Understanding-the-Four-Types-of-Artificial-Intelligence.html,General
+737,88,2020-02-01,"From Discover on Google https://www.zdnet.com/article/java-c-or-javascript-full-stack-or-front-end-here-are-the-software-developer-jobs-that-pay-the-most/",General
+738,35,2020-02-01,https://www.imperva.com/blog/is-web-scraping-illegal/,Tools
+739,68,2020-02-01,https://www.wired.com/story/alphabet-second-secretive-quantum-computing-team/,General
+740,48,2020-02-01,https://towardsdatascience.com/how-to-use-machine-learning-to-make-predictions-on-reddit-part-i-44cd210ec427,"Machine Learning"
+741,103,2020-02-01,https://www.livemint.com/technology/apps/whatsapp-will-stop-working-on-these-phones-from-today-details-here/amp-11580381532324.html,General
+742,53,2020-02-01,https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585,General
+743,83,2020-02-01,https://youtu.be/_uQrJ0TkZlc,Python
+744,29,2020-02-01,https://medium.com/swlh/what-scientists-say-about-the-coronavirus-2176bbc5b83f,General
+745,95,2020-02-01,https://www.kdnuggets.com/2020/01/data-scientist-job-dream-company.html,Career
+746,104,2020-02-01,https://www.wired.com/story/ai-helps-warehouse-bots-pick-new-skills/,"Artificial Intelligence"
+747,102,2020-02-01,http://www.marketingtechnews.net/news/2019/jul/30/why-ai-should-not-be-treated-kpi-marketers-right-now/,"Data Science"
+748,9,2020-02-01,https://towardsdatascience.com/chess-rolls-or-basketball-lets-create-a-custom-object-detection-model-ef53028eac7d,"Data Science"
+749,70,2020-02-01,https://www.searchenginejournal.com/google-launches-sos-alert-for-searches-related-to-coronavirus/346274/,General
+750,87,2020-02-01,https://www.business-standard.com/budget/article/budget-2020-it-sector-for-wider-use-of-artificial-intelligence-in-economy-120013101946_1.html,"Artificial Intelligence"
+751,96,2020-02-01,https://itnext.io/the-cloud-skills-shortage-and-the-unemployed-army-of-the-certified-bd405784cef1,General
+752,75,2020-02-01,https://askbobrankin.com/monitor_kids_online_with_artificial_intelligence.html,"Deep Learning"
+753,43,2020-02-01,https://www.google.com/amp/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/,"Deep Learning"
+754,39,2020-02-01,https://www.thehindu.com/sci-tech/technology/internet/coronavirus-enters-web-users-hacked-with-malicious-files/article30710001.ece,General
+755,74,2020-02-01,https://www.marketingtechnews.net/news/2018/nov/26/marketers-dilemma-overcoming-challenges-data-disconnect/,General
+756,90,2020-02-01,https://www.nature.com/articles/s41598-020-58178-1,"Machine Learning"
+757,94,2020-02-01,https://timesofindia.indiatimes.com/city/chennai/only-48-engg-students-in-tn-clear-python-in-1st-sem/articleshow/73783262.cms,Python
+758,86,2020-02-01,https://www.zdnet.com/article/programming-language-python-2-7-code-is-now-frozen-last-release-coming-in-april/,Python
+759,77,2020-02-01,https://www.freecodecamp.org/news/php-vs-javascript-which-technology-will-suit-your-business-better/amp/,General
+760,72,2020-02-01,https://towardsdatascience.com/what-ive-learnt-predicting-soccer-matches-with-machine-learning-b3f8b445149d?gi=d5c75f92ee14,General
+761,76,2020-02-01,https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/,"Artificial Intelligence"
+762,93,2020-02-01,https://www.anaconda.com/pandas-1-0-is-here/,"Machine Learning"
+763,38,2020-02-01,https://medium.com/@briananderson2209/best-automation-testing-tools-for-2018-top-10-reviews-8a4a19f664d2?source=extreme_main_feed---------5-50----------55f1c20aba7a----------e24a51a1_030b_4f41_abe4_e2fa250d10bf--,Tools
+764,81,2020-02-01,https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/?fbclid=IwAR3hUfgidwVk37QvCwUuu6iL1cilWePmZdN2uJAyCwdtd-arqch3DYWcrfk#121e82c15e56,"Artificial Intelligence"
+765,89,2020-02-01,https://blog.udacity.com/2018/01/4-types-data-science-jobs.html,General
+766,40,2020-02-01,https://www.livemint.com/budget/news/union-budget-2020-live-updates/amp-11580529043238.html,General
+767,44,2020-02-01,https://medium.com/cantors-paradise/the-waiting-paradox-an-intro-to-probability-distributions-97c0aedb8c1,General
+768,105,2020-02-01,https://economictimes.indiatimes.com/jobs/government-moves-to-provide-internships-to-fresh-engineers-to-help-with-employability/articleshow/73833216.cms,General
+769,15,2020-02-01,https://medium.com/better-programming/9-courses-to-learn-for-free-d7951a959f82,Resource
+770,67,2020-02-01,https://blogs.microsoft.com/on-the-issues/2020/01/29/ai-for-health-child-mortality/?linkId=81414123,"Artificial Intelligence"
+771,82,2020-02-01,https://www.accelebrate.com/blog/category/python/,Python
+772,85,2020-02-01,https://analyticsindiamag.com/manipal-institute-of-technology-offers-first-of-its-kind-course-in-data-science-engineering/,"Data Science"
+773,35,2020-02-02,https://www.google.com/amp/s/fortune.com/2020/01/31/ai-marketing-persuade/amp/,"Artificial Intelligence"
+774,48,2020-02-02,https://towardsdatascience.com/one-word-of-code-to-stop-using-pandas-so-slowly-793e0a81343c,General
+775,83,2020-02-02,https://youtu.be/YCNjpeHyODs,Python
+776,68,2020-02-02,https://www.gadgetsnow.com/tech-news/this-is-all-that-google-gets-to-know-about-you-everyday/articleshow/73852356.cms,General
+777,79,2020-02-02,https://artificialintelligence-news.com/2020/01/14/deepfake-app-face-gifs-data-collection/,General
+778,103,2020-02-02,https://www.the-scientist.com/image-of-the-day/image-of-the-day--marijuana-for-endometriosis--67042,General
+779,82,2020-02-02,https://towardsdatascience.com/cython-a-speed-up-tool-for-your-python-function-9bab64364bfd?gi=119cf8aa4cfd,Tools
+780,87,2020-02-02,https://www.livemint.com/budget/news/budget-2020-govt-bets-on-ai-data-analytics-and-quantum-computing-11580552141351.html,General
+781,74,2020-02-02,https://www.marketingtechnews.net/news/2019/may/17/netflix-and-machine-learning-one-thing-rest-tv-ai-just-hype/,"Artificial Intelligence"
+784,78,2020-02-02,https://www.arabnews.com/node/1621511/saudi-arabia,"Artificial Intelligence"
+785,9,2020-02-02,https://medium.com/@bhavnagupta0103/the-data-analysis-process-29251bd284fb,"Data Analytics"
+786,95,2020-02-02,https://analyticsindiamag.com/40-interview-questions-on-statistics-for-data-scientists/,"Data Science"
+787,72,2020-02-02,https://www.exasol.com/en/blog/how-data-analytics-is-fast-becoming-footballs-must-have-signing/,General
+790,70,2020-02-02,https://content.techgig.com/budget-2020-5-announcements-for-it-sector-ai-5g-quantum-computing/articleshow/73848161.cms,General
+791,53,2020-02-02,"From Discover on Google https://economictimes.indiatimes.com/magazines/panache/this-tech-firm-used-ai-machine-learning-to-predict-coronavirus-outbreak-warned-people-about-danger-zones/articleshow/73697801.cms",General
+792,69,2020-02-02,https://phys.org/news/2020-02-canberra-heatwave-wildfire-threat.html,General
+793,102,2020-02-02,http://news.mit.edu/2020/how-well-computers-symptoms-diseases-0108,"Machine Learning"
+794,77,2020-02-02,https://towardsdatascience.com/cython-a-speed-up-tool-for-your-python-function-9bab64364bfd,Python
+795,104,2020-02-02,http://news.mit.edu/2019/students-push-to-speed-up-ai-adoption-latin-america-1119,"Machine Learning"
+796,96,2020-02-02,https://medium.com/edureka/pattern-recognition-5e2d30ab68b9,General
+797,86,2020-02-02,https://thenextweb.com/syndication/2020/02/01/machine-learning-for-everyone-how-to-implement-pose-estimation-in-a-browser-using-your-webcam/,"Machine Learning"
+798,29,2020-02-02,https://medium.com/better-programming/3-common-mistakes-youd-want-to-avoid-in-python-6210f4d56310,Python
+799,90,2020-02-02,https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/#548040824dd3,"Artificial Intelligence"
+802,89,2020-02-02,https://www.sciencedaily.com/releases/2020/01/200130081624.htm,General
+803,94,2020-02-02,https://medium.com/better-programming/machine-learning-for-everyone-pose-estimation-in-a-browser-with-your-webcam-65bb2648c16a,"Machine Learning"
+806,93,2020-02-02,https://www.google.com/amp/s/www.livemint.com/budget/news/in-digital-push-private-sector-will-soon-chip-in-to-build-data-parks/amp-11580583788063.html,General
+807,38,2020-02-02,https://towardsdatascience.com/10-lessons-i-have-learnt-while-starting-programming-as-a-beginner-6eea32be00e3,Career
+808,39,2020-02-02,https://www.kdnuggets.com/2020/01/data-scientist-job-dream-company.html#.XjWCyiowHVw.whatsapp,"Data Science"
+809,43,2020-02-02,https://www.analyticsinsight.net/how-ai-5g-and-data-science-can-influence-climatic-changes/,General
+810,105,2020-02-02,https://economictimes.indiatimes.com/tech/software/intel-corps-legal-compliance-counsel-joins-software-firm-splunk-to-head-legal-for-apac-region/articleshow/73812913.cms,General
+811,21,2020-02-02,https://medium.com/analytics-vidhya/developing-a-tool-which-plots-in-notion-automatically-17c454bb4e2,General
+812,44,2020-02-02,https://towardsdatascience.com/dichotomy-of-a-data-scientist-2232b785d2c2,"Data Science"
+813,81,2020-02-02,https://techxplore.com/news/2019-12-deep-eeg-based-emotion-recognition.html?fbclid=IwAR1FPUzcmVJoErlQrO_2bupHeiSAQdDNYZXIzm7J5K_lrN7gU_3gzwdSt9U,"Deep Learning"
+814,76,2020-02-02,https://towardsdatascience.com/heres-how-to-make-pandas-iteration-150x-faster-20ccb5477128,Python
+815,75,2020-02-02,https://gbhackers.com/risks-of-open-source-software/amp/,General
+816,84,2020-02-02,https://towardsdatascience.com/my-first-data-scientist-internship-7f7aa2ee4040?source=grid_home---------0-59-----------------18---303a5708_90a1_4ce7_861b_18ef7f364355--,General
+817,88,2020-02-02,"From Discover on Google https://thenewstack.io/this-week-in-programming-forget-microservices-monoliths-are-the-way-forward/",General
+818,40,2020-02-02,https://www.freecodecamp.org/news/how-to-make-programming-more-exciting-and-funnier/,General
+819,35,2020-02-03,https://analyticsindiamag.com/iit-delhi-startup-creates-buddhi-kit-to-make-ai-learning-a-childs-play/,"Artificial Intelligence"
+820,75,2020-02-03,https://medium.com/@manuj.aggarwal/application-of-machine-learning-and-deep-learning-in-the-hospitality-industry-ca9675ce7b94,"Deep Learning"
+821,69,2020-02-03,https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-detection-instructions.html,General
+822,48,2020-02-03,https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b,General
+823,105,2020-02-03,https://economictimes.indiatimes.com/tech/internet/google-says-govt-needs-to-allay-fears-before-mandating-sharing-of-non-personal-data/articleshow/73811420.cms,General
+824,103,2020-02-03,https://www.totaltele.com/504718/Bad-news-for-hackers-UK-govt-announces-new-IoT-cybersecurity-law,General
+828,83,2020-02-03,https://www.youtube.com/watch?v=OXi4T58PwdM,General
+829,70,2020-02-03,https://towardsdatascience.com/got-data-science-jobs-552e39d48da2,"Data Science"
+830,43,2020-02-03,https://www.forbes.com/sites/tomtaulli/2020/02/02/coronavirus-can-ai-artificial-intelligence-make-a-difference/#1ef4ac2a5817,"Artificial Intelligence"
+831,89,2020-02-03,https://en.m.wikipedia.org/wiki/Robowar_(film),General
+832,102,2020-02-03,http://on.forbes.com/60411gilt,General
+833,74,2020-02-03,https://www.marketingtechnews.net/news/2018/nov/08/could-machine-learning-provide-key-measuring-customer-journey/,"Artificial Intelligence"
+834,87,2020-02-03,https://analyticsindiamag.com/40-under-40-data-scientists-in-india-2020-who-are-they/,Career
+835,29,2020-02-03,https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b?source=grid_home---------0-59-----------------18---5c76a636_2bd2_4a37_bc78_27eb76b3c596--1,Python
+836,39,2020-02-03,https://www.kdnuggets.com/2020/01/modern-ai-from-neurips-2019.html#.XjgvOWvFui4.whatsapp,"Artificial Intelligence"
+837,68,2020-02-03,https://www.indiatoday.in/technology/buying-guide/story/mi-wireless-mouse-mi-backpack-27w-fast-charger-unique-xiaomi-goodies-under-rs-1-000-you-can-buy-1640656-2020-01-27,General
+838,82,2020-02-03,https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/,"Artificial Intelligence"
+839,81,2020-02-03,https://walkingtree.tech/build-a-futuristic-and-resilient-technology-solution-in-bfsi-industry/?fbclid=IwAR3_Vmn7NnjI82OS2bRez1ybOFItpQy6RZ_h4R70wqb7BbqBJ2CUZJAlIgc,"Deep Learning"
+840,77,2020-02-03,https://towardsdatascience.com/the-ultimate-guide-to-getting-started-in-data-science-234149684ef7,"Data Science"
+841,86,2020-02-03,https://analyticsindiamag.com/top-machine-learning-projects-launched-by-google-in-2020-till-date/,"Machine Learning"
+842,94,2020-02-03,https://www.techspot.com/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html,"Machine Learning"
+843,95,2020-02-03,https://www.bbc.com/news/uk-england-london-51342129,"Artificial Intelligence"
+844,21,2020-02-03,https://medium.com/better-programming/the-22-most-used-python-packages-in-the-world-7020a904b2e,Python
+845,96,2020-02-03,https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e,General
+846,40,2020-02-03,https://towardsdatascience.com/data-manipulation-for-machine-learning-with-pandas-ab23e79ba5de,"Machine Learning"
+847,78,2020-02-03,https://www.finextra.com/pressarticle/81340/speechmatics-and-soho2-apply-machine-learning-to-analyse-voice-data,"Machine Learning"
+848,38,2020-02-03,https://codeburst.io/i-want-to-learn-programming-but-i-dont-know-where-to-start-80dd2d55e1fd,"Data Science"
+849,44,2020-02-03,https://medium.com/swlh/why-the-pythagorean-theorem-is-true-1d4c8a508510,General
+850,53,2020-02-03,https://analyticsindiamag.com/heres-how-to-fight-prejudice-in-artificial-intelligence/,General
+854,93,2020-02-03,https://www.google.com/amp/s/thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/amp/,"Artificial Intelligence"
+855,90,2020-02-03,https://www.ndtv.com/education/iit-madras-team-develops-ai-technology-to-convert-brain-signals-into-english-language-2174040,"Artificial Intelligence"
+856,104,2020-02-03,https://www.openpr.com/news/1916667/data-science-market-trends-analysis-and-forecast-till-2030,"Data Science"
+857,76,2020-02-03,https://www.google.com/amp/s/galusaustralis.com/2020/02/404556/global-data-science-and-machine-learning-service-market-2019-growth-latest-trend-analysis-and-forecast-2024/amp/,"Data Science"
+858,84,2020-02-03,https://towardsdatascience.com/4-ways-to-fail-a-data-scientist-job-interview-d9c4c85c683?source=grid_home---------0-59-----------------18---129079e4_11ed_400d_81fc_3e84a001fc29--,General
+859,88,2020-02-03,"From Discover on Google https://blogs.scientificamerican.com/voices/i-know-some-algorithms-are-biased-because-i-created-one/",General
+860,103,2020-02-04,https://phys.org/news/2020-02-graphene-amplifier-hidden-frequencies-electromagnetic.amp,General
+861,35,2020-02-04,https://www.offshore-technology.com/news/baker-hughes-ai-oil-and-gas-production/,General
+862,48,2020-02-04,https://towardsdatascience.com/most-essential-set-of-skills-for-the-type-of-data-scientist-job-youre-looking-for-44d5f6d23ca3,"Data Science"
+863,74,2020-02-04,https://www.marketingtechnews.net/news/2019/aug/29/new-marketing-jobs-which-will-emerge-next-decade-creative-data/,"Artificial Intelligence"
+864,68,2020-02-04,https://www.zdnet.com/article/vpns-will-change-forever-with-the-arrival-of-wireguard-into-linux/,General
+865,18,2020-02-04,https://physics.aps.org/articles/v13/14,"Data Science"
+866,105,2020-02-04,https://economictimes.indiatimes.com/tech/hardware/mediatek-launches-gaming-series-chipsets-helio-g70-g80/articleshow/73905376.cms,General
+870,83,2020-02-04,https://youtu.be/JM7FaLFr6hk,General
+871,82,2020-02-04,https://towardsdatascience.com/timing-the-performance-to-choose-the-right-python-object-for-your-data-science-project-670db6f11b8e,Python
+872,69,2020-02-04,https://scitechdaily.com/unexpected-discovery-by-nasas-maven-on-mars-helps-explain-disruptive-phenomenon-on-earth/,General
+873,70,2020-02-04,https://markets.businessinsider.com/news/stocks/alphabet-shows-youtube-google-cloud-sales-amid-disappointing-results-2020-2-1028869701,General
+874,88,2020-02-04,"From Discover on Google https://timesofindia.indiatimes.com/business/india-business/chinese-citizens-other-nationalities-living-in-china-barred-from-flying-to-india/articleshow/73903341.cms",General
+875,104,2020-02-04,https://www.wired.com/story/snow-ice-pose-vexing-obstacle-self-driving-cars/,"Machine Learning"
+876,43,2020-02-04,https://solutionsreview.com/business-intelligence/the-best-data-science-and-machine-learning-platforms/,"Data Science"
+877,39,2020-02-04,https://www.linkedin.com/posts/williamhgates_using-ai-to-advance-the-health-of-people-activity-6628373390275203072-iz_A,"Artificial Intelligence"
+878,84,2020-02-04,https://medium.com/free-code-camp/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee?source=extreme_main_feed---------2-49----------63c6f1f93ee----------cc082bd0_2440_4bbd_a9e2_2665b1513837--7,General
+879,38,2020-02-04,https://medium.com/edge-coders/coding-tip-try-to-code-without-if-statements-d06799eed231,Python
+880,75,2020-02-04,https://www.springwise.com/tech-explained-swarm-intelligence/,"Artificial Intelligence"
+881,29,2020-02-04,https://medium.com/better-programming/5-developer-environment-hacks-to-increase-productivity-2ade84555ab3?source=grid_home---------0-59-----------------18---8fd31ceb_019a_487d_9814_70f0b84d578f--,General
+882,89,2020-02-04,https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html,General
+883,77,2020-02-04,https://www.livemint.com/companies/news/facing-a-leadership-crunch-indian-it-sector-on-the-lookout-for-overseas-talent/amp-11580754129663.html,Career
+884,96,2020-02-04,https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431,General
+885,94,2020-02-04,https://www.zdnet.com/article/go-and-python-are-the-programming-languages-developers-most-want-to-learn/,Python
+886,81,2020-02-04,https://www.petermossamlallresearch.com/?fbclid=IwAR26xeSuvshebe6nmBLtPC6YoQf2yum_aw0c8UtrDEWWbGvu4rJta5NzNfQ,"Machine Learning"
+887,86,2020-02-04,https://it.toolbox.com/blogs/dukeganote/python-fibonacci-numbers-020420,Python
+888,95,2020-02-04,https://roboticsandautomationnews.com/2020/02/03/artificial-intelligence-in-the-real-estate-industry/29447/,"Artificial Intelligence"
+889,87,2020-02-04,https://www.google.com/amp/s/www.thehindubusinessline.com/news/science/researchers-at-iit-madras-develops-ai-technology-to-convert-brain-signals-of-speech-impaired-humans-into-english-language/article30725677.ece/amp/,"Artificial Intelligence"
+890,78,2020-02-04,https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568,"Machine Learning"
+891,102,2020-02-04,https://www.business-standard.com/article/pti-stories/mahindra-logistics-profit-falls-19-pc-to-rs-16-cr-in-dec-quarter-120020401785_1.html,General
+892,9,2020-02-04,https://medium.com/@bhavnagupta0103/the-roles-of-data-analyst-data-scientist-data-engineer-and-machine-learning-engineer-3a80b45fe4c6,General
+893,93,2020-02-04,https://towardsdatascience.com/100x-faster-randomized-hyperparameter-searching-framework-with-pyspark-4de19e44f5e6,"Data Science"
+894,21,2020-02-04,https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e,"Machine Learning"
+895,76,2020-02-04,https://gadgets.ndtv.com/apps/news/google-photos-videos-backup-strangers-last-november-2174809?amp=1&akamai-rum=off,General
+896,40,2020-02-04,https://english.jagran.com/lifestyle/scientists-share-highest-resolution-images-of-sun-ever-captured-from-earth-see-pics-10008557,General
+897,53,2020-02-04,https://techcrunch.com/2020/01/28/pecan-ai-launches-with-11m-series-a-to-automate-machine-learning/,General
+898,72,2020-02-04,https://www.google.com/amp/s/hub.packtpub.com/why-is-data-science-important/amp/,"Machine Learning"
+899,90,2020-02-04,https://thenextweb.com/neural/2020/02/04/us-army-plans-to-bring-human-ai-interaction-to-the-battlefield/,"Artificial Intelligence"
+900,48,2020-02-05,https://towardsdatascience.com/five-data-science-interview-questions-that-you-must-be-able-to-answer-8f2ec53b409a,General
+901,68,2020-02-05,https://www.sciencealert.com/nasa-video-reveals-the-hidden-three-fifths-of-earth-s-surface,General
+902,85,2020-02-05,https://fortune.com/2020/02/04/artificial-intelligence-7-eleven-mcdonalds/,"Artificial Intelligence"
+903,70,2020-02-05,https://towardsdatascience.com/gradient-descent-from-scratch-e8b75fa986cc,"Machine Learning"
+904,105,2020-02-05,https://economictimes.indiatimes.com/small-biz/sme-sector/ai-based-systems-to-help-more-smes-get-access-to-credit-nandan-nilekani/articleshow/73932351.cms,"Artificial Intelligence"
+905,35,2020-02-05,https://www.google.com/amp/s/www.theregister.co.uk/AMP/2020/02/04/worldwide_cloud_computing/,General
+906,82,2020-02-05,https://towardsdatascience.com/how-to-make-an-analysis-tool-using-python-c3e4477b6d8,Tools
+907,83,2020-02-05,https://youtu.be/JKrwtykEl3s,Robotics
+908,15,2020-02-05,https://towardsdatascience.com/winning-in-pubg-clean-data-does-not-mean-ready-data-47620a50564,"Data Science"
+909,89,2020-02-05,https://e.huawei.com/en/products/servers/taishan-server/taishan-2480-v2https://e.huawei.com/en/products/servers/taishan-server/taishan-2480-v2,General
+912,72,2020-02-05,https://www.coursera.org/learn/what-is-datascience,"Data Science"
+914,69,2020-02-05,https://spacenews.com/spacex-wins-nasa-contract-to-launch-earth-science-mission/,General
+915,104,2020-02-05,https://m.economictimes.com/tech/ites/iit-kharagpur-develops-ai-system-to-read-legal-judgments/articleshow/73296111.cms,"Machine Learning"
+916,75,2020-02-05,https://www.cio.com/article/3184206/ai-machine-learning-blossom-in-agriculture-and-pest-control.html,"Machine Learning"
+917,43,2020-02-05,https://www.livemint.com/technology/tech-news/artificial-intelligence-ml-chip-in-to-fight-climate-change-protect-environment-11580399748370.html,"Machine Learning"
+918,38,2020-02-05,https://towardsdatascience.com/5-bad-habits-of-absolutely-ineffective-programmers-e74b74add9ca?source=extreme_main_feed---------6-59--------------------92702fe3_8a32_4188_95dc_952a575f8dbe--1,Career
+919,95,2020-02-05,https://www.analyticsinsight.net/being-customer-centric-five-major-ai-and-ml-trends-for-2020/,General
+920,39,2020-02-05,https://www.kdnuggets.com/2020/02/machine-learning-challenge-build-deploy-app-streamlit-devops.html#.XjrIH-tk1S4.whatsapp,"Machine Learning"
+921,87,2020-02-05,https://analyticsindiamag.com/rising-2020-what-people-have-to-say-about-the-largest-gathering-of-women-data-scientists/,General
+922,29,2020-02-05,https://medium.com/better-programming/stop-writing-crap-code-7d3458f42384,General
+923,44,2020-02-05,https://medium.com/thrive-global/21-quotes-that-if-applied-change-boys-into-men-3e124aff36f8?source=grid_home---------0-51----------a205669c739e-------18---986c6870_722a_416b_956a_a9e7c401eb96--1,General
+924,9,2020-02-05,https://medium.com/udacity/robotics-nanodegree-program-syllabus-term-one-in-depth-d7a802b04c98,Robotics
+925,74,2020-02-05,https://www.marketingtechnews.net/news/2018/dec/06/yannic-pluymackers-cmo-lastminutecom-management-and-creating-moments-users/,"Artificial Intelligence"
+926,94,2020-02-05,https://techxplore.com/news/2020-02-deep-accurately-cold.html,"Deep Learning"
+927,90,2020-02-05,https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/,"Artificial Intelligence"
+928,86,2020-02-05,https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/,"Machine Learning"
+929,81,2020-02-05,https://techxplore.com/news/2019-12-deep-eeg-based-emotion-recognition.html?fbclid=IwAR1rdbHIVvKv5ImtCTUcjMCiNGmzUzKV7-mzMgDFtJLsiXxF6S-4lchN_yM,"Artificial Intelligence"
+930,88,2020-02-05,"From Discover on Google https://www.zdnet.com/article/go-and-python-are-the-programming-languages-developers-most-want-to-learn/",General
+931,103,2020-02-05,http://venturebeat.com/2014/04/01/data-scientists-need-their-own-github-here-are-four-of-the-best/,"Data Science"
+932,96,2020-02-05,https://link.medium.com/iafxN9lNhP3,General
+934,77,2020-02-05,https://betanews.com/2020/02/03/windows-10-kb4532695-problems/,General
+935,53,2020-02-05,https://www.livemint.com/technology/tech-news/india-s-public-cloud-deployment-to-be-8-billion-market-by-2023-report-11580907516104.html,General
+936,5,2020-02-05,https://towardsdatascience.com/demystifying-maths-of-svm-13ccfe00091e,General
+937,78,2020-02-05,https://www.fnlondon.com/articles/the-fintech-files-data-science-fiction-20200205,"Data Science"
+938,102,2020-02-05,https://www.sciencedaily.com/releases/2019/12/191227104942.htm,Robotics
+939,76,2020-02-05,https://www.businessinsider.in/careers/news/experian-a-global-analytics-company-plans-to-create-2500-jobs-in-data-analytics/articleshow/73957543.cms,"Data Science"
+940,101,2020-02-05,https://www.cio.com/article/3236451/what-is-rpa-robotic-process-automation-explained.html,General
+941,40,2020-02-05,https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e,"Data Science"
+942,48,2020-02-06,https://medium.com/analytics-vidhya/intro-to-dashboarding-with-dash-for-python-b62c071b4641,General
+943,74,2020-02-06,https://www.marketingtechnews.net/news/2018/nov/14/five-tenets-clean-data-preparing-chatbot-data-marketing-personalisation/,"Artificial Intelligence"
+944,69,2020-02-06,https://scitechdaily.com/nasas-new-space-telescope-will-seek-atmospheres-around-potentially-habitable-exoplanets/,General
+945,35,2020-02-06,https://www.datanami.com/2020/02/03/how-the-coronavirus-response-is-aided-by-analytics/,General
+946,76,2020-02-06,https://www.dataquest.io/blog/15-python-libraries-for-data-science/,Python
+947,70,2020-02-06,https://wccftech.com/alphabet-annual-revenue-growth-estimate/,General
+948,82,2020-02-06,https://venturebeat.com/2020/01/30/openai-facebook-pytorch-google-tensorflow/amp/,"Artificial Intelligence"
+949,105,2020-02-06,https://economictimes.indiatimes.com/tech/internet/public-cloud-deployment-could-add-100-bn-to-india-gdp-by-2023-and-create-2-4l-jobs-study/articleshow/73956699.cms,General
+950,84,2020-02-06,https://towardsdatascience.com/the-power-of-goal-setting-for-your-data-science-project-9338bf475abd?source=extreme_main_feed---------0-59--------------------b664d9a6_0936_42db_9cd0_3ed39adf6b50--5,General
+952,83,2020-02-06,https://youtu.be/9f-GarcDY58,"Machine Learning"
+953,38,2020-02-06,https://medium.com/young-coder/five-books-that-can-help-you-become-a-better-programmer-38be6cbd7b43,Career
+954,85,2020-02-06,https://yourstory.com/2020/02/infosys-ai-machine-learning-adoption-enterprises,"Artificial Intelligence"
+955,95,2020-02-06,https://bdtechtalks.com/2020/01/27/data-science-machine-learning-book-reviews/,"Machine Learning"
+956,72,2020-02-06,https://analyticsindiamag.com/the-most-important-numpy-functions-you-should-know-when-learning-python/,General
+957,94,2020-02-06,https://analyticsindiamag.com/elon-musk-tesla-python-c-programming-language-tensorflow-pytorch/,Python
+958,81,2020-02-06,https://www.pionline.com/industry-voices/commentary-using-alternative-data-reconstruct-investment-decision-making,"Data Science"
+959,89,2020-02-06,https://www.educba.com/careers-in-deep-learnings/,General
+960,102,2020-02-06,https://neurosciencenews.com/dopamine-learning-novelty-15645/,"Artificial Intelligence"
+961,68,2020-02-06,https://gadgets.ndtv.com/bengali/mobiles/poco-x2-review-in-bengali-price-india-15999-xiaomi-cameras-performance-battery-reviews-2175248,General
+962,29,2020-02-06,https://medium.com/swlh/low-code-will-completely-change-startups-6ea7a7d8c7ec?source=extreme_main_feed---------2-59--------------------d72af9f3_322f_4d40_a228_480872a640c5--7,Tools
+963,90,2020-02-06,https://techcrunch.com/2020/02/05/how-microsoft-runs-its-40m-ai-for-health-initiative/,"Artificial Intelligence"
+964,43,2020-02-06,https://www.google.com/amp/s/thenextweb.com/neural/2020/02/05/scientists-built-an-ai-to-figure-out-what-the-universe-is-made-of/amp/,"Artificial Intelligence"
+965,87,2020-02-06,https://towardsdatascience.com/could-nim-replace-python-547145afcfd5,Python
+966,103,2020-02-06,https://www.independent.co.uk/life-style/gadgets-and-tech/news/universe-structure-ai-artificial-intelligence-dark-emulator-dark-energy-matter-a9320041.html,"Artificial Intelligence"
+967,104,2020-02-06,https://arstechnica.com/science/2020/02/someone-used-neural-networks-to-upscale-a-famous-1896-video-to-4k-quality/,"Artificial Intelligence"
+968,96,2020-02-06,https://medium.com/better-programming/10-tiny-python-idioms-for-collections-and-data-structures-2f0d2923832,General
+969,14,2020-02-06,https://www.zdnet.com/article/how-ai-has-helped-improve-google-maps/,"Artificial Intelligence"
+970,86,2020-02-06,https://analyticsindiamag.com/how-this-chief-data-scientist-overcame-his-disinterest-in-coding/,"Data Science"
+971,75,2020-02-06,https://www.educba.com/jsp-vs-php/,General
+972,77,2020-02-06,https://m.gsmarena.com/xiaomi_mi_10_will_use_microns_lpddr5-amp-41407.php,Tools
+978,39,2020-02-06,https://thenextweb.com/neural/2020/02/06/this-ai-powered-neural-network-accurately-predicts-extreme-weather-events/,"Artificial Intelligence"
+979,78,2020-02-06,https://singularityhub.com/2020/02/05/how-ai-helped-predict-the-coronavirus-outbreak-before-it-happened/,"Machine Learning"
+980,44,2020-02-06,https://towardsdatascience.com/will-numpy-become-python-3f7b4187d332,Python
+981,93,2020-02-06,https://www.google.com/amp/s/mashable.com/shopping/feb-6-python-bootcamp-master-course.amp,Python
+982,88,2020-02-06,"From Discover on Google https://www.dataquest.io/blog/15-python-libraries-for-data-science/",General
+983,40,2020-02-06,https://www.forbes.com/sites/ronshevlin/2020/02/03/the-5-hottest-technologies-in-banking-for-2020/,General
+984,103,2020-02-07,https://tech.economictimes.indiatimes.com/news/corporate/teslas-2020-advance-blows-past-100-leaving-wall-street-in-awe/73975612,General
+985,74,2020-02-07,https://www.marketingtechnews.net/news/2019/jan/14/data-strategies-fix-it-dont-stitch-it/,"Artificial Intelligence"
+986,48,2020-02-07,https://medium.com/swlh/low-code-will-completely-change-startups-6ea7a7d8c7ec,General
+988,35,2020-02-07,https://www.analyticsinsight.net/top-5-python-web-development-framework-for-2020/,Python
+989,83,2020-02-07,https://youtu.be/c2WCAqgeg9s,General
+990,84,2020-02-07,https://towardsdatascience.com/how-to-ace-the-in-person-data-science-interview-584ca11df08a?source=grid_home---------0-59-----------------18---03275fcd_64fb_41d0_86ef_3574ccffb5ea--,General
+991,43,2020-02-07,https://www.google.com/amp/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html,"Artificial Intelligence"
+992,70,2020-02-07,https://thenextweb.com/neural/2020/02/05/scientists-built-an-ai-to-figure-out-what-the-universe-is-made-of/,"Artificial Intelligence"
+993,38,2020-02-07,https://towardsdatascience.com/becoming-a-self-taught-data-scientist-5563f546bb7b?source=extreme_main_feed---------2-59--------------------22d5546e_3cac_4c77_a612_fa835bc34598--7,Career
+994,69,2020-02-07,https://www.news-medical.net/news/20200207/Collaborative-research-uncovers-underlying-rules-that-when-broken-contribute-to-ALS.aspx,General
+996,68,2020-02-07,https://www.howtogeek.com/512012/how-to-shut-down-your-windows-10-pc-using-command-prompt/,General
+997,29,2020-02-07,https://medium.com/swlh/top-7-programming-languages-frameworks-to-learn-in-2020-that-will-still-be-relevant-in-5-years-11245d7e2d56?source=grid_home---------0-59-----------------18---1a63a4a7_94e4_47d8_9ab6_2a0aa8ac90e7--,Tools
+1000,75,2020-02-07,https://empxtrack.com/blog/bell-curve-for-performance-appraisal/,Mathematics
+1001,87,2020-02-07,https://towardsdatascience.com/key-differences-between-artificial-intelligence-and-machine-learning-fe637cd0deca,Python
+1002,86,2020-02-07,https://www.searchenginejournal.com/introduction-to-python-seo-spreadsheets/342779/,Python
+1003,81,2020-02-07,https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python/?fbclid=IwAR2SR7aFXlWIvKO29tmFN1f_Pnanqd4B9QstTxlhNLrhj1jQ-o6sZdh3FM4,"Machine Learning"
+1004,104,2020-02-07,https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/#30b33ad24a85,"Artificial Intelligence"
+1005,76,2020-02-07,https://www.newswise.com/doescience/?article_id=726331&returnurl=aHR0cHM6Ly93d3cubmV3c3dpc2UuY29tL2FydGljbGVzL2xpc3Q=,"Machine Learning"
+1006,105,2020-02-07,https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017,General
+1007,94,2020-02-07,https://physicsworld.com/a/secrets-of-nanospiral-formation-revealed-by-machine-learning/,"Machine Learning"
+1009,77,2020-02-07,https://towardsdatascience.com/deep-learning-isnt-hard-anymore-26db0d4749d7,"Deep Learning"
+1010,90,2020-02-07,https://thenextweb.com/neural/2020/02/06/how-google-used-ai-to-supercharge-maps-in-2019/,"Artificial Intelligence"
+1011,95,2020-02-07,https://www.ericsson.com/en/blog/2020/2/causal-inference-machine-learning,"Machine Learning"
+1012,53,2020-02-07,"From Discover on Google https://www.forbes.com/sites/ericmack/2020/02/06/alien-life-on-jupiter-moon-europa-a-sure-bet-space-scientist-says/",General
+1013,82,2020-02-07,https://www.theverge.com/platform/amp/2020/2/6/21126044/microsoft-windows-future-software-hardware-windows-devices-panos-panay,Resource
+1014,102,2020-02-07,https://www.roboticsbusinessreview.com/agriculture/4-ways-robotics-change-agriculture-in-2019/,Robotics
+1015,21,2020-02-07,https://medium.com/better-programming/a-list-of-fun-projects-you-can-build-as-a-developer-be8e56f1748c,General
+1016,89,2020-02-07,https://pages.arm.com/introduction-armv8.1m.html?utm_source=google&utm_medium=cpc&utm_campaign=2019_embedded_mk02_na_na_bol&utm_content=whitepaper&gclid=Cj0KCQiAsvTxBRDkARIsAH4W_j8u9ezvIPft1dVJQHVGfNCMPwtpX8GB3SEgOQMdpCt9M-84MpcPTr4aAtCWEALw_wcB,General
+1017,78,2020-02-07,https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube,"Artificial Intelligence"
+1018,101,2020-02-07,https://medium.com/datadriveninvestor/4-stages-of-iot-architecture-explained-in-simple-words-b2ea8b4f777f,General
+1019,39,2020-02-07,https://timesofindia.indiatimes.com/blogs/the-interviews-blog/we-think-creativity-is-uniquely-human-expression-of-our-inner-world-ai-art-is-starting-to-have-complexity/,"Artificial Intelligence"
+1020,72,2020-02-07,https://medium.com/fintechexplained/why-should-we-use-numpy-c14a4fb03ee9,Python
+1021,93,2020-02-07,https://www.freecodecamp.org/news/computer-programming-skills-2020-survey-developers-hiring-managers-hackerrank/amp/,General
+1022,88,2020-02-07,https://www.tesla.com/blog,General
+1023,85,2020-02-07,https://www.vox.com/recode/2020/2/7/21125959/artificial-intelligence-coronavirus-benevolent-ai-treatment,"Artificial Intelligence"
+1024,68,2020-02-08,https://www.gsmarena.com/redmi_k20_pro_sales_stop-news-41419.php,General
+1025,48,2020-02-08,https://towardsdatascience.com/4-hidden-python-features-that-beginners-should-know-ec9de65ff9f8,General
+1026,74,2020-02-08,"From Discover on Google https://www.livemint.com/companies/news/cognizant-new-opens-new-mangaluru-facility-to-house-1-100-employees-11581078649013.html","Artificial Intelligence"
+1027,35,2020-02-08,https://www.google.com/amp/s/www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/amp/,General
+1028,39,2020-02-08,https://www.geeksforgeeks.org/how-machine-learning-and-artificial-intelligence-will-impact-global-industries-in-2020/,"Machine Learning"
+1029,83,2020-02-08,https://youtu.be/rSvegjWMBVo,General
+1030,72,2020-02-08,https://dzone.com/articles/future-of-machine-learning-why-learn-machine-learn,"Machine Learning"
+1031,103,2020-02-08,https://blog.edx.org/ibm-data-scientist-advice-start-with-python-go-far/,General
+1032,9,2020-02-08,https://towardsdatascience.com/microsoft-data-science-interview-37607b423442,"Data Science"
+1033,84,2020-02-08,https://towardsdatascience.com/why-the-data-science-venn-diagram-is-misleading-16751f852063?source=extreme_main_feed---------10-59--------------------6b5564b4_c240_4398_8a3b_cbcf9d5850fb--3,General
+1034,70,2020-02-08,https://towardsdatascience.com/nlp-ai-deep-learning-and-machine-learning-a-brief-guide-f225a1f6340b,General
+1035,102,2020-02-08,https://www.frontiersin.org/articles/10.3389/fnins.2019.01435/full,"Machine Learning"
+1036,29,2020-02-08,https://towardsdatascience.com/my-favorite-new-features-in-python-3-8-a95d7a0a31c9,Python
+1037,104,2020-02-08,https://www.wired.com/story/how-ai-tracking-coronavirus-outbreak/,"Artificial Intelligence"
+1038,95,2020-02-08,https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/,"Artificial Intelligence"
+1039,90,2020-02-08,https://economictimes.indiatimes.com/news/international/world-news/china-turns-to-ai-data-in-fight-against-virus/articleshow/74029086.cms,"Artificial Intelligence"
+1040,94,2020-02-08,https://www.hindustantimes.com/more-lifestyle/here-s-how-deep-learning-model-identifies-sleep-stages/story-b9Ccp3P6rDUT9xRObSXwQN.html,"Deep Learning"
+1041,86,2020-02-08,https://techcrunch.com/2020/02/06/deepnote-raises-3-8m-to-build-a-better-data-science-platform/,"Data Science"
+1042,87,2020-02-08,https://towardsdatascience.com/is-a-data-analyst-a-data-scientist-890e24087737?source=email-f09f736c263c-1581113968167-digest.reader------0-59------------------3db0fb23_05ad_43a8_94f3_77434deb50f0-1-----,"Data Science"
+1044,75,2020-02-08,https://www.archdaily.com/924704/buildtech-futures-artificial-intelligence-and-machine-learning,"Machine Learning"
+1045,82,2020-02-08,https://venturebeat.com/2020/02/07/mit-csails-textfooler-generates-adversarial-text-to-fool-ai-natural-language-models/amp/,"Artificial Intelligence"
+1046,43,2020-02-08,https://www.windowscentral.com/microsoft-wants-use-machine-learning-improve-poor-game-textures?amp,"Machine Learning"
+1047,38,2020-02-08,https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?source=grid_home---------0-59-----------------18---8a9eb789_a5bf_44ff_992b_9e8803d758cf--2,"Data Science"
+1048,77,2020-02-08,https://m.hindustantimes.com/education/gate-2020-electrical-engineering-exam-analysis-student-find-paper-moderate/story-dWMpUHbEFjWLDNCvHg0OEP_amp.html,Resource
+1049,53,2020-02-08,https://www.enterpriseai.news/2020/02/07/ai-career-notes-february-2020-edition/,General
+1050,78,2020-02-08,https://www.firstpost.com/tech/news-analysis/google-maps-gets-a-makeover-and-new-features-to-mark-its-15th-birthday-8015611.html,Resource
+1051,21,2020-02-08,https://towardsdatascience.com/exploring-neural-networking-with-kotlin-metaprogramming-a-cheaper-alternative-for-deep-learning-99c416eb7d16,"Data Science"
+1052,76,2020-02-08,https://www.eweek.com/big-data-and-analytics/six-data-points-you-should-know-about-federated-machine-learning,General
+1053,93,2020-02-08,https://towardsdatascience.com/why-did-i-ever-get-into-data-science-aa69d3c74d19,"Data Science"
+1054,89,2020-02-08,https://www.tesla.com/,General
+1058,40,2020-02-08,https://www.news18.com/news/tech/google-meena-a-new-ai-chatbot-wants-to-be-a-natural-at-making-small-talk-2490109.html,General
+1059,69,2020-02-08,https://www.nature.com/articles/nbt.4313,"Deep Learning"
+1060,105,2020-02-09,https://economictimes.indiatimes.com/tech/internet/cyber-security-and-smart-currency-hedging-is-the-need-of-the-hour-eepc-india/articleshow/74004310.cms,General
+1061,74,2020-02-09,https://www.marketingtechnews.net/news/2017/apr/28/convincing-worriers-and-sceptics-who-are-people-new-technologies-need-sway-go-mainstream/,"Artificial Intelligence"
+1063,68,2020-02-09,https://www.freecodecamp.org/news/computer-programming-skills-2020-survey-developers-hiring-managers-hackerrank/,General
+1065,35,2020-02-09,https://www.google.com/amp/s/www.forbes.com/sites/cognitiveworld/2020/02/08/how-to-rise-above-the-itops-chaos-using-ai/amp/,General
+1066,82,2020-02-09,https://towardsdatascience.com/nlp-ai-deep-learning-and-machine-learning-a-brief-guide-f225a1f6340b?gi=8abad3768823,"Machine Learning"
+1067,48,2020-02-09,https://towardsdatascience.com/build-machine-learning-models-that-work-8cb060117584,General
+1068,103,2020-02-09,https://towardsdatascience.com/tips-and-tricks-for-fast-data-analysis-in-python-f108ad32fa90?gi=f7f98f8d8d2b,Python
+1069,84,2020-02-09,https://towardsdatascience.com/my-first-job-as-a-data-analyst-expectations-vs-reality-3a598412cd52?source=grid_home---------0-59-----------------18---ab1abf09_66ce_4cd8_a7ff_dae9861de85b--,General
+1070,69,2020-02-09,https://scitechdaily.com/how-would-galaxies-form-in-a-universe-without-dark-matter-researchers-find-out/,General
+1071,43,2020-02-09,https://www.google.com/amp/s/thenextweb.com/neural/2020/02/07/mit-researchers-developed-a-text-based-system-that-tricks-googles-ai/amp/,"Artificial Intelligence"
+1072,70,2020-02-09,https://www.nature.com/articles/s41467-019-13825-8,General
+1073,83,2020-02-09,https://youtu.be/7DZR5UaAM0E,General
+1074,88,2020-02-09,"From Discover on Google https://www.indiatoday.in/technology/news/story/xiaomi-mi-10-launch-date-revealed-company-to-host-online-only-launch-event-for-2020-flagship-1644462-2020-02-08",General
+1075,90,2020-02-09,https://www.business-standard.com/article/economy-policy/ai-data-analytics-help-gst-collection-loopholes-being-plugged-sitharaman-120020900215_1.html,"Data Analytics"
+1076,9,2020-02-09,https://medium.com/@nodejs/the-wonderful-and-expanding-world-of-node-js-and-robotics-23de347af1e7,Robotics
+1077,38,2020-02-09,https://towardsdatascience.com/smallest-neural-network-for-complete-beginners-in-4-mins-5a398b574053?source=grid_home---------0-59-----------------18---99f78041_46f9_4a05_893b_cd92d2397067--1,"Artificial Intelligence"
+1078,94,2020-02-09,https://analyticsindiamag.com/60-interview-questions-on-machine-learning/,"Machine Learning"
+1079,102,2020-02-09,https://roboticsandautomationnews.com/2020/02/07/zverse-and-forecast-3d-form-partnership-for-cad-as-a-service/29672/,"Artificial Intelligence"
+1080,67,2020-02-09,https://www.techrepublic.com/article/how-twitter-data-mining-and-machine-learning-can-combat-the-coronavirus/,"Artificial Intelligence"
+1081,96,2020-02-09,https://medium.com/@bbloggsbott/how-i-got-selected-for-google-summer-of-code-2019-abd617b53a75,General
+1082,77,2020-02-09,https://towardsdatascience.com/learn-machine-learning-the-fun-way-554833891b73,"Machine Learning"
+1083,87,2020-02-09,https://www.thehindu.com/news/international/coronavirus-china-turns-to-artificial-intelligence-big-data/article30771991.ece,"Artificial Intelligence"
+1084,81,2020-02-09,https://www.tableau.com/academic/students?utm_campaign_id=2018133&utm_campaign=Prospecting-CORE-ACAD-STDT-ALL-ALL&utm_medium=Paid+Social&utm_source=Facebook&utm_language=EN&utm_country=IND-ID&adgroup=SIM-TFS+Downloaders&creative=&dclid=CjkKEQiA-P7xBRC62Zm,"Data Analytics"
+1085,85,2020-02-09,https://www.hindustantimes.com/tech/this-startup-uses-human-assisted-ai-to-build-apps-but-there-s-more-to-the-story/story-G6UdjzSUyHT4uhlR6taB1J.html,"Artificial Intelligence"
+1086,104,2020-02-09,https://www.nature.com/articles/s41598-020-58736-7,"Machine Learning"
+1087,89,2020-02-09,https://intellipaat.com/blog/what-is-data-science/,General
+1088,78,2020-02-09,https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/#2d1f27404a85,"Artificial Intelligence"
+1089,86,2020-02-09,https://wap.business-standard.com/article-amp/economy-policy/ai-data-analytics-help-gst-collection-loopholes-being-plugged-sitharaman-120020900215_1.html#aoh=15812644475415&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s,"Data Analytics"
+1090,95,2020-02-09,https://www.indiatoday.in/education-today/jobs-and-careers/story/here-is-a-peek-at-trending-roles-in-data-science-across-industries-1644782-2020-02-09,"Data Science"
+1091,21,2020-02-09,https://medium.com/@emilwallner/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4,Tools
+1092,53,2020-02-09,https://m.timesofindia.com/india/artificial-intelligence-could-help-in-arbitration-in-globalised-era-says-cji/amp_articleshow/74037271.cms,General
+1093,5,2020-02-09,https://towardsdatascience.com/took-a-masters-in-machine-learning-and-i-was-very-unprepared-7aba95f044a8,General
+1094,11,2020-02-09,https://medium.com/@aarongell/facing-the-future-1962abacf3b1?source=email-52c790db34c9-1581198890264-digest.reader------0-49------------------2ef12ed3_b522_4006_a6ae_72b7d00e4fee-11-----&sectionName=topic,General
+1095,75,2020-02-09,https://www.healthcatalyst.com/clinical-applications-of-machine-learning-in-healthcare,"Machine Learning"
+1096,93,2020-02-09,https://towardsdatascience.com/top-3-vs-code-extensions-for-python-and-data-science-7462dd4ee530,"Data Science"
+1097,76,2020-02-09,https://www.nanalyze.com/2020/02/windfall-ai-data-wealth-screening/,"Artificial Intelligence"
+1098,80,2020-02-09,https://developer.ibm.com/patterns/machine-learning-using-synthesized-patient-health-records/?p1=Search&p4=p50906115918&p5=b&cm_mmc=Search_Google-_-Developer_IBM+Developer-_-IN_IN-_-ai%20and%20ml_b&cm_mmca1=000031SE&cm_mmca2=10008401&cm_mmca7=717000000618,General
+1099,101,2020-02-09,https://medium.com/analytics-vidhya/dealing-with-missing-values-nan-and-none-in-python-6fc9b8fb4f31,"Data Analytics"
+1100,72,2020-02-09,https://apiumhub.com/tech-blog-barcelona/using-github/,General
+1101,44,2020-02-09,https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215,General
+1102,40,2020-02-09,https://www.ericsson.com/en/blog/2020/2/3-steps-to-iot-monetization,"Artificial Intelligence"
+1103,35,2020-02-10,https://medium.com/@thePixeltests/ai-ml-upskilling-in-todays-job-market-why-data-science-can-do-wonders-to-your-career-d8f8a4a74bc0,"Data Science"
+1104,105,2020-02-10,https://cio.economictimes.indiatimes.com/news/corporate-news/ai-based-blood-tests-to-predict-neurodegenerative-disease-progression/73719270,General
+1105,48,2020-02-10,https://towardsdatascience.com/how-to-be-a-10x-data-scientist-4718accf7d3f,"Data Science"
+1106,77,2020-02-10,https://itnext.io/google-cloud-advantages-over-aws-28751469e570?gi=dc1dc7b90a90,Tools
+1107,84,2020-02-10,https://medium.com/better-programming/here-are-5-challenging-app-ideas-you-can-start-building-today-jan-2020-78cd4fb45996?source=extreme_main_feed---------4-59--------------------54174628_9827_4a57_8dec_2d346943e96f--8,General
+1108,29,2020-02-10,https://towardsdatascience.com/has-artificial-intelligence-progress-ground-to-a-screeching-halt-babd1a580f66?source=grid_home---------0-59-----------------18---670392f5_1caf_4fa9_8976_c7f2f6e21f1e--1,General
+1111,82,2020-02-10,https://towardsdatascience.com/automated-machine-learning-using-python3-7-improving-efficiency-in-model-development-8c3574febc0b,"Machine Learning"
+1112,88,2020-02-10,"From Discover on Google https://towardsdatascience.com/how-to-save-money-with-python-8bfd7e627d13",General
+1114,70,2020-02-10,https://towardsdatascience.com/logistic-regression-explained-9ee73cede081,"Machine Learning"
+1115,74,2020-02-10,https://www.sciencealert.com/periodicity-has-been-detected-in-a-repeating-fast-radio-burst,"Artificial Intelligence"
+1116,68,2020-02-10,https://www.sciencealert.com/mysterious-virus-discovered-in-brazil-has-no-known-genes-scientists-can-identify,General
+1117,39,2020-02-10,https://www.webfx.com/blog/web-design/modern-web-design/,General
+1118,86,2020-02-10,https://www.forbes.com/sites/forbesagencycouncil/2020/02/10/predictive-web-analytics-in-marketing/,"Data Analytics"
+1119,43,2020-02-10,https://www.google.com/amp/s/www.techspot.com/amp/news/83827-first-drug-developed-using-machine-learning-enters-clinical.html,"Machine Learning"
+1122,83,2020-02-10,https://youtu.be/f2aocKWrPG8,Robotics
+1123,87,2020-02-10,https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/iiit-delhi-partners-extramarks-to-encourage-research-in-ai/articleshow/74063007.cms,"Artificial Intelligence"
+1124,38,2020-02-10,https://medium.com/better-programming/10-things-every-developer-should-learn-72697ed5d94a,Career
+1125,102,2020-02-10,https://phys.org/news/2018-08-interactive-machine-tool-car-aerodynamic.html,"Machine Learning"
+1126,103,2020-02-10,https://securityaffairs.co/wordpress/97495/malware/iot-devices-manufacturers-miner.html,General
+1127,95,2020-02-10,https://towardsdatascience.com/python-tricks-for-keeping-track-of-your-data-aef3dc817a4e,Python
+1128,94,2020-02-10,https://analyticsindiamag.com/facebook-releases-open-source-library-for-3d-deep-learning-pytorch3d/,"Deep Learning"
+1129,75,2020-02-10,https://www.forbes.com/sites/traceywelsonrossman/2019/08/14/ai-and-machine-learning-are-powering-next-generation-media-operations/amp/,"Artificial Intelligence"
+1130,21,2020-02-10,https://towardsdatascience.com/isotonic-regression-is-the-coolest-machine-learning-model-you-might-not-have-heard-of-3ce14afc6d1e,"Machine Learning"
+1131,93,2020-02-10,https://towardsdatascience.com/how-i-landed-my-first-data-science-job-in-one-of-australias-big-four-banks-ede61e602c2a,"Data Science"
+1132,104,2020-02-10,https://www.nature.com/articles/s41598-020-58912-9,"Machine Learning"
+1133,96,2020-02-10,https://towardsdatascience.com/leveraging-the-power-of-jupyter-notebooks-26b4b8d7c622,General
+1134,89,2020-02-10,https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence,General
+1135,101,2020-02-10,https://www.cbinsights.com/research/startup-failure-reasons-top/,Career
+1136,81,2020-02-10,https://investingnews.com/innspired/machine-learning-revolutionizing-mineral-exploration/?fbclid=IwAR0vPr4zb7Xq2vUBt3sXoaG5e7ne1fo92SfZy-84edPFqpMDNn3Zp8w7QOE,"Machine Learning"
+1137,80,2020-02-10,https://www.beyond.ai/news/from-roi-to-rai-revenue-from-artificial-intelligence/,"Artificial Intelligence"
+1138,72,2020-02-10,https://www.google.com/amp/s/www.codeclouds.com/blog/advantages-disadvantages-using-github/,General
+1140,90,2020-02-10,https://www.theverge.com/2020/2/10/21130800/arm-new-edge-ai-chips-processing-npu-cortex-m55-u55-iot,"Artificial Intelligence"
+1141,18,2020-02-10,https://www.techrepublic.com/article/big-data-predictions-8-analytics-trends-in-2020/,"Data Science"
+1142,35,2020-02-11,https://www.google.com/amp/s/www.africanexponent.com/amp/post/6940-4-latest-technology-updates-that-are-amazingly-useful,General
+1143,83,2020-02-11,https://youtu.be/js6C2mLXEDw,General
+1144,48,2020-02-11,https://towardsdatascience.com/the-most-undervalued-data-science-course-f1c05b128e8a,General
+1145,82,2020-02-11,https://towardsdatascience.com/deep-learning-for-time-series-and-why-deep-learning-a6120b147d60,"Deep Learning"
+1146,85,2020-02-11,https://www.forbes.com/sites/tjmccue/2020/02/10/googles-machine-learning-is-making-you-more-effective-in-2020/#447937af7b2d,"Machine Learning"
+1147,78,2020-02-11,https://towardsdatascience.com/the-top-3-similarities-between-business-intelligence-and-data-science-293237f2c174,"Data Science"
+1148,83,2020-02-12,https://youtu.be/5HlbV1wKBmo,General
+1150,68,2020-02-12,https://www.newscientist.com/article/2232762-photon-trick-lets-you-bend-the-rules-of-quantum-physics/,General
+1151,84,2020-02-12,https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9?source=extreme_main_feed---------0-59--------------------50b8cc19_d7b3_4f84_8413_296b6737b9f0--5,General
+1152,43,2020-02-12,http://www.forbesindia.com/article/edhec/how-machine-learning-will-reshape-the-future-of-investment-management/57657/1,"Machine Learning"
+1153,48,2020-02-12,https://towardsdatascience.com/tips-and-tricks-for-fast-data-analysis-in-python-f108ad32fa90,General
+1154,69,2020-02-12,https://techxplore.com/news/2020-02-gm-korea-line-virus.html,General
+1155,39,2020-02-12,https://venturebeat.com/2020/02/11/hired-ar-vr-engineers-replace-blockchain-programmers-as-a-hot-commodity/amp/,Career
+1156,82,2020-02-12,https://analyticsindiamag.com/top-skills-to-show-on-your-data-science-resume-beyond-just-the-tools/,"Machine Learning"
+1157,87,2020-02-12,https://mspoweruser.com/meet-microsoft-deepspeed-a-new-deep-learning-library-that-can-train-massive-100-billion-parameter-models/,"Data Science"
+1158,96,2020-02-12,https://medium.com/predict/create-your-chatbot-using-python-nltk-761cd0aeaed3,General
+1159,44,2020-02-12,https://medium.com/better-programming/10-insider-vs-code-extensions-for-web-developers-in-2020-91bdef1658c6,General
+1161,94,2020-02-12,https://www.ericsson.com/en/blog/2020/2/how-can-we-democratize-machine-learning-iot-devices,"Machine Learning"
+1162,29,2020-02-12,https://medium.com/swlh/why-highly-intelligent-people-are-miserable-c257f7d0680c?source=grid_home---------0-73-----------------18---d8b5db9b_5695_4e08_ba2e_b19321b93888--3,General
+1163,35,2020-02-12,https://www.epmmagazine.com/opinion/how-data-science-is-driving-genomics-and-pharma/,General
+1164,75,2020-02-12,https://www.einfochips.com/blog/how-ai-can-help-the-fleet-industry-solve-its-most-persistent-problems/,"Machine Learning"
+1167,102,2020-02-12,https://www.geospatialworld.net/blogs/machine-learning-new-era-of-space/,"Machine Learning"
+1168,95,2020-02-12,https://analyticsindiamag.com/the-data-science-market-is-crowded-heres-how-you-can-stand-out/,"Data Science"
+1169,38,2020-02-12,https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3,"Artificial Intelligence"
+1170,77,2020-02-12,https://www.nature.com/articles/s41467-020-14454-2,"Deep Learning"
+1171,101,2020-02-12,https://www.analyticsvidhya.com/blog/2016/12/detailed-solutions-for-skilltest-tree-based-algorithms/,"Machine Learning"
+1172,45,2020-02-12,https://towardsdatascience.com/data-science-minimum-10-essential-skills-you-need-to-know-to-start-doing-data-science-e5a5a9be5991,General
+1173,105,2020-02-12,https://economictimes.indiatimes.com/tech/internet/quantum-supremacy-chase-india-in-select-country-club/articleshow/74055777.cms,General
+1174,78,2020-02-12,https://www.cnbc.com/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html,"Artificial Intelligence"
+1175,81,2020-02-12,https://www.forbes.com/sites/bernardmarr/2020/02/07/how-is-artificial-intelligence-and-machine-learning-used-in-engineering/?fbclid=IwAR2FhHeHgSEWkbfXsTbCYa-ETEI09d_Tgxgor9vCRP_fXzpcbR01GMgvooI#7d167034a85d,"Machine Learning"
+1176,6,2020-02-12,https://fossbytes.com/ubuntu-16-04-lts-users-can-now-hibernate-aws-ec2-instance/,General
+1177,90,2020-02-12,https://www.news18.com/news/tech/this-music-startup-is-using-ai-to-identify-musicians-and-hidden-talent-2498613.html,"Artificial Intelligence"
+1178,104,2020-02-12,https://www.nature.com/articles/s41598-020-59127-8,"Machine Learning"
+1179,89,2020-02-12,https://us.norton.com/internetsecurity-emerging-threats-what-is-the-difference-between-black-white-and-grey-hat-hackers.html,General
+1180,76,2020-02-12,https://www.google.com/amp/s/www.zdnet.com/google-amp/article/oracle-launches-cloud-infrastructure-data-science-service/,"Data Science"
+1181,53,2020-02-12,https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/,"Data Science"
